@@ -1,0 +1,24 @@
+# Quantum Electric Field Receptivity (qefr)
+
+QMU Expression: qefr = eemax2*C3*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: qefr
+
+## Description
+Represents the capacity of the quantum Aether substrate to receive or accommodate electric field changes within a quantum volume at a lower frequency scale than qefs. It combines aspects of charge, volume, and frequency to describe the underlying structure's receptivity to electric field variations.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the quantum vacuum's receptivity to lower-frequency electric field fluctuations
+- Studying how the Aether substrate influences electric field storage or capacitance in quantum systems
+- Characterizing the fundamental limits of electric field gradients in quantum volumes
+- Investigating the interplay between electric and magnetic phenomena in the quantum substrate at lower frequencies
+
+
+## Other Information

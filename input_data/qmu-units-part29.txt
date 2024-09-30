@@ -1,0 +1,81 @@
+# Quantum Volume Oscillation Density (qvod)
+
+## QMU Expression
+qvod = C3*Fq3/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvod
+
+## Description
+Represents the density of quantum volume oscillations per unit mass. It quantifies the relationship between gravitational effects, frequency, mass, specific volume, and quantum intensity in systems and describes the intensity of spatial-temporal fluctuations in the Aether relative to mass and volume.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the interplay between gravity, frequency, mass, volume, and quantum intensity in volumetric phenomena
+- Characterizing materials or systems based on their quantum oscillation properties relative to mass and specific volume
+- Studying quantum systems where gravitational effects, frequency, mass, volume, and quantum intensity all play significant roles
+- Investigating the relationship between spatial-temporal fluctuations, mass distribution, and volumetric properties in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum gravity, cosmology, and in studying the behavior of matter in highly dynamic quantum environments. It might offer insights into the connection between gravity, quantum oscillations, mass, volume, and quantum intensity, potentially informing our understanding of quantum fluctuations in gravitational fields, mass-energy-volume relationships in quantum systems, and the nature of space-time at quantum scales.
+
+# Quantum Aether Gravitational Mobility (qagm)
+
+## QMU Expression
+qagm = C3*Fq2/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qagm
+
+## Description
+Represents the gravitational mobility or responsiveness of a quantum system in the Aether relative to its mass. It quantifies the capacity of a quantum entity to interact gravitationally within the Aether structure and describes the relationship between specific volume, resonance, and mass in gravitational phenomena.
+
+## Relationships
+- qagm = qavm*freq
+- grav = spcv*rson
+- grav = temp/ldns
+- 3.587e45*grav = G = (Gforce*C2)/(ma2)
+
+## Applications
+- Analyzing gravitational effects at the quantum scale
+- Characterizing the gravitational properties of different regions of space in the Aether
+- Studying the relationship between specific volume, resonance, and mass in gravitational phenomena
+- Describing the "quantum Aether gravitational responsiveness" of various particles or materials
+
+## Other Information
+The qagm unit in the APM offers a unique perspective on gravity, viewing it as a property of space rather than a force between masses. This approach aligns with the APM's concept of space density gradients instead of the traditional view of spacetime curvature. The qagm unit provides a tool for analyzing gravitational phenomena in terms of space's capacity to accommodate mass, potentially offering new insights into the nature of gravity at quantum scales and its relationship to other quantum properties of space.
+
+# Quantum Aether Volumetric Flux Mobility (qavm)
+
+## QMU Expression
+qavm = C3*Fq/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qavm
+
+## Description
+Represents the volumetric flux mobility of a quantum system in the Aether relative to its mass. It quantifies the responsiveness of a quantum system to volumetric changes or flow in the Aether per unit mass and describes the capacity of a quantum entity to engage in or respond to volumetric flux within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing quantum fluid dynamics and their dependence on mass
+- Characterizing the volumetric behavior of quantum systems in the Aether
+- Studying the relationship between mass and quantum volumetric flux
+- Describing the "quantum Aether volumetric responsiveness" of various particles or materials
+
+## Other Information
+This unit offers a unique perspective on how quantum systems engage in or respond to volumetric flux within the Aether structure, relative to their mass. By expressing flow per unit mass, qavm allows for the quantification of volumetric quantum phenomena that involve spatial, temporal, and inertial aspects within the Aether framework.
+

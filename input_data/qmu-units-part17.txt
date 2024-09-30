@@ -1,0 +1,120 @@
+# Charge Velocity (chgv)
+
+## QMU Expression
+chgv = C*Fq*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chgv
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Charge Radius (chgr)
+
+## QMU Expression
+chgr = C*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chgr
+
+## Description
+Represents the spatial extent or distribution of electric charge within a particle or system. It is proportional to the Compton wavelength and the magnetic charge.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of charged particles
+- Studying interactions in various physical phenomena
+- Understanding the spatial distribution of charge in quantum systems
+
+## Other Information
+The Charge Radius provides a more realistic description of the physical nature of magnetic charge, taking into account its spatial distribution. It has important implications for understanding the behavior of charged particles and their interactions in various physical phenomena.
+
+# Dynamic Electric Field Oscillation (defo)
+
+## QMU Expression
+defo = Fq3*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+defo
+
+## Description
+Represents the rate of oscillation or fluctuation of an electric field relative to the magnetic charge at the quantum scale. It combines aspects of frequency and charge to describe rapid oscillations in electric fields without explicit spatial dependence.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing high-frequency oscillations in quantum electromagnetic systems
+- Studying the interaction between rapidly changing electric fields and magnetic charges
+- Characterizing ultrafast electric field dynamics in quantum optics and electrodynamics
+- Investigating quantum vacuum fluctuations and their temporal characteristics
+
+## Other Information
+This unit could be particularly useful in contexts where the rapid oscillation of electric fields at the quantum level is of interest, independent of spatial considerations. It might find applications in areas such as quantum optics, high-frequency quantum electronics, and studies of fundamental quantum electrodynamic processes.
+
+# Charge Resonance (crsn)
+
+## QMU Expression
+crsn = Fq2*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+crsn
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Magnetic Current (mcur) or Charge Frequency (chgf)
+
+## QMU Expression
+mcur = Fq*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcur or chgf
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+

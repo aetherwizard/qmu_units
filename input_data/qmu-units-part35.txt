@@ -1,0 +1,104 @@
+# Orbital Volume Evolution (ovev)
+
+## QMU Expression
+ovev = C3*Fq3 = volm*orbt*time
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ovev
+
+## Description
+Represents the evolution of a quantum volume through orbital motion and linear time. It quantifies the interplay between spatial volume, orbital period, and linear temporal progression, and describes the three-dimensional temporal structure of quantum orbital systems.
+
+## Relationships
+- ovev = volm*orbt*time
+
+## Applications
+- Analyzing the behavior of quantum particles in complex orbital systems
+- Characterizing the stability and evolution of atomic and molecular orbitals
+- Studying the interplay between orbital motion and linear time progression in quantum systems
+- Describing quantum processes that involve both cyclic and linear temporal components
+
+## Other Information
+This unit offers a unique perspective on how quantum volumes evolve through both orbital and linear time. The inclusion of orbit time (time squared) reflects the cyclic nature of orbital motion, while the additional linear time dimension accounts for the overall temporal evolution of the system.
+
+# Volumetric Orbital Coherence (voco)
+
+## QMU Expression
+voco = C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+voco
+
+## Description
+Represents the coherence of a quantum volume over a complete orbital cycle. It quantifies the persistence of spatial configuration through one full orbital period and describes the volumetric stability of quantum systems in cyclic motion.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the stability of electron orbitals in atoms
+- Characterizing the coherence of quantum states in cyclic systems
+- Studying the volumetric properties of quantum oscillators
+- Describing the spatial-temporal structure of standing waves in quantum fields
+
+## Other Information
+This unit offers a unique perspective on how quantum volumes maintain coherence through a complete orbital cycle. The inclusion of orbit time (time squared) reflects the complete cycle of orbital motion, providing insight into how quantum systems maintain their volumetric integrity over one full period of cyclic behavior.
+
+# Volume-Time (vlmt)
+
+## QMU Expression
+vlmt = C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+vlmt
+
+## Description
+Represents the product of quantum volume and linear time. It quantifies the persistence or evolution of a quantum volume over a single time unit and describes the fundamental space-time extent of quantum events.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the basic space-time structure of quantum interactions
+- Characterizing the minimal space-time extent of quantum fluctuations
+- Studying the volumetric evolution of quantum states over short time scales
+- Describing the fundamental building blocks of more complex quantum processes
+
+## Other Information
+This unit offers a perspective on the most basic space-time quantum in the Aether Physics Model. It describes how a quantum volume persists or changes over the most basic time interval, providing insight into the foundational nature of space-time in the quantum realm.
+
+# Temporal Area Flux (tafx)
+
+## QMU Expression
+tafx = C2*Fq3 = area*orbt*time
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+tafx
+
+## Description
+Represents the flux of a quantum area through orbital and linear time dimensions. It quantifies the temporal evolution of a two-dimensional quantum surface and describes the interplay between spatial area, orbital cycles, and linear temporal progression.
+
+## Relationships
+- tafx = area*orbt*time
+
+## Applications
+- Analyzing the behavior of quantum surfaces in cyclic systems
+- Characterizing the temporal evolution of two-dimensional quantum structures
+- Studying the interaction between surface phenomena and complex temporal processes
+- Describing quantum processes that involve both cyclic and linear temporal components in planar systems
+
+## Other Information
+This unit offers a unique perspective on how quantum areas evolve through both orbital and linear time. The inclusion of orbit time (time squared) reflects the cyclic nature of orbital motion, while the additional linear time dimension accounts for the overall temporal evolution of the system.
+

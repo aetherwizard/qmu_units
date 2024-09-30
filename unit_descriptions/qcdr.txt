@@ -1,0 +1,24 @@
+# Quantum Charge Distribution Resistance (qcdr)
+
+QMU Expression: qcdr = C2/(eemax2*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qcdr
+
+## Description
+Represents the resistance of a quantum system's charge distribution to rapid fluctuations. It combines the system's charge distribution (chds) with its quantum intensity resistance (qire), describing how the spatial arrangement of charge resists high-frequency changes.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the stability of charge distributions in quantum systems under high-frequency perturbations
+- Studying how two-dimensional quantum structures maintain their charge configurations in dynamic environments
+- Characterizing the robustness of charge-based quantum states against rapid fluctuations
+- Investigating the relationship between spatial charge patterns and high-frequency behavior in quantum materials
+
+
+## Other Information

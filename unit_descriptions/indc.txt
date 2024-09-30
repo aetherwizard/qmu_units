@@ -1,0 +1,25 @@
+# Inductance (indc)
+
+QMU Expression: indc = meC2eemax2
+
+SI Equivalent: Same unit as in MKS / SI
+
+Shorthand: indc
+
+## Description
+Measures a coil's magnetic field strength.
+
+
+## Relationships
+- indc = areamchg: Related to area and magnetic charge.
+- lengindc = curl2: Calculate the curl of a solenoid coil.
+- indcleng = 2perm: Reciprocal of curl gives the number of turns of the coil.
+- indc = 2Npermleng: Inductance of a coil in QMU.
+
+
+## Applications
+- Solenoid coil design
+- Electromagnetic device design
+
+
+## Other Information

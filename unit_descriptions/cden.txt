@@ -1,0 +1,23 @@
+# Conductance Density (cden)
+
+QMU Expression: cdns = eemax2C2Fq
+
+SI Equivalent: Information not available
+
+Shorthand: cdns
+
+## Description
+Quantifies the density or concentration of conductance within a material or system.
+
+
+## Relationships
+- cdns = efxd*freq: Conductance density can be calculated by multiplying the electric flux density by the frequency.
+
+
+## Applications
+- Nanoscale electronic device design
+- Quantum transport studies
+- Material science research
+
+
+## Other Information

@@ -1,0 +1,24 @@
+# Area-Time Flux (atfx)
+
+QMU Expression: atfx = C2*Fq2 = area*orbt
+
+SI Equivalent: Information not available
+
+Shorthand: atfx
+
+## Description
+Represents the flux of a quantum area through a complete orbital cycle. It quantifies the persistence or evolution of a two-dimensional quantum surface over one orbital period and describes the interplay between spatial area and cyclic temporal behavior.
+
+
+## Relationships
+- atfx = area*orbt
+
+
+## Applications
+- Analyzing the stability of two-dimensional quantum structures in cyclic systems
+- Characterizing the coherence of surface states in atomic and molecular orbitals
+- Studying the behavior of quantum Hall systems and other two-dimensional quantum effects
+- Describing the spatial-temporal structure of standing waves on quantum surfaces
+
+
+## Other Information

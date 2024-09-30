@@ -1,0 +1,26 @@
+# Specific Volume (spcv)
+
+QMU Expression: spcv = C3/me
+
+SI Equivalent: Information not available
+
+Shorthand: spcv
+
+## Description
+Represents the volume occupied per unit mass at the quantum scale. It quantifies the inverse density of matter within the Aether structure and describes the spatial extent of mass distribution in quantum systems.
+
+
+## Relationships
+- spcv = volm/mass
+- spcv = 1/masd
+- spcv = enrg/(pres*mass)
+
+
+## Applications
+- Analyzing quantum state equations and phase transitions
+- Characterizing the compressibility of quantum materials and fluids
+- Studying the relationship between mass and volume in quantum systems
+- Describing quantum fluctuations in density and their effects on space
+
+
+## Other Information

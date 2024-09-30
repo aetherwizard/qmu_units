@@ -1,0 +1,26 @@
+# Pressure Diffusion Rate (pdrt)
+
+QMU Expression: pdrt = me*Fq3/C = ldns*qinf = pres*freq = visc*rson
+
+SI Equivalent: Information not available
+
+Shorthand: pdrt
+
+## Description
+Represents the rate at which pressure or stress diffuses through a medium at the quantum scale. It quantifies the speed of pressure propagation or stress relaxation in a quantum system and describes the dynamic behavior of pressure waves or stress fields in the Aether.
+
+
+## Relationships
+- pdrt = ldns*qinf
+- pdrt = pres*freq
+- pdrt = visc*rson
+
+
+## Applications
+- Analyzing the propagation of pressure waves in quantum fluids
+- Characterizing the stress relaxation times in quantum materials
+- Studying the relationship between pressure, viscosity, and frequency in quantum systems
+- Describing the dynamics of stress fields in the quantum vacuum
+
+
+## Other Information

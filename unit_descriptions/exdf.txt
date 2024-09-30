@@ -1,0 +1,23 @@
+# Exposure Diffusion Flux (exdf)
+
+QMU Expression: exdf = eemax2meCFq
+
+SI Equivalent: Information not available
+
+Shorthand: exdf
+
+## Description
+Represents the diffusion and transmission of magnetism and charge as magnetic moment through the Aether via photons.
+
+
+## Relationships
+- exdf = magm*phtn: Exposure Diffusion Flux relates the exposure of the electron's intrinsic magnetism and charge to its diffusion through the quantum Aether at the velocity scale.
+
+
+## Applications
+- Quantum electrodynamics
+- Photon-electron interactions
+- Electromagnetic propagation
+
+
+## Other Information

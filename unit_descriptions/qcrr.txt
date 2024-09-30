@@ -1,0 +1,24 @@
+# Quantum Charge Radius Resistance (qcrr)
+
+QMU Expression: qcrr = C/(eemax2*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qcrr
+
+## Description
+Represents the resistance of a quantum system's charge radius to rapid fluctuations. It combines the system's charge radius (chgr) with its quantum intensity resistance (qire), describing how the radial extent of charge distribution resists high-frequency changes.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the stability of charge radii in quantum systems under high-frequency perturbations
+- Studying how one-dimensional or radially symmetric quantum structures maintain their charge configurations in dynamic environments
+- Characterizing the robustness of radially distributed charge-based quantum states against rapid fluctuations
+- Investigating the relationship between charge radius and high-frequency behavior in quantum dots or atomic systems
+
+
+## Other Information

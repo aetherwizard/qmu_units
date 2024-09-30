@@ -1,0 +1,24 @@
+# Quantum Electric Charge Fluctuation (ecfx)
+
+QMU Expression: ecfx = 1/(eemax2*Fq)
+
+SI Equivalent: Information not available
+
+Shorthand: ecfx
+
+## Description
+Represents the magnitude of electric charge variations or fluctuations in a quantum system over a single quantum time period, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse quantum frequency to describe the basic dynamic behavior of electric charge at the quantum scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the basic fluctuations of electric charge in quantum systems
+- Study of fundamental charge behavior in quantum electrodynamics
+- Characterization of the intrinsic variability of charge-related quantum phenomena in various systems
+- Investigation of the interplay between fluctuating electric charges and magnetic phenomena at the most basic quantum level
+
+
+## Other Information

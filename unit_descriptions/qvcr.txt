@@ -1,0 +1,24 @@
+# Quantum Volumetric Charge Reluctance (qvcr)
+
+QMU Expression: qvcr = C3/(eemax2*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qvcr
+
+## Description
+Represents the ratio of a quantum system's specific charge to its resonant frequency squared. It describes the resistance of a quantum volume to moderate-frequency changes in its charge state, balancing the spatial distribution of charge against the system's natural oscillatory behavior.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing how charge distribution affects a quantum system's response to moderate-frequency electromagnetic fields
+- Studying the relationship between spatial charge configuration and temporal oscillatory behavior in quantum structures
+- Characterizing the balance between charge localization and resonant response in quantum materials
+- Investigating how the interplay of specific charge and resonance influences charge stability in quantum devices
+
+
+## Other Information

@@ -1,0 +1,130 @@
+# Transverse Surface Wave (tvsw)
+
+## QMU Expression
+tvsw = Fq/C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+tvsw
+
+## Description
+Represents the frequency of quantum waves or oscillations per unit area on a surface or interface. It quantifies the density of wave phenomena in a two-dimensional quantum system and describes the rate of quantum fluctuations or oscillations occurring across a given surface area.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of wave activity on quantum interfaces or surfaces
+- Characterizing the density of quantum fluctuations on material boundaries or interfaces
+- Studying the relationship between surface area and the frequency of quantum waves
+- Describing the "surface wave activity" of different physical environments or states of matter
+
+## Other Information
+The linear relationship with frequency, coupled with the inverse square relationship to length, emphasizes how surface wave phenomena are sensitive to both the characteristic frequency of the system and its spatial dimensions. This could lead to insights into scale-dependent surface wave effects, the behavior of quantum waves at interfaces, or the nature of quantum fluctuations on surfaces.
+
+# Scalar Quantum Oscillation Density (sqod)
+
+## QMU Expression
+sqod = Fq3/C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+sqod
+
+## Description
+Represents the density of quantum oscillations along a linear dimension or path. It quantifies the rate of quantum fluctuations per unit length in the Aether and describes the intensity of quantum activity along a one-dimensional trajectory or line.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of quantum energy along linear structures or paths
+- Characterizing the intensity of quantum fluctuations in one-dimensional systems
+- Studying the relationship between spatial scale and quantum activity in linear quantum systems
+- Describing the "quantum linear density" of various physical systems or environments
+
+## Other Information
+The cubic relationship with frequency emphasizes how small changes in frequency can lead to large changes in the linear quantum activity. This could lead to insights into threshold effects or phase transitions in one-dimensional quantum systems. This unit could be particularly relevant in discussions of quantum transport, one-dimensional condensed matter systems, and in understanding the behavior of quantum fields confined to linear geometries.
+
+# Scalar Resonance (sclr)
+
+## QMU Expression
+sclr = Fq2/C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+sclr
+
+## Description
+Represents the intensity of resonant phenomena along a linear dimension or path. It quantifies the density of resonant modes or standing waves in a one-dimensional quantum system and describes the capacity of a linear structure to sustain coherent oscillations at the quantum level.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of resonant modes along linear structures
+- Characterizing the density of standing waves in one-dimensional quantum systems
+- Studying the relationship between spatial scale and the capacity for coherent oscillations in linear paths
+- Describing the "linear resonance capacity" of different physical structures or materials
+
+## Other Information
+The square relationship with frequency and inverse relationship with length emphasizes how resonant phenomena in linear systems are sensitive to both the characteristic frequency of the system and its spatial dimension. This could lead to insights into size-dependent resonant effects in nanostructures, quantum confinement in one-dimensional systems, or the behavior of quantum waves in linear potentials.
+
+# Scalar Wave (sclw)
+
+## QMU Expression
+sclw = Fq/C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+sclw
+
+## Description
+Represents the frequency of quantum waves or oscillations per unit length along a linear dimension or path. It quantifies the density of wave phenomena in a one-dimensional quantum system and describes the rate of quantum fluctuations or oscillations occurring along a given linear path.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of wave activity along quantum wires or linear structures
+- Characterizing the density of quantum fluctuations in one-dimensional systems
+- Studying the relationship between length and the frequency of quantum waves in linear geometries
+- Describing the "linear wave activity" of different physical environments or states of matter
+
+## Other Information
+This unit directly relates the quantum frequency to the Compton wavelength, allowing for the quantification of wave activity per unit length. It could be instrumental in understanding phenomena such as electron wave functions in quantum wires, propagation of electromagnetic waves in waveguides, phonon transport in one-dimensional lattices, and quantum information transfer along linear channels.
+
+# Eddy Current (eddy)
+
+## QMU Expression
+eddy = mflx2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+eddy
+
+## Description
+Represents the intensity of circulating currents induced in a conducting material. It quantifies the strength of magnetic flux interactions within a medium and describes the energy dissipation due to induced currents in response to changing magnetic fields.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing energy losses in transformers and electric motors
+- Characterizing the electromagnetic damping in conductive materials
+- Studying the shielding effectiveness of materials against electromagnetic interference
+- Describing the heat generation in induction heating processes
+
+## Other Information
+The square relationship with magnetic flux emphasizes the non-linear nature of eddy current effects. Small changes in magnetic flux can lead to significant changes in eddy current intensity, which has important implications for energy efficiency and heat generation in electromagnetic systems. This unit could be particularly relevant in discussions of electromagnetic induction, power loss in electrical systems, and in understanding the behavior of materials in time-varying magnetic fields.
+

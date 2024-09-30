@@ -1,0 +1,23 @@
+# Electric Charge Gradient (elcg)
+
+QMU Expression: elcg = eemax2*C
+
+SI Equivalent: Information not available
+
+Shorthand: elcg
+
+## Description
+Quantifies the rate at which the electric potential changes over a unit Compton wavelength in the Aether. It represents the spatial variation or gradient of the electric potential within the Aether.
+
+
+## Relationships
+- potn = elcg*fric: Relating electric potential to electric charge gradient and friction
+
+
+## Applications
+- Analysis of electrostatic potential generation by frictional forces
+- Study of charge alignment and distribution in static electricity phenomena
+- Investigation of electric potential propagation and storage in the Aether
+
+
+## Other Information

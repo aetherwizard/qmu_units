@@ -1,0 +1,130 @@
+# Quantum Volumetric Charge Inertia (qvci)
+
+## QMU Expression
+qvci = C3/(eemax2*Fq3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvci
+
+## Description
+Represents the resistance of a quantum volume to rapid changes in its charge state. It combines aspects of quantum volume, inverse magnetic charge, and inverse high-frequency oscillations to describe the tendency of a three-dimensional quantum space to maintain its charge distribution against very rapid fluctuations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the stability of charge distributions in quantum dots or nanostructures
+- Studying the resistance to rapid charge fluctuations in three-dimensional quantum systems
+- Characterizing the robustness of quantum states against high-frequency perturbations
+- Investigating the interplay between charge stability and magnetic properties in quantum volumes
+
+## Other Information
+This dynamic unit could be particularly useful in understanding how three-dimensional quantum systems resist rapid changes in their charge distributions. It might provide insights into phenomena such as the stability of quantum information stored in charge states, the robustness of three-dimensional topological states, or the behavior of charge in quantum materials under high-frequency electromagnetic fields.
+
+# Quantum Volumetric Charge Reluctance (qvcr)
+
+## QMU Expression
+qvcr = C3/(eemax2*Fq2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvcr
+
+## Description
+Represents the ratio of a quantum system's specific charge to its resonant frequency squared. It describes the resistance of a quantum volume to moderate-frequency changes in its charge state, balancing the spatial distribution of charge against the system's natural oscillatory behavior.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing how charge distribution affects a quantum system's response to moderate-frequency electromagnetic fields
+- Studying the relationship between spatial charge configuration and temporal oscillatory behavior in quantum structures
+- Characterizing the balance between charge localization and resonant response in quantum materials
+- Investigating how the interplay of specific charge and resonance influences charge stability in quantum devices
+
+## Other Information
+This understanding of qvcr as the ratio of specific charge to resonance provides a more nuanced view of charge behavior in quantum systems. It highlights the interplay between the spatial aspect of charge distribution and the temporal aspect of resonant frequency.
+
+# Quantum Volumetric Charge Persistence (qvcp)
+
+## QMU Expression
+qvcp = C3/(eemax2*Fq)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvcp
+
+## Description
+Represents the tendency of a quantum volume to maintain its charge distribution over time. It combines the system's specific charge (spch) with the inverse of its fundamental frequency (freq), describing how the spatial charge distribution relates to the system's basic temporal scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the stability of charge configurations in quantum systems over their characteristic time scales
+- Studying how charge distributions evolve in time for various quantum structures
+- Characterizing the longevity of charge-based quantum states
+- Investigating the relationship between spatial charge patterns and temporal evolution in quantum materials
+
+## Other Information
+This unit provides insight into how charge distributions persist over the fundamental time scales of quantum systems. It could be particularly useful in understanding phenomena such as charge retention in quantum dots, the lifetime of charge-based qubits, or the stability of charge configurations in molecular systems.
+
+# Specific Charge (spch)
+
+## QMU Expression
+spch = C3*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+spch
+
+## Description
+Represents the amount of quantum volume associated with a unit of magnetic charge. It describes the spatial distribution of charge within a quantum system, indicating how "spread out" or "concentrated" the charge is in three-dimensional quantum space.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the charge density distributions in quantum systems
+- Studying how charge spreads out in various quantum structures like atoms, molecules, or quantum dots
+- Characterizing the spatial extent of charge-based quantum states
+- Investigating the relationship between charge distribution and quantum confinement effects
+
+## Other Information
+This unit provides a fundamental measure of how charge is distributed in quantum space. It could be particularly useful in understanding phenomena such as electron orbitals in atoms, charge delocalization in molecules, or charge confinement in nanostructures.
+
+# Quantum Charge Distribution Resistance (qcdr)
+
+## QMU Expression
+qcdr = C2/(eemax2*Fq3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qcdr
+
+## Description
+Represents the resistance of a quantum system's charge distribution to rapid fluctuations. It combines the system's charge distribution (chds) with its quantum intensity resistance (qire), describing how the spatial arrangement of charge resists high-frequency changes.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the stability of charge distributions in quantum systems under high-frequency perturbations
+- Studying how two-dimensional quantum structures maintain their charge configurations in dynamic environments
+- Characterizing the robustness of charge-based quantum states against rapid fluctuations
+- Investigating the relationship between spatial charge patterns and high-frequency behavior in quantum materials
+
+## Other Information
+This unit provides insight into how charge distributions in quantum systems resist rapid changes. It could be particularly useful in understanding phenomena such as the stability of charge configurations in two-dimensional materials under high-frequency fields, the resilience of charge-based qubits to noise, or the behavior of surface charges in nanostructures under rapid perturbations.
+

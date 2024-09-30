@@ -1,0 +1,24 @@
+# Temporal Area Flux (tafx)
+
+QMU Expression: tafx = C2*Fq3 = area*orbt*time
+
+SI Equivalent: Information not available
+
+Shorthand: tafx
+
+## Description
+Represents the flux of a quantum area through orbital and linear time dimensions. It quantifies the temporal evolution of a two-dimensional quantum surface and describes the interplay between spatial area, orbital cycles, and linear temporal progression.
+
+
+## Relationships
+- tafx = area*orbt*time
+
+
+## Applications
+- Analyzing the behavior of quantum surfaces in cyclic systems
+- Characterizing the temporal evolution of two-dimensional quantum structures
+- Studying the interaction between surface phenomena and complex temporal processes
+- Describing quantum processes that involve both cyclic and linear temporal components in planar systems
+
+
+## Other Information

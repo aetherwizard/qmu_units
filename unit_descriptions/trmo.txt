@@ -1,0 +1,21 @@
+# Trivariate Magnetic Oscillation (trmo)
+
+QMU Expression: trmo = C3*Fq3*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: trmo
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

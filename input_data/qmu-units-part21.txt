@@ -1,0 +1,158 @@
+# Quantum Electric Field Susceptibility (efsu)
+
+## QMU Expression
+efsu = eemax2*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efsu
+
+## Description
+Represents the capacity of the quantum Aether substrate to respond to and support moderate-frequency electric field changes, independent of spatial dimensions. It combines aspects of charge and frequency to describe the underlying structure's responsiveness to electric field variations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's inherent capacity to support electric field fluctuations
+- Studying how the Aether substrate influences the propagation of moderate-frequency electric field oscillations
+- Characterizing the fundamental response of the quantum substrate to electric field perturbations
+- Investigating the interplay between electric and magnetic phenomena in quantum electrodynamics at moderate frequencies
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field behavior in the quantum vacuum at moderate frequencies, independent of specific geometric configurations. It might provide insights into phenomena such as vacuum polarizability, the Lamb shift, or the behavior of virtual electron-positron pairs in moderately changing fields.
+
+# Quantum Electric Field Permittivity (efpt)
+
+## QMU Expression
+efpt = eemax2*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efpt
+
+## Description
+Represents the fundamental capacity of the quantum Aether substrate to support and sustain electric fields, independent of spatial dimensions. It combines aspects of charge and frequency to describe the underlying structure's basic ability to accommodate electric fields.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's intrinsic ability to support and sustain electric fields
+- Studying how the Aether substrate influences the basic behavior of electric fields in quantum systems
+- Characterizing the fundamental limits of electric field strength in the quantum substrate
+- Investigating the interplay between electric and magnetic phenomena at the most basic level of quantum electrodynamics
+
+## Other Information
+This substrate unit could be particularly useful in understanding the most fundamental nature of electric fields in the quantum vacuum, independent of specific geometric configurations or high-frequency effects. It might provide insights into phenomena such as the vacuum permittivity, the basic structure of the quantum electromagnetic vacuum, or the foundational aspects of charge shielding in quantum systems.
+
+# Charge (chrg)
+
+## QMU Expression
+chrg = eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chrg
+
+## Description
+Represents the fundamental unit of electric charge in the Quantum Measurement Units system.
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Light (ligt)
+
+## QMU Expression
+ligt = me*C3*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ligt
+
+## Description
+Represents the flow of angular momentum waves through space. It quantifies light as either transverse waves or scalar waves of angular momentum, describing light without invoking concepts of mass or charge density.
+
+## Relationships
+- ligt = angm*tvsw*flow
+- ligt = angm*sclw*swep
+- ligt = volm*irrd
+- ligt = phtn*freq
+
+## Applications
+- Analyzing light propagation in various media and geometries
+- Characterizing light in terms of its fundamental angular momentum nature
+- Studying the behavior of light as both transverse and scalar waves
+- Describing light phenomena without relying on particle-based or charge-based models
+
+## Other Information
+The Light (ligt) unit offers a unique perspective on the nature of light as flows of angular momentum waves. It captures the wave essence of light without invoking particle or charge concepts.
+
+# Photon (phtn)
+
+## QMU Expression
+phtn = me*C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+phtn
+
+## Description
+Represents a radially expanding burst of angular momentum in the Aether. It quantifies the transfer of angular momentum from an electron's orbital transition to the surrounding Aether.
+
+## Relationships
+- phtn = h*c
+- phtn = irrd*vlmt
+
+## Applications
+- Analyzing the radial expansion of angular momentum in the Aether
+- Characterizing the fundamental process of light emission in terms of electron orbital transitions
+- Studying the relationship between irradiance and volume-time in photon propagation
+- Describing the inverse square law of irradiance as a natural consequence of photon expansion
+
+## Other Information
+The Photon (phtn) unit offers a unique perspective on the nature of light emission and propagation as described by the APM. By defining the photon as a radially expanding burst of angular momentum, it represents the dynamic transfer of angular momentum from electron transitions to the Aether, rather than a particle or energy packet.
+
+# Quantum Angular Reach (qanr)
+
+## QMU Expression
+qanr = me*C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qanr
+
+## Description
+Represents the three-dimensional distribution of angular momentum in quantum systems. It quantifies the "reach" or "influence" of a quantum particle's angular momentum over space.
+
+## Relationships
+- qanr = angm*leng
+- magm = qanr*curl
+
+## Applications
+- Analyzing quantum vortex formation and behavior in superfluids and Bose-Einstein condensates
+- Characterizing rotational properties of quantum systems, including spin and orbital angular momentum
+- Studying quantum turbulence and vortex dynamics in quantum fluids
+- Describing fundamental rotational aspects of particles and fields in quantum mechanics
+
+## Other Information
+The Quantum Angular Reach (qanr) unit offers a unique perspective on how quantum angular momentum manifests in space. It suggests that the influence of a particle's spin or orbital angular momentum is not confined to a point but extends over a volume of space.
+

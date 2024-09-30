@@ -1,0 +1,24 @@
+# Transverse Surface Resonance (tvsr)
+
+QMU Expression: tvsr = Fq2/C2
+
+SI Equivalent: Information not available
+
+Shorthand: tvsr
+
+## Description
+Represents the intensity of resonant phenomena across a two-dimensional surface or interface. It quantifies the density of resonant modes or standing waves in a planar quantum system and describes the capacity of a surface to sustain coherent oscillations at the quantum level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of resonant modes on surfaces or interfaces
+- Characterizing the density of standing waves in two-dimensional quantum systems
+- Studying the relationship between spatial scale and the capacity for coherent oscillations on surfaces
+- Describing the "surface resonance capacity" of different physical interfaces or materials
+
+
+## Other Information

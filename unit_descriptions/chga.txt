@@ -1,0 +1,21 @@
+# Charge Acceleration (chga)
+
+QMU Expression: chga = C*Fq2*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chga
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

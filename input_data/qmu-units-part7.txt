@@ -1,0 +1,234 @@
+# Admittance (admt)
+
+## QMU Expression
+admt = chrg/mflx
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+admt
+
+## Description
+Represents the magnetic admittance, which is the ease with which magnetic flux can change in a system.
+
+## Relationships
+- admt = chrg/mflx: Where chrg is magnetic charge and mflx is magnetic flux.
+
+## Applications
+- Magnetic circuit analysis and design
+- Calculation of magnetic loss and energy transfer
+- Analysis of magnetic induction
+
+## Other Information
+admt is analogous to electrical admittance in circuit analysis but specifically pertains to magnetic charge and flux. It is the inverse of magnetic impedance. A higher admt indicates magnetic flux changes more readily and depends on the magnetic properties of the material/system. Magnetically "soft" materials have higher admittance.
+
+# Magnetic Reluctance (mrlc)
+
+## QMU Expression
+mrlc = curr/mflx
+
+## SI Equivalent
+S = amp-turns/weber
+
+## Shorthand
+mrlc
+
+## Description
+Represents the opposition offered by the magnetic circuit to the magnetic flux.
+
+## Relationships
+- mrlc = curr/mflx: Where curr is magnetic current and mflx is magnetic flux.
+
+## Applications
+- Magnetic circuit analysis
+- Design of electromagnetic devices
+- Study of magnetic materials
+
+## Other Information
+mrlc is the inverse of magnetic permeance. A higher mrlc indicates more reluctance or resistance to magnetic flux. Magnetic materials with high permeability have low reluctance and vice versa for low permeability materials.
+
+# Magnetic Current Impedance (mcri)
+
+## QMU Expression
+mcri = curr/mflx
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcri
+
+## Description
+Represents the opposition or difficulty of establishing magnetic flux per unit of magnetic current.
+
+## Relationships
+- mcri = curr/mflx
+- mcri = 1/magp: Where magp is magnetic permeance.
+
+## Applications
+- Analysis of magnetic current flow
+- Study of magnetic flux establishment in materials
+
+## Other Information
+The dimensional structure of mcri is eemax4/(meCFq2). This dimensional structure can be interpreted as the ratio of magnetic charge raised to the fourth power to the product of electron mass, Compton wavelength, and quantum frequency squared.
+
+# Magnetic Field Resistance (mfdr)
+
+## QMU Expression
+mfdr = 1/(chgr*mfxd) = curr/elfs
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfdr
+
+## Description
+Represents the magnetic field resistance per unit charge.
+
+## Relationships
+- mfdr = 1/(chgr*mfxd): Where chgr is charge radius and mfxd is magnetic flux density.
+- mfdr = curr/elfs: Where curr is magnetic current and elfs is electric field strength.
+
+## Applications
+- Study of magnetic field behavior in various materials
+- Analysis of magnetic resistance in electromagnetic systems
+
+## Other Information
+The dimensional structure of mfdr is eemax4/(meCFq). This can be interpreted as the ratio of magnetic charge raised to the fourth power to the product of electron mass, Compton wavelength, and quantum frequency.
+
+# Magnetic Field Energy (mfen)
+
+## QMU Expression
+mfen = mfdi*cden = cond*chvl
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfen
+
+## Description
+Represents the energy associated with the magnetic field due to the flow of magnetic current.
+
+## Relationships
+- mfen = mfdi*cden: Where mfdi is magnetic field intensity and cden is conductance density.
+- mfen = cond*chvl: Where cond is conductance and chvl is charge velocity.
+
+## Applications
+- Analysis of magnetic energy density in systems
+- Study of magnetic power transfer
+
+## Other Information
+The dimensional structure of mfen is eemax4/(meC). This can be interpreted as the ratio of magnetic charge raised to the fourth power to the product of electron mass and Compton wavelength.
+
+# Magnetic Charge per Unit Potential (mcup)
+
+## QMU Expression
+mcup = sfch/potn = magm*chrg/powr
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcup
+
+## Description
+Represents the amount of magnetic charge per unit of potential energy or power.
+
+## Relationships
+- mcup = sfch/potn: Where sfch is surface charge and potn is potential.
+- mcup = magm*chrg/powr: Where magm is magnetic moment, chrg is charge, and powr is power.
+
+## Applications
+- Analysis of charge capacity in magnetic systems
+- Study of charge efficiency in magnetic power systems
+
+## Other Information
+The dimensional structure of mcup is eemax4/(meFq2). This can be interpreted as the ratio of magnetic charge raised to the fourth power to the product of electron mass and quantum frequency squared.
+
+# Magneto-Spatial Impedance Ratio (msir)
+
+## QMU Expression
+msir = area/resn = magm/potn = sfch/mflx
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+msir
+
+## Description
+Represents a fundamental ratio that connects spatial, resistive, magnetic, and electric properties.
+
+## Relationships
+- msir = area/resn: Where area is spatial area and resn is resistance.
+- msir = magm/potn: Where magm is magnetic moment and potn is potential.
+- msir = sfch/mflx: Where sfch is surface charge and mflx is magnetic flux.
+
+## Applications
+- Analysis of magnetic materials
+- Study of charge distribution in electromagnetic systems
+- Investigation of impedance in electromagnetic systems
+
+## Other Information
+The msir unit provides insights into how magnetic fields, electric charges, and impedance are intertwined and influence each other in a given system.
+
+# Charge Surface Temporal Confinement Coefficient (cscc)
+
+## QMU Expression
+cscc = time*sfch
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+cscc
+
+## Description
+Quantifies the temporal confinement or persistence of charge on a surface.
+
+## Relationships
+- cscc = time*sfch: Where time is temporal duration and sfch is surface charge.
+
+## Applications
+- Analysis of charge distribution dynamics
+- Study of charged surfaces' stability
+- Design of insulator and dielectric materials
+- Development of electrostatic discharge (ESD) protection systems
+- Optimization of charge transfer devices
+
+## Other Information
+A higher cscc value implies that the charge is more strongly confined and persists for a longer time, while a lower cscc value suggests that the charge dissipates or spreads out more quickly.
+
+# Electromagnetic Interaction Density (emid)
+
+## QMU Expression
+emid = expr*chrg = chrg/mchg = magm/mflx = plsm/potn
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+emid
+
+## Description
+Represents the combined effect of electric charge and magnetic charge-mass interaction.
+
+## Relationships
+- emid = expr*chrg: Where expr is exposure and chrg is charge.
+- emid = chrg/mchg: Where mchg is magnetism or magnetic charge.
+- emid = magm/mflx: Where magm is magnetic moment and mflx is magnetic flux.
+- emid = plsm/potn: Where plsm is plasma and potn is potential.
+
+## Applications
+- Analysis of electromagnetic field strength and distribution
+- Study of electromagnetic energy density
+- Investigation of electromagnetic stress and pressure
+- Analysis of electromagnetic wave amplitude
+- Study of plasma behavior and generation
+
+## Other Information
+The emid unit offers a comprehensive and unified approach to describing the interplay between electric charge, magnetic charge, magnetic moment, magnetic flux, and plasma within the framework of the Quantum Measurement Units system.
+

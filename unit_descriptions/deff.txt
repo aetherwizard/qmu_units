@@ -1,0 +1,24 @@
+# Dynamic Electric Field Flux (deff)
+
+QMU Expression: deff = C*Fq3*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: deff
+
+## Description
+Represents the rate of change of electric field flux through a linear quantum dimension. It combines aspects of length, frequency, and charge to describe how electric field flux varies rapidly in quantum systems.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing rapidly changing electric field flux in quantum wire systems
+- Studying dynamic electromagnetic phenomena in one-dimensional quantum structures
+- Characterizing fast-switching behavior in quantum devices with linear geometries
+- Investigating quantum electrodynamic effects in systems with linear confinement
+
+
+## Other Information

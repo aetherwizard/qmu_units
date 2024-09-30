@@ -1,0 +1,24 @@
+# Quantum Charge Radius Periodicity (qcrp)
+
+QMU Expression: qcrp = C/(eemax2*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qcrp
+
+## Description
+Represents the characteristic time scale over which a quantum system's charge radius completes a cycle or returns to its initial state. It combines the system's charge radius (chgr) with its orbital period (orbt), describing how the radial extent of charge distribution relates to its temporal cyclic behavior.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the cyclic behavior of charge radii in quantum systems
+- Studying how radially symmetric quantum structures evolve over their characteristic time scales
+- Characterizing the temporal stability of radially distributed charge-based quantum states
+- Investigating the relationship between charge radius and temporal periodicity in atomic or molecular systems
+
+
+## Other Information

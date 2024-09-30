@@ -1,0 +1,24 @@
+# Volume-Time (vlmt)
+
+QMU Expression: vlmt = C3*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: vlmt
+
+## Description
+Represents the product of quantum volume and linear time. It quantifies the persistence or evolution of a quantum volume over a single time unit and describes the fundamental space-time extent of quantum events.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the basic space-time structure of quantum interactions
+- Characterizing the minimal space-time extent of quantum fluctuations
+- Studying the volumetric evolution of quantum states over short time scales
+- Describing the fundamental building blocks of more complex quantum processes
+
+
+## Other Information

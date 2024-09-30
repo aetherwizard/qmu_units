@@ -1,0 +1,24 @@
+# Quantum Electric Charge Jerk (qecj)
+
+QMU Expression: qecj = 1/(eemax2*C*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qecj
+
+## Description
+Represents the rate of change of electric charge acceleration along a quantum linear dimension. It combines aspects of inverse magnetic charge and the inverse of quantum dynamic frequency to describe the dynamic jerk (rate of change of acceleration) of electric charge in a one-dimensional quantum system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the rapid changes in acceleration of electric charges in quantum wire-like structures
+- Study of the response of charge carriers to abruptly changing electric fields in one-dimensional quantum systems
+- Characterization of the higher-order dynamics of charge in quantum transport phenomena
+- Investigation of the interplay between electric charge jerk and magnetic effects in linear quantum structures
+
+
+## Other Information

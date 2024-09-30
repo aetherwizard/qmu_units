@@ -1,0 +1,27 @@
+# Quantum Aether Gravitational Mobility (qagm)
+
+QMU Expression: qagm = C3*Fq2/me
+
+SI Equivalent: Information not available
+
+Shorthand: qagm
+
+## Description
+Represents the gravitational mobility or responsiveness of a quantum system in the Aether relative to its mass. It quantifies the capacity of a quantum entity to interact gravitationally within the Aether structure and describes the relationship between specific volume, resonance, and mass in gravitational phenomena.
+
+
+## Relationships
+- qagm = qavm*freq
+- grav = spcv*rson
+- grav = temp/ldns
+- 3.587e45*grav = G = (Gforce*C2)/(ma2)
+
+
+## Applications
+- Analyzing gravitational effects at the quantum scale
+- Characterizing the gravitational properties of different regions of space in the Aether
+- Studying the relationship between specific volume, resonance, and mass in gravitational phenomena
+- Describing the "quantum Aether gravitational responsiveness" of various particles or materials
+
+
+## Other Information

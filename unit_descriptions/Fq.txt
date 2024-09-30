@@ -1,0 +1,21 @@
+# Quantum frequency (Fq)
+
+## Symbol
+Fq
+
+## Description
+The quantum frequency (Fq) is a fundamental unit of dimension in the QMU system, representing a characteristic frequency associated with quantum phenomena. It is closely related to the energy of quantum systems and plays a crucial role in describing the temporal behavior of quantum mechanical processes. The quantum frequency is essential in understanding phenomena such as wave-particle duality and the quantization of energy levels.
+
+## Key Points
+- Fundamental unit of dimension in QMU
+- Represents a characteristic quantum mechanical frequency
+- Essential in describing the temporal aspects of quantum phenomena
+- Related to the energy of quantum systems through Planck's constant
+
+## Relationships
+- Used in combination with other base units (me, λC, eemax) to derive more complex units in the QMU system
+- Plays a role in defining quantities such as energy, angular momentum, and action in quantum mechanics
+- Connected to the concept of wave-particle duality
+
+## Historical Note
+The concept of quantum frequency emerged from the early development of quantum mechanics and has been crucial in understanding phenomena such as blackbody radiation and the photoelectric effect.

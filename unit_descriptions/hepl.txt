@@ -1,0 +1,24 @@
+# Helical Path Length (hepl)
+
+QMU Expression: hepl = C*Fq3
+
+SI Equivalent: Information not available
+
+Shorthand: hepl
+
+## Description
+Represents the characteristic length of a helical path traced by a quantum entity in space-time. It quantifies the spatial extent of orbital motion when considering both rotation and translation, and describes the average radius or total path length of quantum systems undergoing periodic motion in a moving reference frame.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the behavior of quantum particles in complex orbital systems, like electrons in atoms moving through space
+- Characterizing the effective "reach" or influence of quantum systems undergoing both rotation and translation
+- Studying the coupling between different scales of motion in quantum phenomena, from atomic to galactic
+- Describing quantum coherence lengths in systems with multiple, nested periodic motions
+
+
+## Other Information

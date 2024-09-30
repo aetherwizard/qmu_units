@@ -1,0 +1,23 @@
+# Converging Electric Field (cvef)
+
+QMU Expression: cvef = eemax2meFq2
+
+SI Equivalent: Information not available
+
+Shorthand: cvef
+
+## Description
+Represents the tendency of the quantum Aether to draw energy, fields, and matter toward a central point.
+
+
+## Relationships
+- cvef = volm*Au: This structure gives cvef the proper dimensions to represent the inverse effect of the spreading, diverging electric field unit (dvef).
+
+
+## Applications
+- Quantum field theory
+- Particle physics
+- Cosmology
+
+
+## Other Information

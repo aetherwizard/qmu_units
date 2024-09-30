@@ -1,0 +1,25 @@
+# Surface Density (sfcd)
+
+QMU Expression: sfcd = me/C2
+
+SI Equivalent: Information not available
+
+Shorthand: sfcd
+
+## Description
+Represents the concentration of mass over a quantum surface area within an Aether unit and quantifies how much dark matter string is distributed along the tubular loxodrome path during one quantum frequency cycle in the forward time direction. The sfcd unit describes the two-dimensional mass distribution at the quantum scale, where the area is defined by the circular string of mass moving along the tubular loxodrome path.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the internal structure and dynamics of subatomic particles within Aether units
+- Investigating mass distribution in quantum systems with cyclical or helical geometries
+- Studying the relationship between quantum frequency and mass distribution in Aether units
+- Exploring new models of quantum gravity that incorporate this specific geometry of mass distribution
+- Developing theories about particle interactions based on their mass distribution along tubular loxodrome paths
+
+
+## Other Information

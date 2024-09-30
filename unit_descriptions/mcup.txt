@@ -1,0 +1,23 @@
+# Magnetic Charge per Unit Potential (mcup)
+
+QMU Expression: mcup = sfch/potn = magm*chrg/powr
+
+SI Equivalent: Information not available
+
+Shorthand: mcup
+
+## Description
+Represents the amount of magnetic charge per unit of potential energy or power.
+
+
+## Relationships
+- mcup = sfch/potn: Where sfch is surface charge and potn is potential.
+- mcup = magm*chrg/powr: Where magm is magnetic moment, chrg is charge, and powr is power.
+
+
+## Applications
+- Analysis of charge capacity in magnetic systems
+- Study of charge efficiency in magnetic power systems
+
+
+## Other Information

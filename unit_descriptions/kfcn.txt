@@ -1,0 +1,22 @@
+# Kinetic Friction (kfcn)
+
+QMU Expression: kfcn = meC2Fq2eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: kfcn
+
+## Description
+Represents the rate of kinetic frictional force accumulation over a distance traveled.
+
+
+## Relationships
+- kfcn = fric/leng: It quantifies how quickly sliding friction builds up per unit length as surfaces move relative to each other.
+
+
+## Applications
+- Tribology
+- Mechanical systems
+
+
+## Other Information

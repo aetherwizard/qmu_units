@@ -1,0 +1,27 @@
+# Viscosity (visc)
+
+QMU Expression: visc = me*Fq/C
+
+SI Equivalent: Information not available
+
+Shorthand: visc
+
+## Description
+Represents the resistance to flow or deformation at the quantum scale. It quantifies the internal friction within a quantum fluid or material and describes the rate of momentum transfer between adjacent layers of Aether units.
+
+
+## Relationships
+- visc = pres*time
+- visc = forc*time/area
+- visc = momd*leng
+- visc = enrg*time/volm
+
+
+## Applications
+- Analyzing quantum fluid behavior and superfluidity
+- Characterizing viscous properties of exotic quantum materials
+- Studying energy dissipation mechanisms in quantum systems
+- Describing quantum turbulence and vortex dynamics
+
+
+## Other Information

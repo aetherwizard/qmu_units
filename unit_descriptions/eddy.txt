@@ -1,0 +1,24 @@
+# Eddy Current (eddy)
+
+QMU Expression: eddy = mflx2
+
+SI Equivalent: Information not available
+
+Shorthand: eddy
+
+## Description
+Represents the intensity of circulating currents induced in a conducting material. It quantifies the strength of magnetic flux interactions within a medium and describes the energy dissipation due to induced currents in response to changing magnetic fields.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing energy losses in transformers and electric motors
+- Characterizing the electromagnetic damping in conductive materials
+- Studying the shielding effectiveness of materials against electromagnetic interference
+- Describing the heat generation in induction heating processes
+
+
+## Other Information

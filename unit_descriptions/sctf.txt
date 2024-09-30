@@ -1,0 +1,24 @@
+# Surface Charge Temporal Factor (sctf)
+
+QMU Expression: sctf = me*C2*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: sctf
+
+## Description
+Represents the product of surface charge density and time, or the ratio of surface charge density to frequency. It quantifies the relationship between surface charge distribution and temporal quantum processes and describes how surface charge evolves or persists over time in relation to quantum frequency in the Aether.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the temporal behavior of charged surfaces in quantum environments
+- Characterizing materials based on their surface charge stability and frequency response
+- Studying quantum systems where surface charge effects evolve over time or interact with periodic processes
+- Investigating the relationship between surface electromagnetism and temporal quantum phenomena in the Aether
+
+
+## Other Information

@@ -1,0 +1,111 @@
+# Quantum Surface Activity (qsac)
+
+## QMU Expression
+qsac = me*Fq3/C2 = sfcd*qinf
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qsac
+
+## Description
+Represents the intensity of quantum activity on a surface area. It quantifies the rate of change or oscillation of mass distribution on a quantum surface and describes the dynamic nature of mass concentration on Aether unit surfaces over time.
+
+## Relationships
+- qsac = sfcd*qinf
+- qsac = pres*sclw
+- qsac = lint*volm
+
+## Applications
+- Analyzing the dynamic behavior of quantum surfaces in various systems
+- Characterizing the energy flux across quantum interfaces
+- Studying the relationship between mass distribution and frequency in surface quantum phenomena
+- Describing the intensity of quantum fluctuations on material surfaces
+
+## Other Information
+The qsac unit offers a unique perspective on the dynamic nature of quantum surfaces, incorporating mass distribution, temporal aspects, and light intensity. This unit bridges concepts of surface density, quantum dynamics, and electromagnetic phenomena, providing a comprehensive tool for studying active surface phenomena within the Aether Physics Model framework.
+
+# Force Density (fdns)
+
+## QMU Expression
+fdns = me*Fq2/C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+fdns
+
+## Description
+Represents the concentration of force within a quantum volume. It quantifies the intensity of force fields in three-dimensional space at the quantum scale and describes the spatial distribution of force within Aether units.
+
+## Relationships
+- fdns = forc/volm
+- fdns = pres*wavn
+- fdns = masd*accl
+
+## Applications
+- Analyzing the distribution of forces in quantum systems
+- Characterizing the strength of quantum force fields in various contexts
+- Studying the relationship between force, mass, and spatial scales in quantum mechanics
+- Describing the intensity of interactions in quantum field theories
+
+## Other Information
+The fdns unit in the APM offers a unique perspective on the spatial distribution of forces at the quantum scale. This unit bridges concepts of force, volume, and quantum dynamics, providing a comprehensive tool for studying force phenomena within the Aether Physics Model framework.
+
+# Momentum Density (momd)
+
+## QMU Expression
+momd = me*Fq/C2 = momt/volm
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+momd
+
+## Description
+Represents the concentration of linear momentum within a quantum volume. It quantifies the intensity of translational motion in three-dimensional space at the quantum scale and describes the spatial distribution of momentum within Aether units.
+
+## Relationships
+- momd = momt/volm
+- momd = masd*velc
+- momd = pres/velc
+
+## Applications
+- Analyzing the distribution of particle momentum in quantum systems
+- Characterizing the intensity of quantum flows and currents
+- Studying the relationship between momentum, mass, and spatial scales in quantum mechanics
+- Describing the density of particle flux in quantum field theories
+
+## Other Information
+The momd unit in the APM offers a unique perspective on the spatial distribution of linear momentum at the quantum scale. This unit bridges concepts of motion, volume, and quantum dynamics, providing a comprehensive tool for studying translational phenomena within the Aether Physics Model framework.
+
+# Surface Density (sfcd)
+
+## QMU Expression
+sfcd = me/C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+sfcd
+
+## Description
+Represents the concentration of mass over a quantum surface area within an Aether unit and quantifies how much dark matter string is distributed along the tubular loxodrome path during one quantum frequency cycle in the forward time direction. The sfcd unit describes the two-dimensional mass distribution at the quantum scale, where the area is defined by the circular string of mass moving along the tubular loxodrome path.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the internal structure and dynamics of subatomic particles within Aether units
+- Investigating mass distribution in quantum systems with cyclical or helical geometries
+- Studying the relationship between quantum frequency and mass distribution in Aether units
+- Exploring new models of quantum gravity that incorporate this specific geometry of mass distribution
+- Developing theories about particle interactions based on their mass distribution along tubular loxodrome paths
+
+## Other Information
+The sfcd unit, with this refined understanding, becomes a crucial link between the geometry of Aether units, the behavior of subatomic particles, and the distribution of mass at quantum scales. It provides a quantitative measure of how mass is structured within the most fundamental units of space, potentially offering new insights into phenomena ranging from particle physics to cosmology.
+

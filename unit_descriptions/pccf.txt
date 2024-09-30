@@ -1,0 +1,22 @@
+# Potential Charge Concentration Factor (pccf)
+
+QMU Expression: pccf = meFqeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: pccf
+
+## Description
+Represents a factor that relates the potential to the concentration or intensity of electric charge within a given spatial and temporal scale.
+
+
+## Relationships
+- pccf = potn*cscc: Relates the Potential Charge Concentration Factor to the potential and the Charge Surface-Temporal Confinement Coefficient.
+
+
+## Applications
+- Analysis of charge distribution and concentration
+- Study of potential-charge relationships in quantum systems
+
+
+## Other Information

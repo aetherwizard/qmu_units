@@ -1,0 +1,23 @@
+# Magnetic Permeance (magp)
+
+QMU Expression: magp = meC2eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: magp
+
+## Description
+Represents the ease with which magnetic flux can be established in a material or system.
+
+
+## Relationships
+- magp = mflx/curr: Magnetic permeance depends on a material's magnetic properties, especially permeability.
+- magp = 1/mrlc: magp is the reciprocal of magnetic reluctance (mrlc).
+
+
+## Applications
+- Magnetic circuit design
+- Electromagnetic systems
+
+
+## Other Information

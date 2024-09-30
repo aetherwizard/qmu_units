@@ -1,0 +1,26 @@
+# Magnetic Flow Impedance (mgfi)
+
+QMU Expression: mgfi = meC3Fqeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: mgfi
+
+## Description
+Represents the resistance of the quantum Aether to magnetic flux flow.
+
+
+## Relationships
+- mgfi*chrg = mfld: When charge drags against the Aether, it produces a magnetic field.
+- mgfi = mflx*chgr
+- mgfi = resn*leng
+- mgfi = velc*mrlc
+- mgfi = elfs*cdns
+
+
+## Applications
+- Magnetic field generation
+- Electromagnetic interactions
+
+
+## Other Information

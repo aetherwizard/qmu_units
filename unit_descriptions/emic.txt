@@ -1,0 +1,26 @@
+# Electromagnetic Interaction Coefficient (emic)
+
+QMU Expression: Information not available
+
+SI Equivalent: Information not available
+
+Shorthand: emic
+
+## Description
+Captures the interplay between various electromagnetic quantities and their spatial variations.
+
+
+## Relationships
+- emic = curl*mcdf
+- emic = chrg/mfld
+- emic = ptty*curr
+- emic = cond*elcg
+
+
+## Applications
+- Analysis of complex electromagnetic interactions
+- Design of advanced electronic devices
+- Study of quantum-scale electromagnetic phenomena
+
+
+## Other Information

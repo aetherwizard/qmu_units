@@ -1,0 +1,23 @@
+# Magnetic Current Impedance (mcri)
+
+QMU Expression: mcri = curr/mflx
+
+SI Equivalent: Information not available
+
+Shorthand: mcri
+
+## Description
+Represents the opposition or difficulty of establishing magnetic flux per unit of magnetic current.
+
+
+## Relationships
+- mcri = curr/mflx
+- mcri = 1/magp: Where magp is magnetic permeance.
+
+
+## Applications
+- Analysis of magnetic current flow
+- Study of magnetic flux establishment in materials
+
+
+## Other Information

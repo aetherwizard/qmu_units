@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+    <name>QMU Calculator</name>
+    <creationDate>29 Sep 2024</creationDate>
+    <author>David W. Thomson</author>
+    <version>1.0.0</version>
+    <authorUrl>https://sota.aetherwizard.com</authorUrl>
+    <copyright>Quantum AetherDynamics Institute, Alma, Illinois 2024</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>A QMU calculator module for Joomla 4</description>
+    <files>
+        <filename module="mod_qmu_calculator">mod_qmu_calculator.php</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+        <folder>assets</folder>
+    </files>
+</extension>

@@ -1,0 +1,21 @@
+# Charge Surface Confinement Coefficient (chcc)
+
+QMU Expression: chcc = 1/(eemax2*C2)
+
+SI Equivalent: Information not available
+
+Shorthand: chcc
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

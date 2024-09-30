@@ -1,0 +1,23 @@
+# Aether Fluctuation Potential (aefp)
+
+QMU Expression: aefp = eemax2meC2
+
+SI Equivalent: Information not available
+
+Shorthand: aefp
+
+## Description
+Represents the inherent capacity of the quantum Aether to produce virtual excitations and fluctuations.
+
+
+## Relationships
+- aefp = rson*potn: Significantly, aefp is the inverse of inductance (indc).
+
+
+## Applications
+- Quantum field theory
+- Particle physics
+- Cosmology
+
+
+## Other Information

@@ -1,0 +1,24 @@
+# Quantum Charge Density Oscillation (cdos)
+
+QMU Expression: cdos = eemax2*Fq/C3
+
+SI Equivalent: Information not available
+
+Shorthand: cdos
+
+## Description
+Represents the fundamental oscillatory behavior of charge density within a quantum volume. It combines the system's charge density (chgd) with its fundamental frequency (freq), describing how the volumetric concentration of charge fluctuates at the most basic quantum timescale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the basic fluctuations of charge density in the quantum vacuum
+- Studying how the quantum Aether supports fundamental charge density oscillations
+- Characterizing the substrate's capacity for charge density variations at the most fundamental timescale
+- Investigating the relationship between charge density and basic quantum oscillations in various materials
+
+
+## Other Information

@@ -1,0 +1,24 @@
+# Resistance (resn)
+
+QMU Expression: resn = meC2Fqeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: resn
+
+## Description
+Represents the opposition to the flow of electric current in a material.
+
+
+## Relationships
+- resn = potn/curr
+- resn = mcur*indc: Magnetic resistance is also equal to magnetic current times inductance.
+- Z = (potn/curr) + (mcur*indc): A possible impedance formula that can be tested.
+
+
+## Applications
+- Electrical circuit analysis
+- Impedance calculations
+
+
+## Other Information

@@ -1,0 +1,24 @@
+# Quantum Mass Orbital Period (qmop)
+
+QMU Expression: qmop = me*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: qmop
+
+## Description
+Represents the product of mass and orbital time in quantum systems. It quantifies the relationship between an object's mass and its quantum orbital period and describes how mass influences or is influenced by cyclic quantum processes in the Aether.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the orbital characteristics of particles or objects in quantum systems
+- Characterizing the relationship between mass and orbital periods in atomic or molecular systems
+- Studying quantum systems where both mass and cyclic processes are significant
+- Investigating the connection between matter and quantum resonance phenomena in the Aether
+
+
+## Other Information

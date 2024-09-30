@@ -1,0 +1,129 @@
+# Quantum Electric Field Plasticity (qefp)
+
+## QMU Expression
+qefp = eemax2*C*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefp
+
+## Description
+Represents the capacity of the quantum Aether substrate to undergo persistent deformations in response to electric field changes along a quantum linear dimension. It combines aspects of charge, length, and frequency to describe the underlying structure's ability to retain electric field-induced changes.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's ability to retain electric field-induced changes along linear paths
+- Studying how the Aether substrate influences electric field memory effects in one-dimensional quantum systems
+- Characterizing the fundamental limits of electric field persistence in quantum wire-like structures
+- Investigating the interplay between electric and magnetic phenomena in linear quantum systems with high-frequency perturbations
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field plasticity in quantum systems, especially for phenomena occurring in one-dimensional or linear structures. It might provide insights into quantum wire behavior, edge states in topological insulators, or the response of the quantum vacuum to high-frequency electromagnetic perturbations in confined linear geometries.
+
+# Quantum Electric Field Elasticity (qefe)
+
+## QMU Expression
+qefe = eemax2*C*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefe
+
+## Description
+Represents the capacity of the quantum Aether substrate to reversibly deform in response to electric field changes along a quantum linear dimension. It combines aspects of charge, length, and frequency to describe the underlying structure's ability to stretch and return to its original state under electric field influences.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's ability to elastically respond to electric field changes along linear paths
+- Studying how the Aether substrate influences reversible electric field deformations in one-dimensional quantum systems
+- Characterizing the fundamental limits of elastic behavior in quantum wire-like structures under electric field stress
+- Investigating the interplay between electric and magnetic phenomena in linear quantum systems with elastic responses
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field elasticity in quantum systems, especially for phenomena occurring in one-dimensional or linear structures. It might provide insights into the behavior of quantum wires under electric stress, the elastic properties of edge states in topological materials, or the response of the quantum vacuum to reversible electromagnetic perturbations in confined linear geometries.
+
+# Quantum Electric Field Conductance (efcd)
+
+## QMU Expression
+efcd = eemax2*C*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efcd
+
+## Description
+Represents the capacity of the quantum Aether substrate to facilitate the flow or transmission of electric fields along a quantum linear dimension. It combines aspects of charge, length, and frequency to describe the underlying structure's ability to conduct or propagate electric field changes.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's ability to transmit electric field changes along linear paths
+- Studying how the Aether substrate influences electric field propagation in one-dimensional quantum systems
+- Characterizing the fundamental limits of electric field transmission in quantum wire-like structures
+- Investigating the interplay between electric and magnetic phenomena in linear quantum systems with regards to field propagation
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field transmission in quantum systems, especially for phenomena occurring in one-dimensional or linear structures. It might provide insights into quantum wire conductance, electric field propagation along edge states in topological insulators, or the response of the quantum vacuum to electromagnetic signals in confined linear geometries.
+
+# Electric Charge Gradient (elcg)
+
+## QMU Expression
+elcg = eemax2*C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+elcg
+
+## Description
+Quantifies the rate at which the electric potential changes over a unit Compton wavelength in the Aether. It represents the spatial variation or gradient of the electric potential within the Aether.
+
+## Relationships
+- potn = elcg*fric: Relating electric potential to electric charge gradient and friction
+
+## Applications
+- Analysis of electrostatic potential generation by frictional forces
+- Study of charge alignment and distribution in static electricity phenomena
+- Investigation of electric potential propagation and storage in the Aether
+
+## Other Information
+The Electric Charge Gradient is crucial in determining the electrostatic potential generated by frictional forces in static electricity. It quantifies the steepness or intensity of the charge gradient. A higher value of elcg indicates a greater change in electric potential over a unit length, while a lower value suggests less potential change.
+
+# Quantum Electric Field Permeability (efpm)
+
+## QMU Expression
+efpm = eemax2*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efpm
+
+## Description
+Represents the capacity of the quantum Aether substrate to allow the penetration and propagation of high-frequency electric fields, independent of spatial dimensions. It combines aspects of charge and frequency to describe the underlying structure's receptiveness to rapidly changing electric fields.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's intrinsic ability to support high-frequency electric field fluctuations
+- Studying how the Aether substrate influences the propagation of ultra-fast electric field pulses
+- Characterizing the fundamental limits of electric field penetration in the quantum substrate
+- Investigating the interplay between electric and magnetic phenomena in high-frequency quantum electrodynamics
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of high-frequency electric field behavior in the quantum vacuum, independent of specific geometric configurations. It might provide insights into phenomena such as vacuum polarization, the dynamic Casimir effect, or the behavior of virtual particles in intense, rapidly changing fields.
+

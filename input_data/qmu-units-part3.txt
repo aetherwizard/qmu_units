@@ -1,0 +1,196 @@
+# Magnetic Field Exposure (mfde)
+
+## QMU Expression
+mfde = eemax2meC3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfde
+
+## Description
+Quantifies the exposure to magnetic field effects within a volume.
+
+## Relationships
+- mfde = vlmw*mfxd: Related to magnetic flux density (mfxd) and volumetric wave (vlmw).
+
+## Applications
+- Evaluating magnetic field bioeffects and health impacts
+- Assessing field exposure levels and concentration distribution
+
+## Other Information
+Volumetric wave (vlmw) represents frequency per volume. Magnetic flux density (mfxd) quantifies magnetic flux per area. So, mfde is magnetic field effects per volume normalized by flux density. It indicates how concentrated or intense the field effects are in a region. mfde provides insight into field exposure levels and concentration distribution.
+
+# Magnetic Flux Intensity Ratio (mfir)
+
+## QMU Expression
+mfir = eemax2meC3Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfir
+
+## Description
+Represents the ratio of magnetic field intensity to energy density.
+
+## Relationships
+- mfir = mfdi/enrg: Magnetic field intensity (mfdi) quantifies the work a magnetic field can do. Energy density relates to the concentration and strength of energy in a region.
+
+## Applications
+- Characterizing and comparing the concentration of different magnetic field configurations
+
+## Other Information
+mfir describes how intensely concentrated or dense a magnetic field is relative to the available energy. It measures the strength or flux of magnetism normalized by the energy. A higher mfir means the magnetic field has a greater intensity for a given amount of energy.
+
+# Permittivity (ptty)
+
+## QMU Expression
+ptty = eemax2meC3Fq2
+
+## SI Equivalent
+Same as MKS / SI
+
+## Shorthand
+ptty
+
+## Description
+Measures a material's ability to store an electric field.
+
+## Relationships
+- ptty = efxd/elfs: Related to electric flux density (efxd) and electric field strength (elfs).
+- ptty = ε0*4: The QMU unit of permittivity is 4 times greater than the absolute permittivity of space.
+
+## Applications
+- Dielectric material characterization
+- Capacitor design
+- Electromagnetic wave propagation analysis
+
+## Other Information
+As seen from the dimensions, the permittivity constant of the Aether includes the full dimensions of volume-resonance (double cardioid), which can be thought of as a cavity in which subatomic particles reside. The cavity times the magnetic constant (mass to magnetic charge ratio) also relates to the capacity for a magnetic charge. The degree to which magnetic charge can fill this capacity is the permittivity.
+
+# Aether Fluctuation Potential (aefp)
+
+## QMU Expression
+aefp = eemax2meC2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+aefp
+
+## Description
+Represents the inherent capacity of the quantum Aether to produce virtual excitations and fluctuations.
+
+## Relationships
+- aefp = rson*potn: Significantly, aefp is the inverse of inductance (indc).
+
+## Applications
+- Quantum field theory
+- Particle physics
+- Cosmology
+
+## Other Information
+While inductance involves the manipulation of the Aether by physical matter, aefp reflects the latent fluctuation potential of the Aether itself, unprompted by matter. The aefp unit encapsulates the inherent ability of the quantum aether to induce resonant frequencies, accelerations, and other phenomena without external stimulation. It represents the underlying quantum jitter, fluctuations, and stochastic incitation arising intrinsically from the Aether.
+
+Specific contexts where aefp may manifest include particle decays, symmetry breaking, mass acquisition, and the Lamb shift. The unit likely relates to the cosmologic constant and issues of vacuum energy density. By quantifying the Aether's latent potential for excitation without cause, the Aether Fluctuation Potential unit provides deeper insight into the quantum virtual processes that the Aether can spontaneously produce independent of matter, energy, or information.
+
+# Conductance (cond or Cd)
+
+## QMU Expression
+cond = eemax2meC2Fq
+
+## SI Equivalent
+Same as MKS / SI
+
+## Shorthand
+cond or Cd
+
+## Description
+Measures a material's ability to conduct electric current.
+
+## Relationships
+- cond = elfs*mfdi: Related to electric field strength (elfs) and magnetic field intensity (mfdi).
+- cond = 1/mflx: Conductance is reciprocal to magnetic flux (not resistance).
+- cond = eemax2/h: Conductance represents the magnetic charge per unit of angular momentum.
+
+## Applications
+- Electrical circuit analysis
+- Material characterization
+- Quantum conductance
+
+## Other Information
+In essence, wherever a subatomic particle is present, magnetic charge exists that can potentially be mobilized in a current.
+
+# Capacitance (capc)
+
+## QMU Expression
+capc = eemax2meC2Fq2
+
+## SI Equivalent
+Same as MKS / SI
+
+## Shorthand
+capc
+
+## Description
+Measures a material's ability to store electric charge.
+
+## Relationships
+- capc = chrg/enrg: Capacitance is charge (chrg) stored as energy (enrg).
+- capc = 1/potn: Capacitance is reciprocal to potential in QMU.
+- capc = 1/(indc*rson): The reciprocal of inductance (indc) times resonance (rson) gives the internal capacity of the inductor.
+
+## Applications
+- Capacitor design
+- Energy storage systems
+- Circuit analysis
+
+## Other Information
+Information not available
+
+# Curl (curl)
+
+## QMU Expression
+curl = eemax2meC
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+curl
+
+## Description
+Represents the rotation or circulation of a vector field.
+
+## Relationships
+- Au*curl = c2: This is an important missing component of the Schwarzschild version of the circular deflection angle equation.
+- mfld*curl = swep: Relates the magnetic field (mfld) and the curl of space to the sweep (swep) unit.
+- mvlm*curl = area: Suggests that the product of magnetic volume (mvlm) and the curl of space equals the area unit.
+- potn*curl = accl: Relates potential (potn) and the curl of space to acceleration (accl).
+- mflx*curl = velc: Suggests that the product of magnetic flux (mflx) and the curl of space equals velocity (velc).
+- indc*curl = leng: Relates inductance (indc) and the curl of space to length (leng).
+- elfs*curl = rson: Suggests that the product of electric field strength (elfs) and the curl of space equals resonance (rson).
+- magr*curl = freq: Relates magnetic rigidity (magr) and the curl of space to frequency (freq).
+- perm*curl = 1: Indicates that the product of permeability (perm) and the curl of space equals unity.
+- ints*curl = mfdi: Relates intensity (ints) and the curl of space to magnetic field intensity (mfdi).
+- forc*curl = chrs: Relates force (forc) and the curl of space to charge resonance (chrs).
+- momt*curl = curr: Relates momentum (momt) and the curl of space to current (curr).
+
+## Applications
+- General relativity
+- Electromagnetic theory
+- Fluid dynamics
+- Quantum field theory
+
+## Other Information
+In the case of the Sun, the equation for the circular deflection angle is given by:
+G/(2*msun*rsun) = 8.493e-6 * curl2 * Au
+
+where the numerical value of curl2​ is given in radians. This equation demonstrates that the curvature of space, traditionally measured in radians, can be expressed in terms of the QMU unit curl. Specifically, one radian of curvature is equivalent to curl2​ in the QMU system. Within the QMU version of the equation we see that twice the length density (mass per length) of matter balances to the angle of half the space curl.
+
+Curl, being the rotational vector field, tells us that maximum curl of space is 1 radian. At 1 radian, a black hole is formed. The Aether Physics Model, through its Quantum Measurement Units, identifies the physical explanation for the space curvature being given in radians.
+

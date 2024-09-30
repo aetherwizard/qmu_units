@@ -1,0 +1,106 @@
+# Quantum Dynamic Frequency (qdyf)
+
+## QMU Expression
+qdyf = C*Fq3 = accl*freq = velc*rson
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qdyf
+
+## Description
+Quantifies the rate of change in velocity or acceleration at high frequencies in quantum systems. It represents the product of the Compton wavelength and the cube of frequency, linking spatial and high-frequency temporal aspects of quantum motion.
+
+## Relationships
+- qdyf = leng*qinf
+- qdyf = accl*freq
+- qdyf = velc*rson
+
+## Applications
+- Analyzing high-frequency changes in quantum particle motion
+- Characterizing the dynamic behavior of quantum systems undergoing rapid acceleration
+- Studying the relationship between velocity and resonance in quantum phenomena
+- Describing the behavior of quantum fields experiencing rapid changes in motion
+- Investigating quantum processes that involve both motion and high-frequency oscillations
+
+## Other Information
+The qdyf unit in the APM offers a unique perspective on quantum dynamics by combining aspects of motion and high-frequency oscillations. It provides a tool for analyzing how quantum systems change their motion rapidly and frequently.
+
+# Acceleration (accl)
+
+## QMU Expression
+accl = C*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+accl
+
+## Description
+Represents a quantum-scale measure of acceleration in the Aether Physics Model. It combines a quantum length (C) with a two-dimensional frequency (Fq2), providing a fundamental description of change in velocity at the quantum level.
+
+## Relationships
+Information not available
+
+## Applications
+- Describing particle behavior in strong force fields
+- Analyzing quantum oscillator systems
+- Characterizing gravitational effects at quantum scales
+- Studying acceleration in quantum tunneling phenomena
+
+## Other Information
+This unit offers a unique approach to acceleration, directly linking it to fundamental quantum properties of space and frequency. It aligns with the APM's goal of describing physical phenomena in terms of quantized Aether units, potentially providing new insights into dynamics and force interactions at the quantum level.
+
+# Quantum Velocity (velc)
+
+## QMU Expression
+velc = C*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+velc
+
+## Description
+Represents the fundamental quantum velocity in the Aether Physics Model. It combines the quantum length (C) with the quantum frequency (Fq), resulting in a constant value that corresponds to the speed of photons in vacuum.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing light propagation in quantum systems
+- Characterizing the behavior of photons
+- Studying space compression effects at quantum scales
+
+## Other Information
+This unit aligns with the APM's approach of deriving fundamental constants from quantum measurements. By expressing the speed of photons in terms of Compton wavelength and quantum frequency, the APM provides a novel perspective on this crucial constant, potentially offering new insights into the nature of length, frequency, and the propagation of electromagnetic waves at the most fundamental level.
+
+# Length (leng)
+
+## QMU Expression
+leng = C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+leng
+
+## Description
+Represents the fundamental quantum length in the Aether Physics Model. It is defined as equivalent to the Compton wavelength, providing a discrete measure of distance at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Defining the size of subatomic particles
+- Analyzing spatial distributions in quantum systems
+- Characterizing quantum confinement effects
+- Describing quantum vacuum structure
+
+## Other Information
+This unit aligns with the APM's concept of a quantized Aether composed of discrete units. By using the Compton wavelength as its fundamental length unit, the APM provides a natural and consistent way to measure distances at quantum scales, potentially offering new insights into the structure of space and the behavior of matter at the most fundamental level.
+

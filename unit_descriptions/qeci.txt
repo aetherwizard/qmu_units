@@ -1,0 +1,24 @@
+# Quantum Electric Charge Intensity (qeci)
+
+QMU Expression: qeci = 1/(eemax2*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qeci
+
+## Description
+Represents the concentration or intensity of electric charge fluctuations in a quantum system, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse cube of quantum frequency to describe the dynamic intensity of electric charge behavior at high frequencies.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the intensity of electric charge fluctuations in quantum systems
+- Study of high-frequency charge dynamics in quantum electrodynamics
+- Characterization of the strength of charge-related quantum effects in various systems
+- Investigation of the interplay between intense electric charge fluctuations and magnetic phenomena
+
+
+## Other Information

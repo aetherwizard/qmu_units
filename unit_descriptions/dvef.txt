@@ -1,0 +1,23 @@
+# Diverging Electric Field (dvef)
+
+QMU Expression: dvef = meFq2eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: dvef
+
+## Description
+The diverging electric field has a unit of its own but in classical electromagnetism diverging electric field is strictly a mathematical operator. It equals the electric field strength per length and represents the electric field spreading out from a point source.
+
+
+## Relationships
+- dvef = elfs/leng: Related to electric field strength (elfs) and length (leng).
+- dvef = mchg*rson: Diverging electric fields equals magnetism times resonance.
+
+
+## Applications
+- Quantum electrodynamics
+- Field theory
+
+
+## Other Information

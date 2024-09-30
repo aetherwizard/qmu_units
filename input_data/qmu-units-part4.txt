@@ -1,0 +1,148 @@
+# Exposure Diffusion Flux (exdf)
+
+## QMU Expression
+exdf = eemax2meCFq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+exdf
+
+## Description
+Represents the diffusion and transmission of magnetism and charge as magnetic moment through the Aether via photons.
+
+## Relationships
+- exdf = magm*phtn: Exposure Diffusion Flux relates the exposure of the electron's intrinsic magnetism and charge to its diffusion through the quantum Aether at the velocity scale.
+
+## Applications
+- Quantum electrodynamics
+- Photon-electron interactions
+- Electromagnetic propagation
+
+## Other Information
+The unit encapsulates the innate conductivity and permeability of the Aether medium to electron magnetism. While the exposure (expr) unit quantifies the basic interaction of exposure to magnetism, exdf describes the flux movement of exposure through the Aether. It represents the diffusion flux velocity of inherent electron properties.
+
+Physically, Exposure Diffusion Flux manifests as the natural dispersion of electron magnetism through the quantum vacuum. This diffusion gives rise to electromagnetic propagation effects. Exdf elegantly links the electron's intrinsic properties to the transmission effects enabled by the quantum Aether substrate.
+
+# Acceptance (accp)
+
+## QMU Expression
+accp = eemax2meCFq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+accp
+
+## Description
+Represents the inherent attractive force between matter and Aether.
+
+## Relationships
+- accp = 1/elfs: Acceptance is the inverse of the elfs (electric field strength) unit.
+- accp = chrg/forc
+
+## Applications
+- Casimir effect measurements
+- Tests of short-range gravity-like forces
+- Particle entanglement observations
+- Lamb shift investigations
+- Van der Waals and London dispersion force quantification
+- Vacuum permittivity measurements
+- Aether drag effect probing
+- Gravitational anomaly testing
+- Dark matter effect studies
+
+## Other Information
+Where elfs represents repulsive forces, Acceptance signifies the complementary attraction and incorporation between matter and Aether. The Acceptance unit provides unique insight into the cohesion and interrelationship between matter and the quantum Aether at the most fundamental scale. It represents the latent attraction and openness that balances repulsion effects like electric field strength.
+
+# Exposure (expr)
+
+## QMU Expression
+expr = eemax2me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+expr
+
+## Description
+Quantifies the amount of magnetic charge interacting with mass.
+
+## Relationships
+- expr = 1/mchg: Whereas mchg represents the mass-to-magnetic charge ratio of magnetism, the reciprocal of magnetic charge-to-mass ratio quantifies the effect of magnetism on physical matter.
+
+## Applications
+- Quantum magnetism studies
+- Particle physics
+
+## Other Information
+Information not available
+
+# Conductance Density (cden)
+
+## QMU Expression
+cdns = eemax2C2Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+cdns
+
+## Description
+Quantifies the density or concentration of conductance within a material or system.
+
+## Relationships
+- cdns = efxd*freq: Conductance density can be calculated by multiplying the electric flux density by the frequency.
+
+## Applications
+- Nanoscale electronic device design
+- Quantum transport studies
+- Material science research
+
+## Other Information
+Conductance Density is closely related to electric flux density (efxd). The relationship implies that the electric flux density and the system's frequency influence the conductance distribution within a material.
+
+In the Aether Physics Model context, Conductance Density plays a significant role in describing the distribution and concentration of conductance in a material or system at the quantum level. It provides insights into how electric current flows through the material and how the conductance is spatially distributed.
+
+The equation cdns = efxd*freq suggests that the interplay between the electric flux density and the quantum frequency determines the conductance density. A higher electric flux density indicates a greater concentration of electric field lines passing through a given area, contributing to a higher conductance density. Similarly, a higher frequency implies more frequent oscillations or changes in the electric field, leading to increased conductance density.
+
+Conductance Density is particularly relevant in understanding the electrical properties of materials at the quantum scale. It helps to characterize the conductance distribution within nanoscale structures, such as nanowires, quantum dots, and two-dimensional materials. By analyzing the conductance density, researchers can gain insights into the transport mechanisms, current flow patterns, and potential bottlenecks in these systems.
+
+Moreover, Conductance Density is valuable in designing and optimizing electronic devices and circuits at the quantum level. By manipulating the conductance density through material selection, doping, or structural modifications, engineers can tailor the electrical properties of devices to achieve desired functionality and performance.
+
+# Converging Electric Field (cvef)
+
+## QMU Expression
+cvef = eemax2meFq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+cvef
+
+## Description
+Represents the tendency of the quantum Aether to draw energy, fields, and matter toward a central point.
+
+## Relationships
+- cvef = volm*Au: This structure gives cvef the proper dimensions to represent the inverse effect of the spreading, diverging electric field unit (dvef).
+
+## Applications
+- Quantum field theory
+- Particle physics
+- Cosmology
+
+## Other Information
+While dvef relates to electric fields emanating from a point source outward in all directions, cvef signifies the complementary process of convergence and cohesion back toward a center. 
+
+Physically, cvef may manifest as:
+- The innate force drawing volumetric quanta of fields toward their source
+- A type of binding or confinement potential limiting outward divergence
+- A contraction and coherence related to particle-antiparticle annihilation
+
+The Converging Electric Field unit provides unique insight into the innate focusing, collecting behaviors of the quantum Aether that balance its divergence tendencies. cvef represents the Aether's inherent receptiveness and return.
+

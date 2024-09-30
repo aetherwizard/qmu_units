@@ -1,0 +1,24 @@
+# Quantum Aether Angular Mobility (qaam)
+
+QMU Expression: qaam = C2*Fq/me
+
+SI Equivalent: Information not available
+
+Shorthand: qaam
+
+## Description
+Represents the angular mobility of a quantum system through the Aether relative to its mass. It quantifies the rotational or sweeping responsiveness of a quantum system in the Aether per unit mass and describes the capacity of a quantum entity to undergo angular changes or rotations within the Aether structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing spin dynamics and angular momentum changes in quantum particles
+- Characterizing the rotational behavior of quantum systems in the Aether
+- Studying the relationship between mass and angular velocity in quantum systems
+- Describing the "quantum Aether angular responsiveness" of various particles or materials
+
+
+## Other Information

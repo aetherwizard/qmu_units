@@ -1,0 +1,110 @@
+# Quantum Intensity Factor (qinf)
+
+## QMU Expression
+qinf = Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qinf
+
+## Description
+Quantifies the rate or intensity of quantum processes, particularly those involving energy transfer or field interactions at the most fundamental level.
+
+## Relationships
+- Present in the definition of power: powr = me*C2*qinf
+- Appears in light intensity: lint = me*C*qinf
+- Found in irradiance: irrd = me*qinf
+
+## Applications
+- Analyzing the intensity of quantum field interactions
+- Characterizing the rate of energy transfer in quantum systems
+- Studying the efficiency of quantum processes in various physical contexts
+- Describing the "strength" or "vigor" of quantum phenomena in three-dimensional space
+- Investigating the relationship between frequency and energy transfer in quantum electrodynamics
+
+## Other Information
+The qinf unit in the APM offers a unique perspective on the intensity of quantum processes. It bridges concepts of frequency, energy transfer, and field interactions, providing a tool for analyzing the vigor of quantum phenomena.
+
+# Resonance (rson)
+
+## QMU Expression
+rson = Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+rson
+
+## Description
+Represents the fundamental quantum resonance in the Aether Physics Model. It is defined as the square of the quantum frequency, providing a measure of oscillatory behavior at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing quantum oscillator systems
+- Describing resonant energy transfer in atomic and molecular systems
+- Characterizing quantum mechanical tunneling
+- Studying coherence and decoherence in quantum systems
+
+## Other Information
+This unit aligns with the APM's approach of using quantum measurements to construct units. By squaring the quantum frequency, rson offers a unique perspective on resonance phenomena at the quantum level, potentially providing new insights into the nature of oscillations, energy exchange, and wave behavior in quantum systems.
+
+# Frequency (freq)
+
+## QMU Expression
+freq = Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+freq
+
+## Description
+Represents the fundamental quantum frequency in the Aether Physics Model. It is defined as equivalent to the quantum frequency, providing a discrete measure of temporal oscillation at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Defining the oscillation rates of subatomic particles
+- Analyzing energy levels in quantum systems
+- Characterizing quantum state transitions
+- Describing quantum field fluctuations
+
+## Other Information
+This unit aligns with the APM's concept of a quantized Aether with inherent temporal oscillations. By using the quantum frequency as its fundamental frequency unit, the APM provides a natural and consistent way to measure temporal phenomena at quantum scales, potentially offering new insights into the structure of time and the behavior of matter at the most fundamental level.
+
+# Quantum Volume Oscillation Resistance (qvor)
+
+## QMU Expression
+qvor = 1/(C3*Fq3) = 1/qvos
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvor
+
+## Description
+Quantifies the resistance or impedance to high-frequency oscillations or changes within a quantum volume. It represents the inverse of the product of a quantum volume and the cube of frequency, indicating the system's reluctance to undergo rapid volumetric changes.
+
+## Relationships
+- qvor = 1/qvos
+- qvor = 1/(dtrd*freq)
+- qvor = 1/(volm*qinf)
+
+## Applications
+- Analyzing stability of quantum volumes against high-frequency perturbations
+- Characterizing the resistance of quantum systems to rapid volumetric changes
+- Studying the factors that contribute to quantum volume stability in various contexts
+- Describing the inertial properties of quantum fields within defined volumes at high frequencies
+- Investigating quantum processes that involve resistance to both spatial and high-frequency temporal changes
+
+## Other Information
+The qvor unit in the APM offers a unique perspective on quantum volumetric phenomena by representing resistance to combined spatial and high-frequency temporal changes. It provides a tool for analyzing how stable or resistant a quantum volume is to intense, rapid oscillations or changes.
+

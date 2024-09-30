@@ -1,0 +1,25 @@
+# Magnetic Rigidity (magr)
+
+QMU Expression: magr = meCFqeemax2
+
+SI Equivalent: Information not available
+
+Shorthand: magr
+
+## Description
+Material's resistance to deformation by a magnetic field. Measuring magnetic rigidity helps characterize materials for applications like MRI machines, particle accelerators, and fusion reactors where strong magnetic fields are present.
+
+
+## Relationships
+- magr = mfld*bndr: Related to magnetic field (mfld) and bending radius (bndr).
+- magr = mfxd*leng: Magnetic rigidity is measured in units of magnetic flux density (magnetic field strength), like tesla-meters.
+
+
+## Applications
+- MRI machines
+- Particle accelerators
+- Fusion reactors
+- Material characterization
+
+
+## Other Information

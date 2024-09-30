@@ -1,0 +1,25 @@
+# Quantum Mass Frequency Oscillation (qmfo)
+
+QMU Expression: qmfo = me*Fq/C3 = masd*freq
+
+SI Equivalent: Information not available
+
+Shorthand: qmfo
+
+## Description
+Represents the product of mass density and quantum frequency. It quantifies the degree to which mass interacts with or occupies frequency states within the Aether structure.
+
+
+## Relationships
+- qmfo = masd*freq
+
+
+## Applications
+- Analyzing the behavior of matter in frequency-dependent quantum systems
+- Characterizing the intensity of oscillations in various mass distributions
+- Studying the relationship between mass and fundamental frequencies in quantum mechanics
+- Investigating quantum phenomena that involve both mass concentration and frequency effects
+- Exploring new models of particle behavior in quantum field theories
+
+
+## Other Information

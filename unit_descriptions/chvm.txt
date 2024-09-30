@@ -1,0 +1,21 @@
+# Charge Volume (chvm)
+
+QMU Expression: chvm = eemax2*C3
+
+SI Equivalent: Information not available
+
+Shorthand: chvm
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

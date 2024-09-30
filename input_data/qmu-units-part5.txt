@@ -1,0 +1,231 @@
+# Friction (fric)
+
+## QMU Expression
+fric = meC3Fq2eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+fric
+
+## Description
+Represents the resistance to motion between two surfaces in contact.
+
+## Relationships
+- fric = resn*velc
+- potn = fric*elcg: Friction times electric charge gradient is used in the APM to explain how potential is generated when rubbing a balloon to create electrostatic charge.
+
+## Applications
+- Electrostatic charge generation
+
+## Other Information
+Information not available
+
+# Magnetic Flow Impedance (mgfi)
+
+## QMU Expression
+mgfi = meC3Fqeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mgfi
+
+## Description
+Represents the resistance of the quantum Aether to magnetic flux flow.
+
+## Relationships
+- mgfi*chrg = mfld: When charge drags against the Aether, it produces a magnetic field.
+- mgfi = mflx*chgr 
+- mgfi = resn*leng 
+- mgfi = velc*mrlc
+- mgfi = elfs*cdns
+
+## Applications
+- Magnetic field generation
+- Electromagnetic interactions
+
+## Other Information
+Higher mgfi means greater obstruction restricting field conveyance through the Aether. Lower mgfi indicates eased flux flow with reduced quantum reluctance. The Magnetic Flow Impedance quantifies this innate friction that intrinsically resists dynamic magnetic flux changes.
+
+# Flux Flow Equilibrium (ffeq)
+
+## QMU Expression
+ffeq = meC3eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ffeq
+
+## Description
+Describes a static condition of electrons in a conductor that transfers current to the magnetic field.
+
+## Relationships
+- mfld = curr*ffeq
+- eddy = forc*ffeq: Eddy current is similarly related to flux flow equilibrium when a force is applied.
+
+## Applications
+- Electrodynamics
+- Eddy current analysis
+
+## Other Information
+The more current applied to a conductor, the greater the magnetic field it produces. Greater ffeq indicates increased impedance restricting flux motion arising from higher charge density or lower receptiveness. Conversely, lower ffeq signifies reduced opposition to flux flows due to sparser charge distribution or heightened permeability.
+
+# Kinetic Friction (kfcn)
+
+## QMU Expression
+kfcn = meC2Fq2eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+kfcn
+
+## Description
+Represents the rate of kinetic frictional force accumulation over a distance traveled.
+
+## Relationships
+- kfcn = fric/leng: It quantifies how quickly sliding friction builds up per unit length as surfaces move relative to each other.
+
+## Applications
+- Tribology
+- Mechanical systems
+
+## Other Information
+Information not available
+
+# Resistance (resn)
+
+## QMU Expression
+resn = meC2Fqeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+resn
+
+## Description
+Represents the opposition to the flow of electric current in a material.
+
+## Relationships
+- resn = potn/curr
+- resn = mcur*indc: Magnetic resistance is also equal to magnetic current times inductance.
+- Z = (potn/curr) + (mcur*indc): A possible impedance formula that can be tested.
+
+## Applications
+- Electrical circuit analysis
+- Impedance calculations
+
+## Other Information
+Information not available
+
+# Magnetic Permeance (magp)
+
+## QMU Expression
+magp = meC2eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+magp
+
+## Description
+Represents the ease with which magnetic flux can be established in a material or system.
+
+## Relationships
+- magp = mflx/curr: Magnetic permeance depends on a material's magnetic properties, especially permeability.
+- magp = 1/mrlc: magp is the reciprocal of magnetic reluctance (mrlc).
+
+## Applications
+- Magnetic circuit design
+- Electromagnetic systems
+
+## Other Information
+Magnetic permeance is analogous to electrical conductance. It quantifies how readily magnetic flux flows in response to a magnetomotive force. A greater magp value indicates magnetic flux can be more easily established. It represents the receptiveness of a system to magnetic flux penetration.
+
+# Magnetic Flux Density Wave (mfdw)
+
+## QMU Expression
+mfdw = meCFq2eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfdw
+
+## Description
+Represents the propagating flux concentration induced by moving magnetic charges.
+
+## Relationships
+- mfdw = mfxd*chgv: mfdw describes the wave-like behavior of magnetic flux density due to the motion of magnetic charges.
+- mfdw = elfs*chrg
+
+## Applications
+- Electromagnetic radiation
+- Magnetoplasma oscillations
+- Diamagnetism
+
+## Other Information
+As magnetic charges accelerate, they produce oscillations in the local flux density. These flux density fluctuations propagate as magnetic waves at the moving charge velocity. Greater velocity allows faster propagation. Higher field strength induces larger flux density variations—more magnetic charge results in greater wave amplitude.
+
+# Magnetic Diffusion Impedance (mdif)
+
+## QMU Expression
+mdif = meCFqeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mdif
+
+## Description
+Represents the resistance of the Aether to the diffusion of magnetic fields.
+
+## Relationships
+- mdif = mfxd*chgr
+- mdif = resn*leng
+- mdif = elfs*curr
+
+## Applications
+- Conductivity analysis
+- Particle scattering
+- Vacuum fluctuations
+
+## Other Information
+Higher mdif means greater impedance restricting field motion and diffusion. Lower mdif indicates eased magnetic flow with reduced quantum friction. The Magnetic Diffusion Impedance quantifies this magnetic drag effect that intrinsically acts to resist dynamic field changes in the quantum Aether medium.
+
+# Thermal Magnetic Friction (thmf)
+
+## QMU Expression
+thmf = meCeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+thmf
+
+## Description
+Represents the frictional resistance to magnetic field motion in the presence of thermal gradients.
+
+## Relationships
+- thmf = fric*temp
+- thmf = mfld*magm
+- thmf = perm*chrg
+
+## Applications
+- Magnetothermal effects
+- Thermomagnetic phenomena
+
+## Other Information
+Higher thmf means greater friction obstructing field conveyance along a thermal gradient. Lower thmf indicates eased flux flow with reduced heat drag. The Thermal Magnetic Friction quantifies this innate impedance intrinsically resisting thermally-driven magnetic dynamics.
+

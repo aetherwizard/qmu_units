@@ -1,0 +1,25 @@
+# Aether Resistance Stability Factor (arsf)
+
+QMU Expression: arsf = meFq2eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: arsf
+
+## Description
+Represents the stability and balance of frictional resistance and flux flow within the Aether medium, relative to its volumetric resonance.
+
+
+## Relationships
+- arsf = resn*tvsw: Relates the Aether Resistance Stability Factor to resistance and transverse wave.
+- arsf = fric/volm: Relates the Aether Resistance Stability Factor to friction and volume.
+- arsf = ffeq/vlmr: Relates the Aether Resistance Stability Factor to flux flow equilibrium and volumetric resonance.
+
+
+## Applications
+- Analysis of Aether medium properties
+- Study of energy transfer in the Aether
+- Wave propagation in the Aether
+
+
+## Other Information

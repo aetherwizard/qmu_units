@@ -1,0 +1,24 @@
+# Dynamic Electric Field Intensity (defi)
+
+QMU Expression: defi = C2*Fq3*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: defi
+
+## Description
+Represents the intensity or strength of a dynamic electric field at the quantum scale. It combines aspects of area, frequency, and charge to describe how electric fields behave and interact in rapidly changing quantum environments.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing fast-switching electric fields in quantum devices
+- Studying the behavior of charged particles in rapidly changing electromagnetic environments
+- Characterizing dynamic electric field effects in two-dimensional quantum systems
+- Investigating quantum electrodynamic phenomena in planar structures
+
+
+## Other Information

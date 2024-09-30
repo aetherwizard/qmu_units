@@ -1,0 +1,24 @@
+# Volumetric Resonance (vlmr)
+
+QMU Expression: vlmr = Fq2/C3
+
+SI Equivalent: Information not available
+
+Shorthand: vlmr
+
+## Description
+Represents the intensity of resonant phenomena within a given volume of space. It quantifies the density of resonant modes or standing waves in a three-dimensional quantum system and describes the capacity of a volume to sustain coherent oscillations at the quantum level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of resonant modes in quantum cavities or confined spaces
+- Characterizing the density of standing waves in various quantum systems
+- Studying the relationship between spatial scale and the capacity for coherent oscillations
+- Describing the "resonance capacity" of different physical environments or materials
+
+
+## Other Information

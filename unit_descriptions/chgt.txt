@@ -1,0 +1,21 @@
+# Charge Temperature (chgt)
+
+QMU Expression: chgt = C2*Fq2*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chgt
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

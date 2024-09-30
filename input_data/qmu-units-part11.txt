@@ -1,0 +1,206 @@
+# Magnetic Charge Affinity (mcaf)
+
+## QMU Expression
+mcaf = 1/(eemax2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcaf
+
+## Description
+Represents the reciprocal of electric charge and signifies the affinity or tendency of a system or medium to interact with or accommodate magnetic charge.
+
+## Relationships
+- mcaf = 8/(e2): Where e is the elementary charge and α is the fine structure constant.
+
+## Applications
+- Analysis of electromagnetic fields
+- Study of charged particle interactions
+- Investigation of electromagnetic wave propagation
+- Research on magnetic materials and plasmas
+
+## Other Information
+The Magnetic Charge Affinity concept has significant implications for understanding the behavior of electromagnetic fields, the interaction of charged particles, and the propagation of electromagnetic waves. It may offer new insights into the nature of magnetic materials, the behavior of plasmas, and the fundamental properties of the vacuum.
+
+# Quantum Electric Field Volumetric Resonance (efvr)
+
+## QMU Expression
+efvr = eemax2*C3*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efvr
+
+## Description
+Represents the capacity of the quantum Aether substrate to support and sustain resonant electric field oscillations within a quantum volume.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the quantum vacuum's ability to sustain standing electric field waves in three-dimensional cavities
+- Study of how the Aether substrate supports electric field resonances in volumetric quantum systems
+- Characterization of the fundamental resonant modes of electric fields in quantum volumetric structures
+- Investigation of the interplay between electric and magnetic phenomena in three-dimensional quantum resonant systems
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field resonances in three-dimensional quantum systems.
+
+# Quantum Electric Field Volumetric Adaptability (efva)
+
+## QMU Expression
+efva = eemax2*C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efva
+
+## Description
+Represents the capacity of the quantum Aether substrate to adapt to and accommodate changes in electric field configurations within a quantum volume.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the quantum vacuum's flexibility in adjusting to changing electric field patterns in three-dimensional spaces
+- Study of how the Aether substrate accommodates electric field reconfigurations in volumetric quantum systems
+- Characterization of the responsiveness of quantum volumes to electric field perturbations
+- Investigation of the interplay between electric field adaptability and magnetic phenomena in three-dimensional quantum systems
+
+## Other Information
+This substrate unit could be particularly useful in understanding how three-dimensional quantum systems respond to and accommodate changes in electric field configurations.
+
+# Quantum Electric Field Volumetric Compliance (efvc)
+
+## QMU Expression
+efvc = eemax2*C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efvc
+
+## Description
+Represents the capacity of the quantum Aether substrate to yield or deform in response to applied electric fields within a quantum volume.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the quantum vacuum's "elasticity" in response to electric field stress in three-dimensional spaces
+- Study of how the Aether substrate deforms under electric field influence in volumetric quantum systems
+- Characterization of the "softness" or "hardness" of quantum volumes to electric field perturbations
+- Investigation of the interplay between electric field compliance and magnetic phenomena in three-dimensional quantum systems
+
+## Other Information
+This substrate unit could be particularly useful in understanding how three-dimensional quantum systems deform or yield in response to applied electric fields.
+
+# Charge Volume (chvm)
+
+## QMU Expression
+chvm = eemax2*C3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chvm
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Ball Lightning (ball)
+
+## QMU Expression
+ball = eemax2*C2*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ball
+
+## Description
+Represents a unit of physics related to the phenomenon of ball lightning.
+
+## Relationships
+- ball = ligt*curl
+- ball = enrg*curr/mass
+
+## Applications
+- Study of ball lightning phenomena
+- Investigation of high-energy, confined plasma states
+- Research on electromagnetic vortices
+
+## Other Information
+The ball unit provides insights into the conditions necessary for generating and sustaining ball lightning. It suggests a relationship between light, electromagnetic curl, energy density, current, and mass that could be key to understanding this rare atmospheric phenomenon.
+
+# Plasma (plsm)
+
+## QMU Expression
+plsm = eemax2*C2*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+plsm
+
+## Description
+Represents a state of matter consisting of ionized particles.
+
+## Relationships
+- plsm = phtn*curl
+- plsm = chrg*temp
+
+## Applications
+- Analysis of plasma states in various systems
+- Study of plasma physics and dynamics
+- Investigation of high-temperature and high-energy phenomena
+
+## Other Information
+The plsm unit elegantly links the underlying factors defining plasma behavior, showing how charge and temperature are intrinsically coupled in plasma states.
+
+# Magnetic Moment (magm)
+
+## QMU Expression
+magm = eemax2*C2*Fq
+
+## SI Equivalent
+J/T (Joule per Tesla)
+
+## Shorthand
+magm
+
+## Description
+Measures the influence of the Aether's electrostatic charge against the magnetic charge of the subatomic particle.
+
+## Relationships
+- μe = (ge*magm)/(8π): For electron magnetic moment
+- μp = (gp*magm)/(8π): For proton magnetic moment
+- μn ≈ 1.001 * (gn*magm)/(8π): For neutron magnetic moment
+
+## Applications
+- Analysis of subatomic particle properties
+- Study of magnetic interactions at the quantum level
+- Investigation of nuclear magnetic resonance phenomena
+
+## Other Information
+The magnetic moment unit in QMU provides insights into the fundamental relationship between electrostatic and magnetic charges within subatomic particles. It also highlights the role of the electron in causing or measuring magnetic moments for each subatomic particle.
+

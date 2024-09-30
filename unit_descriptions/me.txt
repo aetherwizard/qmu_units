@@ -1,0 +1,20 @@
+# Electron mass (me)
+
+## Symbol
+me
+
+## Description
+The electron mass (me) is one of the fundamental units of dimension in the QMU system. It represents the rest mass of an electron, which is a fundamental particle in physics. The electron mass is a crucial constant in quantum mechanics and plays a significant role in determining the properties of atoms and the behavior of electrons in various physical phenomena.
+
+## Key Points
+- Fundamental unit of dimension in QMU
+- Represents the rest mass of an electron
+- Essential in quantum mechanical calculations
+- Influences atomic structure and electron behavior
+
+## Relationships
+- Used in combination with other base units (λC, Fq, eemax) to derive more complex units in the QMU system
+- Plays a crucial role in defining the fine structure constant and other fundamental physical constants
+
+## Historical Note
+The precise measurement of the electron mass has been a subject of ongoing research in physics, with improvements in accuracy contributing to our understanding of fundamental particles and forces.

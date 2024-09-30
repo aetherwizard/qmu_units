@@ -1,0 +1,24 @@
+# Flow (flow)
+
+QMU Expression: flow = C3*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: flow
+
+## Description
+Quantifies the rate of volume change at the quantum scale. It combines a quantum volume (C3) with a frequency (Fq), representing the flow of space or Aether units per unit time.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Describing quantum fluid dynamics
+- Analyzing energy flow in quantum systems
+- Studying the movement of charge carriers in quantum materials
+- Characterizing spatial-temporal variations in quantum fields
+
+
+## Other Information

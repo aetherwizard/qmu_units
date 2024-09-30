@@ -1,0 +1,24 @@
+# Volumetric Wave Frequency (vlmw)
+
+QMU Expression: vlmw = Fq/C3
+
+SI Equivalent: Information not available
+
+Shorthand: vlmw
+
+## Description
+Represents the frequency of quantum waves or oscillations per unit volume of space. It quantifies the density of wave phenomena in a three-dimensional quantum system and describes the rate of quantum fluctuations or oscillations occurring within a given volume.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of wave activity in quantum fields
+- Characterizing the density of quantum fluctuations in vacuum or material media
+- Studying the relationship between spatial scale and the frequency of quantum waves
+- Describing the "wave activity" of different physical environments or states of matter
+
+
+## Other Information

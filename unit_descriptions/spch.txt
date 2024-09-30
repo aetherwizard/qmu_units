@@ -1,0 +1,24 @@
+# Specific Charge (spch)
+
+QMU Expression: spch = C3*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: spch
+
+## Description
+Represents the amount of quantum volume associated with a unit of magnetic charge. It describes the spatial distribution of charge within a quantum system, indicating how "spread out" or "concentrated" the charge is in three-dimensional quantum space.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the charge density distributions in quantum systems
+- Studying how charge spreads out in various quantum structures like atoms, molecules, or quantum dots
+- Characterizing the spatial extent of charge-based quantum states
+- Investigating the relationship between charge distribution and quantum confinement effects
+
+
+## Other Information

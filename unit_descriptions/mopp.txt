@@ -1,0 +1,22 @@
+# Magnetic Opposition (mopp)
+
+QMU Expression: mopp = meeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: mopp
+
+## Description
+Represents the inherent resistance or opposition arising from the interaction between two magnetic charge structures, such as electrons.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of magnetic interactions
+- Design of magnetic systems and materials
+
+
+## Other Information

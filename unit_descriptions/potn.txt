@@ -1,0 +1,31 @@
+# Potential (potn)
+
+QMU Expression: potn = meC2Fq2eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: potn
+
+## Description
+Electric potential caused by magnetic charge. In the Aether Physics Model, it is stated that its meaning is made clear that potential is caused by the magnetic charge of the electron and not its electrostatic charge.
+
+
+## Relationships
+- potn = enrgchrg: Potential is energy per magnetic charge.
+- potn = tempmchg: Potential equals temperature times magnetism.
+- potn = currresn: Potential equals current times resistance.
+- potn = indcrson: Potential equals inductance times resonance.
+- potn = mflxfreq: Potential equals magnetic flux times frequency.
+- potn = permaccl: Potential equals permeability times acceleration.
+- potn = 1/capc: Potential is reciprocal to capacitance in QMU.
+- capc = 1/(volt*ccf): Capacitance calculation using standard voltmeter readings.
+- potn = 511kV*ccf: Related to the single escape peak in gamma spectroscopy.
+
+
+## Applications
+- Ohm's law
+- Gamma spectroscopy
+- Capacitance measurements
+
+
+## Other Information

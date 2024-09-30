@@ -1,0 +1,101 @@
+# Magnetic Charge Affinity (mcaf)
+
+## QMU Expression
+mcaf = 1/eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcaf
+
+## Description
+Represents the reciprocal of electric charge and signifies the affinity or tendency of a system or medium to interact with or accommodate magnetic charge.
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Quantum Electric Field Susceptibility (qefs)
+
+## QMU Expression
+qefs = eemax2*C3*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefs
+
+## Description
+Represents the capacity of the quantum Aether substrate to accommodate or respond to electric field changes within a quantum volume. It combines aspects of charge, volume, and frequency to describe the underlying structure's receptivity to electric field fluctuations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's response to electric field perturbations
+- Studying how the Aether substrate influences electric field propagation in quantum systems
+- Characterizing the fundamental limits of electric field strength in quantum volumes
+- Investigating the interplay between electric and magnetic phenomena in the quantum substrate
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric fields in quantum systems. It might provide insights into phenomena such as vacuum polarization, the Casimir effect, or the behavior of virtual particles.
+
+# Quantum Electric Field Receptivity (qefr)
+
+## QMU Expression
+qefr = eemax2*C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefr
+
+## Description
+Represents the capacity of the quantum Aether substrate to receive or accommodate electric field changes within a quantum volume at a lower frequency scale than qefs. It combines aspects of charge, volume, and frequency to describe the underlying structure's receptivity to electric field variations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's receptivity to lower-frequency electric field fluctuations
+- Studying how the Aether substrate influences electric field storage or capacitance in quantum systems
+- Characterizing the fundamental limits of electric field gradients in quantum volumes
+- Investigating the interplay between electric and magnetic phenomena in the quantum substrate at lower frequencies
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric fields in quantum systems, especially for phenomena occurring at lower frequencies than those described by qefs.
+
+# Quantum Electric Field Compliance (qefc)
+
+## QMU Expression
+qefc = eemax2*C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefc
+
+## Description
+Represents the flexibility or adaptability of the quantum Aether substrate to accommodate electric field changes within a quantum volume at an even lower frequency scale than qefr. It combines aspects of charge, volume, and frequency to describe the underlying structure's compliance to gradual electric field variations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's compliance to slow electric field variations
+- Studying how the Aether substrate influences long-term electric field stability in quantum systems
+- Characterizing the fundamental limits of electric field persistence in quantum volumes
+- Investigating the interplay between electric and magnetic phenomena in the quantum substrate for quasi-static fields
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric fields in quantum systems, especially for phenomena occurring at even lower frequencies than those described by qefr.
+

@@ -1,0 +1,24 @@
+# Permittivity (ptty)
+
+QMU Expression: ptty = eemax2meC3Fq2
+
+SI Equivalent: Same as MKS / SI
+
+Shorthand: ptty
+
+## Description
+Measures a material's ability to store an electric field.
+
+
+## Relationships
+- ptty = efxd/elfs: Related to electric flux density (efxd) and electric field strength (elfs).
+- ptty = ε0*4: The QMU unit of permittivity is 4 times greater than the absolute permittivity of space.
+
+
+## Applications
+- Dielectric material characterization
+- Capacitor design
+- Electromagnetic wave propagation analysis
+
+
+## Other Information

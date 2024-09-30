@@ -1,0 +1,35 @@
+# Curl (curl)
+
+QMU Expression: curl = eemax2meC
+
+SI Equivalent: Information not available
+
+Shorthand: curl
+
+## Description
+Represents the rotation or circulation of a vector field.
+
+
+## Relationships
+- Au*curl = c2: This is an important missing component of the Schwarzschild version of the circular deflection angle equation.
+- mfld*curl = swep: Relates the magnetic field (mfld) and the curl of space to the sweep (swep) unit.
+- mvlm*curl = area: Suggests that the product of magnetic volume (mvlm) and the curl of space equals the area unit.
+- potn*curl = accl: Relates potential (potn) and the curl of space to acceleration (accl).
+- mflx*curl = velc: Suggests that the product of magnetic flux (mflx) and the curl of space equals velocity (velc).
+- indc*curl = leng: Relates inductance (indc) and the curl of space to length (leng).
+- elfs*curl = rson: Suggests that the product of electric field strength (elfs) and the curl of space equals resonance (rson).
+- magr*curl = freq: Relates magnetic rigidity (magr) and the curl of space to frequency (freq).
+- perm*curl = 1: Indicates that the product of permeability (perm) and the curl of space equals unity.
+- ints*curl = mfdi: Relates intensity (ints) and the curl of space to magnetic field intensity (mfdi).
+- forc*curl = chrs: Relates force (forc) and the curl of space to charge resonance (chrs).
+- momt*curl = curr: Relates momentum (momt) and the curl of space to current (curr).
+
+
+## Applications
+- General relativity
+- Electromagnetic theory
+- Fluid dynamics
+- Quantum field theory
+
+
+## Other Information

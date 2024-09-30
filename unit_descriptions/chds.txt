@@ -1,0 +1,24 @@
+# Charge Distribution (chds)
+
+QMU Expression: chds = C2*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chds or strk
+
+## Description
+Represents the spatial extent of charge distribution over a quantum area. It describes how charge is spread out or concentrated in a two-dimensional quantum space, providing a measure of charge density in planar quantum systems.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing charge density distributions in two-dimensional quantum systems
+- Studying how charge spreads out in planar structures like graphene, 2D electron gases, or quantum wells
+- Characterizing the spatial extent of charge-based quantum states in layered materials
+- Investigating the relationship between charge distribution and quantum confinement effects in 2D systems
+
+
+## Other Information

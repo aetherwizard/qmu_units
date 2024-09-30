@@ -1,0 +1,104 @@
+# Surface Charge Orbital Coefficient (scoc)
+
+## QMU Expression
+scoc = me*C2*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+scoc
+
+## Description
+Represents the product of surface charge density and orbital time, or the ratio of surface charge density to resonance. It quantifies the relationship between surface charge distribution and quantum orbital or resonant behavior and describes how surface charge interacts with cyclic quantum processes in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of charged surfaces in quantum orbital systems
+- Characterizing materials based on their surface charge properties in relation to quantum cyclic processes
+- Studying quantum systems where surface charge effects interact with orbital motion or resonant behavior
+- Investigating the relationship between surface electromagnetism and quantum periodicity in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum surface science, atomic and molecular orbitals, and in studying the behavior of charged particles in cyclic quantum systems.
+
+# Surface Charge Temporal Factor (sctf)
+
+## QMU Expression
+sctf = me*C2*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+sctf
+
+## Description
+Represents the product of surface charge density and time, or the ratio of surface charge density to frequency. It quantifies the relationship between surface charge distribution and temporal quantum processes and describes how surface charge evolves or persists over time in relation to quantum frequency in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the temporal behavior of charged surfaces in quantum environments
+- Characterizing materials based on their surface charge stability and frequency response
+- Studying quantum systems where surface charge effects evolve over time or interact with periodic processes
+- Investigating the relationship between surface electromagnetism and temporal quantum phenomena in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum electrochemistry, time-dependent surface physics, and in studying the dynamics of charged interfaces in various quantum time scales.
+
+# Length Density Quantum Ratio (ldqr)
+
+## QMU Expression
+ldqr = me*C*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ldqr
+
+## Description
+Represents the product of length density and quantum intensity resistance, or the ratio of length density to quantum intensity factor. It quantifies the relationship between linear mass distribution and resistance to high-frequency quantum processes and describes how mass distributed along a length interacts with quantum intensity phenomena in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of linear mass distributions in high-frequency quantum environments
+- Characterizing one-dimensional or filamentary structures based on their mass distribution and quantum energy transfer properties
+- Studying quantum systems where linear mass effects interact with high-frequency quantum processes
+- Investigating the relationship between linear mass concentrations and quantum intensity phenomena in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum wire physics, linear atomic chains, and in studying the behavior of one-dimensional quantum systems under high-frequency conditions.
+
+# Length Density Orbital Coefficient (ldoc)
+
+## QMU Expression
+ldoc = me*C*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ldoc
+
+## Description
+Represents the product of length density and orbital time, or the ratio of length density to resonance. It quantifies the relationship between linear mass distribution and quantum orbital or resonant behavior and describes how mass distributed along a length interacts with cyclic quantum processes in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of linear mass distributions in quantum orbital systems
+- Characterizing one-dimensional or filamentary structures based on their mass distribution in relation to quantum cyclic processes
+- Studying quantum systems where linear mass effects interact with orbital motion or resonant behavior
+- Investigating the relationship between linear mass concentrations and quantum periodicity in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum nanowire physics, linear molecular chains, and in studying the behavior of one-dimensional quantum systems in cyclic or resonant conditions.
+

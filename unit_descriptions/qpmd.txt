@@ -1,0 +1,23 @@
+# Quantum Photomagnetic Density (qpmd)
+
+QMU Expression: qpmd = mchg/ligt
+
+SI Equivalent: Information not available
+
+Shorthand: qpmd
+
+## Description
+Represents the concentration or distribution of magnetic charge within a given light field, emphasizing the relationship between magnetism and light in a system.
+
+
+## Relationships
+- qpmd = cscc*accl: Relates to Charge Surface-Temporal Confinement Coefficient and acceleration.
+
+
+## Applications
+- Analysis of electromagnetic phenomena in the presence of light
+- Study of photon absorption and emission by atoms
+- Investigation of optical properties of materials with high magnetic charge density
+
+
+## Other Information

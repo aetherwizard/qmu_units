@@ -1,0 +1,24 @@
+# Active Area (acta)
+
+QMU Expression: acta = C2*Fq = area*time
+
+SI Equivalent: Information not available
+
+Shorthand: acta
+
+## Description
+Represents the product of quantum area and linear time. It quantifies the active or dynamic two-dimensional space over a single time unit and describes the fundamental area-time extent of quantum surface phenomena.
+
+
+## Relationships
+- acta = area*time
+
+
+## Applications
+- Analyzing the basic area-time structure of quantum surface interactions
+- Characterizing the minimal area-time extent of two-dimensional quantum fluctuations
+- Studying the evolution of quantum surface states over short time scales
+- Describing the fundamental building blocks of more complex planar quantum processes
+
+
+## Other Information

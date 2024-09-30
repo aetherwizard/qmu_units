@@ -1,0 +1,23 @@
+# Magnetic Field Energy (mfen)
+
+QMU Expression: mfen = mfdi*cden = cond*chvl
+
+SI Equivalent: Information not available
+
+Shorthand: mfen
+
+## Description
+Represents the energy associated with the magnetic field due to the flow of magnetic current.
+
+
+## Relationships
+- mfen = mfdi*cden: Where mfdi is magnetic field intensity and cden is conductance density.
+- mfen = cond*chvl: Where cond is conductance and chvl is charge velocity.
+
+
+## Applications
+- Analysis of magnetic energy density in systems
+- Study of magnetic power transfer
+
+
+## Other Information

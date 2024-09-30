@@ -1,0 +1,25 @@
+# Mass Density (masd)
+
+QMU Expression: masd = me/C3
+
+SI Equivalent: Information not available
+
+Shorthand: masd
+
+## Description
+Represents the concentration of mass within a quantum volume of space. It quantifies how much dark matter string is contained within a given Aether unit volume.
+
+
+## Relationships
+- masd = mass/volm: where volm is the quantum volume (C3)
+
+
+## Applications
+- Analyzing the internal structure of subatomic particles
+- Investigating the limits of gravitational collapse and the formation of black holes
+- Studying the distribution of dark matter in the universe
+- Exploring new models of quantum gravity that incorporate mass density at the Aether unit level
+- Developing theories about the origin and evolution of cosmic structures based on fundamental mass density distributions
+
+
+## Other Information

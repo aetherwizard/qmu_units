@@ -1,0 +1,172 @@
+# Rotating Magnetic Field (Au or rmfd)
+
+## QMU Expression
+Au = meC3Fq2eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+Au or rmfd
+
+## Description
+Represents the quantum Aether as a quantum rotating magnetic field. Larger scale rotating magnetic fields are multiples of rmfd.
+
+## Relationships
+- Au = 162kC: The space quantum (Aether unit) equals 162 times Coulomb's constant.
+- Au = mfldfreq: Rotating magnetic field equals magnetic field times frequency.
+- Au = phtnchrg: Au equals photon per magnetic charge.
+- Au = mflxvelc: Au equals magnetic flux times velocity.
+- Au = potnleng: Au equal potential times length.
+- Au = stenchgd: Au equals surface tension per charge density.
+- Au = meC3Fq2eemax2 = hceemax2 = phtnchrg: Electrons exist as photons per charge in Aether units.
+- Au = mpC3Fq2epmax2 = hpcepmax2: Protons exist in Aether units as proton-sized photons.
+- Au = mnC3Fq2enmax2 = hncenmax2: Neutrons exist in Aether units as neutron-sized photons.
+
+## Applications
+- Manifestation in the Hutchison effect
+- Electric motors
+- High-potential discharges (e.g., Tesla coils)
+- Chukanov's plasma spheres
+
+## Other Information
+Numerous other relationships exist, as Aether units are the space quantum in which all particles and particle behaviors occur.
+
+# Magnetic Field (mfld)
+
+## QMU Expression
+mfld = meC3Fqeemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfld
+
+## Description
+Represents the flow of magnetism in the Aether. The magnetic field is the whole volumetric flow of magnetism in the Aether, where the "flow" manifests in different modes.
+
+## Relationships
+- mfld = flowmchg: Magnetic charge equals flow times mchg.
+- mfld = chrgdrag
+- mfld = mfxdvolm: Magnetic field equals magnetic flux density times volume.
+- mfld = currffeq: Flux flow equilibrium is important in electrodynamics.
+
+## Applications
+- Electrodynamics
+- Current flow in conductors
+
+## Other Information
+The Maxwellian "magnetic fields" (magnetic flux density, magnetic field intensity, magnetic flux, etc.) are not truly the magnetic field but are rather various aspects of it.
+
+# Magnetic Volume (mvlm)
+
+## QMU Expression
+mvlm = meC3eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mvlm
+
+## Description
+Quantifies the volume occupied by a magnetic field. Magnetic volume may be a direct unit for the phenomenon recognized as phonons.
+
+## Relationships
+- mvlm = volmmchg: Magnetic volume equals volume times magnetic charge.
+- mvlm = mfldfreq: Magnetic volume is the magnetic field per frequency.
+- Au = mvlmrson: A space quantum is a resonating magnetic volume (phonon).
+
+## Applications
+- Potentially related to phonons in solid-state physics
+
+## Other Information
+Information not available
+
+# Potential (potn)
+
+## QMU Expression
+potn = meC2Fq2eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+potn
+
+## Description
+Electric potential caused by magnetic charge. In the Aether Physics Model, it is stated that its meaning is made clear that potential is caused by the magnetic charge of the electron and not its electrostatic charge.
+
+## Relationships
+- potn = enrgchrg: Potential is energy per magnetic charge.
+- potn = tempmchg: Potential equals temperature times magnetism.
+- potn = currresn: Potential equals current times resistance.
+- potn = indcrson: Potential equals inductance times resonance.
+- potn = mflxfreq: Potential equals magnetic flux times frequency.
+- potn = permaccl: Potential equals permeability times acceleration.
+- potn = 1/capc: Potential is reciprocal to capacitance in QMU.
+- capc = 1/(volt*ccf): Capacitance calculation using standard voltmeter readings.
+- potn = 511kV*ccf: Related to the single escape peak in gamma spectroscopy.
+
+## Applications
+- Ohm's law
+- Gamma spectroscopy
+- Capacitance measurements
+
+## Other Information
+The single escape peak can be explained as the emission potential of a single electron. When electrons emit as gamma rays, they are whole electrons and carry the potential of a single electron with them.
+
+# Magnetic Flux (mflx)
+
+## QMU Expression
+mflx = meC2Fqeemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mflx
+
+## Description
+Equal to sweep times magnetism.
+
+## Relationships
+- mflx = swepmchg: magnetic flux is sweeping magnetism.
+- Φ0/ccf = mflx2: Related to magnetic flux quantization in the quantum Hall effect.
+- Z0 = mflx4: Related to space impedance.
+
+## Applications
+- Quantum Hall effect
+- Impedance calculations
+
+## Other Information
+The mflx unit reveals that the magnetic flux quantization of the quantum Hall effect results directly from an electron's whole unit of half-spin magnetic charge as contained within the magnetic flux unit, not fractional electrostatic charges as conventionally assumed.
+
+# Inductance (indc)
+
+## QMU Expression
+indc = meC2eemax2
+
+## SI Equivalent
+Same unit as in MKS / SI
+
+## Shorthand
+indc
+
+## Description
+Measures a coil's magnetic field strength.
+
+## Relationships
+- indc = areamchg: Related to area and magnetic charge.
+- lengindc = curl2: Calculate the curl of a solenoid coil.
+- indcleng = 2perm: Reciprocal of curl gives the number of turns of the coil.
+- indc = 2Npermleng: Inductance of a coil in QMU.
+
+## Applications
+- Solenoid coil design
+- Electromagnetic device design
+
+## Other Information
+The cause of the 2perm and curl2 terms is due to the effect of the Aether interacting with physical matter of which neutrons compose half. Neutrons are electrons folded over on top of protons, which pinch two Aether units into the space of one neutron. This principle underlies the diffraction of light around massive bodies and the precession of the perigee of orbits around massive bodies.
+

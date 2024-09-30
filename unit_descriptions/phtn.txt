@@ -1,0 +1,25 @@
+# Photon (phtn)
+
+QMU Expression: phtn = me*C3*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: phtn
+
+## Description
+Represents a radially expanding burst of angular momentum in the Aether. It quantifies the transfer of angular momentum from an electron's orbital transition to the surrounding Aether.
+
+
+## Relationships
+- phtn = h*c
+- phtn = irrd*vlmt
+
+
+## Applications
+- Analyzing the radial expansion of angular momentum in the Aether
+- Characterizing the fundamental process of light emission in terms of electron orbital transitions
+- Studying the relationship between irradiance and volume-time in photon propagation
+- Describing the inverse square law of irradiance as a natural consequence of photon expansion
+
+
+## Other Information

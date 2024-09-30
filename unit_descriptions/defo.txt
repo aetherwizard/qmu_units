@@ -1,0 +1,24 @@
+# Dynamic Electric Field Oscillation (defo)
+
+QMU Expression: defo = Fq3*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: defo
+
+## Description
+Represents the rate of oscillation or fluctuation of an electric field relative to the magnetic charge at the quantum scale. It combines aspects of frequency and charge to describe rapid oscillations in electric fields without explicit spatial dependence.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing high-frequency oscillations in quantum electromagnetic systems
+- Studying the interaction between rapidly changing electric fields and magnetic charges
+- Characterizing ultrafast electric field dynamics in quantum optics and electrodynamics
+- Investigating quantum vacuum fluctuations and their temporal characteristics
+
+
+## Other Information

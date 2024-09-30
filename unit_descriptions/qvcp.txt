@@ -1,0 +1,24 @@
+# Quantum Volumetric Charge Persistence (qvcp)
+
+QMU Expression: qvcp = C3/(eemax2*Fq)
+
+SI Equivalent: Information not available
+
+Shorthand: qvcp
+
+## Description
+Represents the tendency of a quantum volume to maintain its charge distribution over time. It combines the system's specific charge (spch) with the inverse of its fundamental frequency (freq), describing how the spatial charge distribution relates to the system's basic temporal scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the stability of charge configurations in quantum systems over their characteristic time scales
+- Studying how charge distributions evolve in time for various quantum structures
+- Characterizing the longevity of charge-based quantum states
+- Investigating the relationship between spatial charge patterns and temporal evolution in quantum materials
+
+
+## Other Information

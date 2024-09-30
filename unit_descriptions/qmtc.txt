@@ -1,0 +1,24 @@
+# Quantum Mass Temporal Coefficient (qmtc)
+
+QMU Expression: qmtc = me*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: qmtc
+
+## Description
+Represents the product of mass and time, or the ratio of mass to frequency in quantum systems. It quantifies the relationship between an object's mass and its temporal evolution or frequency response and describes how mass interacts with or influences temporal processes in the Aether.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the temporal behavior of massive particles in quantum environments
+- Characterizing the frequency response of materials or objects in quantum systems
+- Studying quantum systems where both mass and time-dependent processes are crucial
+- Investigating the relationship between matter and quantum temporal evolution in the Aether
+
+
+## Other Information

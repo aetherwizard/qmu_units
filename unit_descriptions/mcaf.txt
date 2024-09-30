@@ -1,0 +1,24 @@
+# Magnetic Charge Affinity (mcaf)
+
+QMU Expression: mcaf = 1/(eemax2)
+
+SI Equivalent: Information not available
+
+Shorthand: mcaf
+
+## Description
+Represents the reciprocal of electric charge and signifies the affinity or tendency of a system or medium to interact with or accommodate magnetic charge.
+
+
+## Relationships
+- mcaf = 8/(e2): Where e is the elementary charge and α is the fine structure constant.
+
+
+## Applications
+- Analysis of electromagnetic fields
+- Study of charged particle interactions
+- Investigation of electromagnetic wave propagation
+- Research on magnetic materials and plasmas
+
+
+## Other Information

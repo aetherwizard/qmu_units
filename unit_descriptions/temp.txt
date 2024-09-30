@@ -1,0 +1,24 @@
+# Temperature (temp)
+
+QMU Expression: temp = C2*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: temp
+
+## Description
+Represents a quantum-scale measure of temperature in the Aether Physics Model. It combines a quantum area (C2) with a two-dimensional frequency known as resonance (Fq2), providing a novel perspective on thermal energy at the most fundamental level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Describing thermal behavior at quantum scales
+- Analyzing energy distributions in subatomic particles
+- Characterizing quantum thermodynamic processes
+- Studying temperature-dependent quantum phenomena
+
+
+## Other Information

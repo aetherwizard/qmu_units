@@ -1,0 +1,24 @@
+# Quantum Aether Thermal Mobility (qatm)
+
+QMU Expression: qatm = C2*Fq2/me
+
+SI Equivalent: Information not available
+
+Shorthand: qatm
+
+## Description
+Represents the thermal mobility or heat capacity of a quantum system in the Aether relative to its mass. It quantifies the thermal responsiveness of a quantum system in the Aether per unit mass and describes the capacity of a quantum entity to accommodate or transmit thermal energy within the Aether structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing heat transfer and thermal behavior at the quantum scale
+- Characterizing the thermal properties of quantum systems in the Aether
+- Studying the relationship between mass and temperature in quantum thermodynamics
+- Describing the "quantum Aether thermal responsiveness" of various particles or materials
+
+
+## Other Information

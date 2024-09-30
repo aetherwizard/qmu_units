@@ -1,0 +1,21 @@
+# Electric Flux Density (efxd)
+
+QMU Expression: efxd = eemax2*C2
+
+SI Equivalent: Information not available
+
+Shorthand: efxd
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

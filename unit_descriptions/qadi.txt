@@ -1,0 +1,24 @@
+# Quantum Aether Dynamic Intensity (qadi)
+
+QMU Expression: qadi = C*Fq3/me
+
+SI Equivalent: Information not available
+
+Shorthand: qadi
+
+## Description
+Represents the resonant mobility of a quantum system through the Aether relative to its mass. It quantifies the responsiveness of a quantum system to resonant Aether interactions per unit mass and describes the propensity of a quantum entity to engage in resonant oscillations within the Aether structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing resonant quantum effects and their propagation through materials
+- Characterizing the coherent quantum behavior of particles in the Aether
+- Studying the relationship between mass and resonant quantum state evolution in the Aether
+- Describing the "quantum Aether resonant responsiveness" of various particles or materials
+
+
+## Other Information

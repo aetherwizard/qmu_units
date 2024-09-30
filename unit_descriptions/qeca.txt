@@ -1,0 +1,24 @@
+# Quantum Electric Charge Acceleration (qeca)
+
+QMU Expression: qeca = 1/(eemax2*C*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qeca
+
+## Description
+Represents the rate of change of electric charge velocity along a quantum linear dimension. It combines aspects of inverse magnetic charge, inverse Compton wavelength, and inverse squared frequency to describe the dynamic acceleration of electric charge in a one-dimensional quantum system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the acceleration of electric charges in quantum wire-like structures
+- Study of the response of charge carriers to changing electric fields in one-dimensional quantum systems
+- Characterization of the dynamics of charge in quantum transport phenomena, particularly how quickly charges can change their velocities
+- Investigation of the interplay between electric charge acceleration and magnetic effects in linear quantum structures
+
+
+## Other Information

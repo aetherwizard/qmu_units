@@ -1,0 +1,27 @@
+# Quantum Intensity Factor (qinf)
+
+QMU Expression: qinf = Fq3
+
+SI Equivalent: Information not available
+
+Shorthand: qinf
+
+## Description
+Quantifies the rate or intensity of quantum processes, particularly those involving energy transfer or field interactions at the most fundamental level.
+
+
+## Relationships
+- Present in the definition of power: powr = me*C2*qinf
+- Appears in light intensity: lint = me*C*qinf
+- Found in irradiance: irrd = me*qinf
+
+
+## Applications
+- Analyzing the intensity of quantum field interactions
+- Characterizing the rate of energy transfer in quantum systems
+- Studying the efficiency of quantum processes in various physical contexts
+- Describing the "strength" or "vigor" of quantum phenomena in three-dimensional space
+- Investigating the relationship between frequency and energy transfer in quantum electrodynamics
+
+
+## Other Information

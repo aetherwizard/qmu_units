@@ -1,0 +1,21 @@
+# Charge Sweep (chgs)
+
+QMU Expression: chgs = C2*Fq*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chgs
+
+## Description
+Information not available
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

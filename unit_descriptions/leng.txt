@@ -1,0 +1,24 @@
+# Length (leng)
+
+QMU Expression: leng = C
+
+SI Equivalent: Information not available
+
+Shorthand: leng
+
+## Description
+Represents the fundamental quantum length in the Aether Physics Model. It is defined as equivalent to the Compton wavelength, providing a discrete measure of distance at the quantum scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Defining the size of subatomic particles
+- Analyzing spatial distributions in quantum systems
+- Characterizing quantum confinement effects
+- Describing quantum vacuum structure
+
+
+## Other Information

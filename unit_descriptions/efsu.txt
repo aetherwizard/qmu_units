@@ -1,0 +1,24 @@
+# Quantum Electric Field Susceptibility (efsu)
+
+QMU Expression: efsu = eemax2*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: efsu
+
+## Description
+Represents the capacity of the quantum Aether substrate to respond to and support moderate-frequency electric field changes, independent of spatial dimensions. It combines aspects of charge and frequency to describe the underlying structure's responsiveness to electric field variations.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the quantum vacuum's inherent capacity to support electric field fluctuations
+- Studying how the Aether substrate influences the propagation of moderate-frequency electric field oscillations
+- Characterizing the fundamental response of the quantum substrate to electric field perturbations
+- Investigating the interplay between electric and magnetic phenomena in quantum electrodynamics at moderate frequencies
+
+
+## Other Information

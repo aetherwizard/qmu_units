@@ -1,0 +1,25 @@
+# Quantum Angular Reach (qanr)
+
+QMU Expression: qanr = me*C3*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: qanr
+
+## Description
+Represents the three-dimensional distribution of angular momentum in quantum systems. It quantifies the "reach" or "influence" of a quantum particle's angular momentum over space.
+
+
+## Relationships
+- qanr = angm*leng
+- magm = qanr*curl
+
+
+## Applications
+- Analyzing quantum vortex formation and behavior in superfluids and Bose-Einstein condensates
+- Characterizing rotational properties of quantum systems, including spin and orbital angular momentum
+- Studying quantum turbulence and vortex dynamics in quantum fluids
+- Describing fundamental rotational aspects of particles and fields in quantum mechanics
+
+
+## Other Information

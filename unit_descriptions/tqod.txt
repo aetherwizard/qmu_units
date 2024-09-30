@@ -1,0 +1,24 @@
+# Transverse Quantum Oscillation Density (tqod)
+
+QMU Expression: tqod = Fq3/C2
+
+SI Equivalent: Information not available
+
+Shorthand: tqod
+
+## Description
+Represents the density of quantum oscillations across a two-dimensional surface or interface. It quantifies the rate of quantum fluctuations per unit area in the Aether and describes the intensity of quantum activity on a planar cross-section of space-time.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of quantum energy across surfaces or interfaces
+- Characterizing the intensity of quantum fluctuations at boundaries between different media
+- Studying the relationship between spatial scale and quantum activity in two-dimensional systems
+- Describing the "quantum surface density" of various physical systems or environments
+
+
+## Other Information

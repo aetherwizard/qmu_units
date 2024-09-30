@@ -1,0 +1,24 @@
+# Quantum Trajectory Length (qtrl)
+
+QMU Expression: qtrl = C*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: qtrl
+
+## Description
+Represents the characteristic length of a trajectory traced by a quantum entity in space-time. It quantifies the spatial extent of motion for a quantum system over a given number of oscillations and describes the average distance covered by a quantum particle or wave during one period of its fundamental frequency.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the effective range of quantum particles in various environments
+- Characterizing the coherence length of quantum waves in different media
+- Studying the relationship between a particle's de Broglie wavelength and its quantum trajectory
+- Describing the spatial extent of quantum tunneling phenomena
+
+
+## Other Information

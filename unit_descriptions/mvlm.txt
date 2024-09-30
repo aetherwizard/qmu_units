@@ -1,0 +1,23 @@
+# Magnetic Volume (mvlm)
+
+QMU Expression: mvlm = meC3eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: mvlm
+
+## Description
+Quantifies the volume occupied by a magnetic field. Magnetic volume may be a direct unit for the phenomenon recognized as phonons.
+
+
+## Relationships
+- mvlm = volmmchg: Magnetic volume equals volume times magnetic charge.
+- mvlm = mfldfreq: Magnetic volume is the magnetic field per frequency.
+- Au = mvlmrson: A space quantum is a resonating magnetic volume (phonon).
+
+
+## Applications
+- Potentially related to phonons in solid-state physics
+
+
+## Other Information

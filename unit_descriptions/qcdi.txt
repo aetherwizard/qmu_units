@@ -1,0 +1,24 @@
+# Quantum Charge Density Intensity (qcdi)
+
+QMU Expression: qcdi = eemax2*Fq3/C3
+
+SI Equivalent: Information not available
+
+Shorthand: qcdi
+
+## Description
+Represents the intensity of charge density fluctuations within a quantum volume. It combines the system's charge density (chgd) with its quantum intensity factor (qinf), describing how the volumetric concentration of charge interacts with high-frequency quantum processes.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the intensity of charge density fluctuations in quantum vacuum
+- Studying how the quantum Aether supports high-frequency charge density variations
+- Characterizing the substrate's capacity for intense charge density oscillations
+- Investigating the relationship between charge density and high-frequency quantum processes in various materials
+
+
+## Other Information

@@ -1,0 +1,23 @@
+# Flux Flow Equilibrium (ffeq)
+
+QMU Expression: ffeq = meC3eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: ffeq
+
+## Description
+Describes a static condition of electrons in a conductor that transfers current to the magnetic field.
+
+
+## Relationships
+- mfld = curr*ffeq
+- eddy = forc*ffeq: Eddy current is similarly related to flux flow equilibrium when a force is applied.
+
+
+## Applications
+- Electrodynamics
+- Eddy current analysis
+
+
+## Other Information

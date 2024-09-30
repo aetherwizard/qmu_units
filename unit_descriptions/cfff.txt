@@ -1,0 +1,27 @@
+# Current Flow Facilitation Factor (cfff)
+
+QMU Expression: Information not available
+
+SI Equivalent: Information not available
+
+Shorthand: cfff
+
+## Description
+Represents the ease or propensity of electric current flow in relation to electromagnetic fields and material properties.
+
+
+## Relationships
+- cfff = 1/ffeq
+- cfff = curr/mfld
+- cfff = chrs/ptty
+- cfff = efxd/perm
+- cfff = curr*mfir
+
+
+## Applications
+- Analysis of electric current flow in complex systems
+- Design of electrical conductors and magnetic materials
+- Optimization of energy storage devices
+
+
+## Other Information

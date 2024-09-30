@@ -1,0 +1,27 @@
+# Quantum Dynamic Frequency (qdyf)
+
+QMU Expression: qdyf = C*Fq3 = accl*freq = velc*rson
+
+SI Equivalent: Information not available
+
+Shorthand: qdyf
+
+## Description
+Quantifies the rate of change in velocity or acceleration at high frequencies in quantum systems. It represents the product of the Compton wavelength and the cube of frequency, linking spatial and high-frequency temporal aspects of quantum motion.
+
+
+## Relationships
+- qdyf = leng*qinf
+- qdyf = accl*freq
+- qdyf = velc*rson
+
+
+## Applications
+- Analyzing high-frequency changes in quantum particle motion
+- Characterizing the dynamic behavior of quantum systems undergoing rapid acceleration
+- Studying the relationship between velocity and resonance in quantum phenomena
+- Describing the behavior of quantum fields experiencing rapid changes in motion
+- Investigating quantum processes that involve both motion and high-frequency oscillations
+
+
+## Other Information

@@ -1,0 +1,23 @@
+# Admittance (admt)
+
+QMU Expression: admt = chrg/mflx
+
+SI Equivalent: Information not available
+
+Shorthand: admt
+
+## Description
+Represents the magnetic admittance, which is the ease with which magnetic flux can change in a system.
+
+
+## Relationships
+- admt = chrg/mflx: Where chrg is magnetic charge and mflx is magnetic flux.
+
+
+## Applications
+- Magnetic circuit analysis and design
+- Calculation of magnetic loss and energy transfer
+- Analysis of magnetic induction
+
+
+## Other Information

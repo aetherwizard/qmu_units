@@ -1,0 +1,27 @@
+# Quantum Volume Dynamic Flux (qvdf)
+
+QMU Expression: qvdf = C3/(me*Fq)
+
+SI Equivalent: Information not available
+
+Shorthand: qvdf
+
+## Description
+Represents the dynamic flux capacity of a quantum volume. It quantifies the ability of a quantum volume to accommodate or transmit dynamic changes and describes the interplay between spatial extent and mass-frequency in quantum systems.
+
+
+## Relationships
+- qvdf = qvtc*freq
+- qvdf = volm/(mass*freq)
+- qvdf = spcv*freq
+- qvdf = volm*dfld
+
+
+## Applications
+- Analyzing the propagation of dynamic changes through quantum volumes
+- Characterizing the flux capacity of quantum fields in varying spatial volumes
+- Studying the relationship between space and dynamic processes in quantum systems
+- Investigating quantum systems' response to gradual changes in external influences
+
+
+## Other Information

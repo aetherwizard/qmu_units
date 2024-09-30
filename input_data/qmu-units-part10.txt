@@ -1,0 +1,130 @@
+# Quantum Electric Charge Drift (qecd)
+
+## QMU Expression
+qecd = 1/(eemax2*C*Fq)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qecd
+
+## Description
+Represents the slow, steady movement of electric charge along a quantum linear dimension. It combines aspects of inverse magnetic charge, inverse Compton wavelength, and inverse quantum frequency to describe the gradual drift of electric charge in a one-dimensional quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the steady flow of electric charges in quantum wire-like structures
+- Study of charge carrier transport in one-dimensional quantum systems under constant fields
+- Characterization of the long-term dynamics of charge flow in quantum transport phenomena
+- Investigation of the interplay between electric charge drift and magnetic effects in linear quantum structures
+
+## Other Information
+This unit could be particularly useful in understanding the behavior of slowly moving electric charges in quantum systems, especially for phenomena occurring in linear or one-dimensional structures.
+
+# Quantum Electric Charge Displacement (ecdp)
+
+## QMU Expression
+ecdp = 1/(eemax2*C)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ecdp
+
+## Description
+Represents the spatial shift or displacement of electric charge along a quantum linear dimension. It combines aspects of inverse magnetic charge and inverse Compton wavelength to describe the static displacement of electric charge in a one-dimensional quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the spatial distribution of electric charges in quantum wire-like structures
+- Study of charge separation in one-dimensional quantum systems
+- Characterization of the static charge configuration in quantum devices
+- Investigation of the interplay between electric charge displacement and magnetic effects in linear quantum structures
+
+## Other Information
+This unit could be particularly useful in understanding the spatial arrangement of electric charges in quantum systems, especially for phenomena occurring in linear or one-dimensional structures.
+
+# Quantum Electric Charge Intensity (qeci)
+
+## QMU Expression
+qeci = 1/(eemax2*Fq3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qeci
+
+## Description
+Represents the concentration or intensity of electric charge fluctuations in a quantum system, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse cube of quantum frequency to describe the dynamic intensity of electric charge behavior at high frequencies.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the intensity of electric charge fluctuations in quantum systems
+- Study of high-frequency charge dynamics in quantum electrodynamics
+- Characterization of the strength of charge-related quantum effects in various systems
+- Investigation of the interplay between intense electric charge fluctuations and magnetic phenomena
+
+## Other Information
+This unit could be particularly useful in understanding the behavior of electric charges undergoing rapid fluctuations in quantum systems, especially in contexts where spatial dimensions are less relevant than the intensity and frequency of the fluctuations.
+
+# Quantum Electric Charge Oscillation (qeco)
+
+## QMU Expression
+qeco = 1/(eemax2*Fq2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qeco
+
+## Description
+Represents the amplitude or strength of electric charge oscillations in a quantum system, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse square of quantum frequency to describe the dynamic oscillatory behavior of electric charge at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the strength of electric charge oscillations in quantum systems
+- Study of resonant charge behavior in quantum electrodynamics
+- Characterization of the amplitude of charge-related quantum oscillations in various systems
+- Investigation of the interplay between oscillating electric charges and magnetic phenomena
+
+## Other Information
+This unit could be particularly useful in understanding the behavior of electric charges undergoing periodic or resonant oscillations in quantum systems, especially in contexts where spatial dimensions are less relevant than the amplitude and frequency of the oscillations.
+
+# Quantum Electric Charge Fluctuation (ecfx)
+
+## QMU Expression
+ecfx = 1/(eemax2*Fq)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ecfx
+
+## Description
+Represents the magnitude of electric charge variations or fluctuations in a quantum system over a single quantum time period, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse quantum frequency to describe the basic dynamic behavior of electric charge at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the basic fluctuations of electric charge in quantum systems
+- Study of fundamental charge behavior in quantum electrodynamics
+- Characterization of the intrinsic variability of charge-related quantum phenomena in various systems
+- Investigation of the interplay between fluctuating electric charges and magnetic phenomena at the most basic quantum level
+
+## Other Information
+This unit could be particularly useful in understanding the most fundamental behavior of electric charges undergoing fluctuations in quantum systems, especially in contexts where spatial dimensions are less relevant than the basic temporal variations of charge.
+

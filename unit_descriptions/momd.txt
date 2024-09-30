@@ -1,0 +1,26 @@
+# Momentum Density (momd)
+
+QMU Expression: momd = me*Fq/C2 = momt/volm
+
+SI Equivalent: Information not available
+
+Shorthand: momd
+
+## Description
+Represents the concentration of linear momentum within a quantum volume. It quantifies the intensity of translational motion in three-dimensional space at the quantum scale and describes the spatial distribution of momentum within Aether units.
+
+
+## Relationships
+- momd = momt/volm
+- momd = masd*velc
+- momd = pres/velc
+
+
+## Applications
+- Analyzing the distribution of particle momentum in quantum systems
+- Characterizing the intensity of quantum flows and currents
+- Studying the relationship between momentum, mass, and spatial scales in quantum mechanics
+- Describing the density of particle flux in quantum field theories
+
+
+## Other Information

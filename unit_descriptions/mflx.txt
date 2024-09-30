@@ -1,0 +1,24 @@
+# Magnetic Flux (mflx)
+
+QMU Expression: mflx = meC2Fqeemax2
+
+SI Equivalent: Information not available
+
+Shorthand: mflx
+
+## Description
+Equal to sweep times magnetism.
+
+
+## Relationships
+- mflx = swepmchg: magnetic flux is sweeping magnetism.
+- Φ0/ccf = mflx2: Related to magnetic flux quantization in the quantum Hall effect.
+- Z0 = mflx4: Related to space impedance.
+
+
+## Applications
+- Quantum Hall effect
+- Impedance calculations
+
+
+## Other Information

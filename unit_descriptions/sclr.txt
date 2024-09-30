@@ -1,0 +1,24 @@
+# Scalar Resonance (sclr)
+
+QMU Expression: sclr = Fq2/C
+
+SI Equivalent: Information not available
+
+Shorthand: sclr
+
+## Description
+Represents the intensity of resonant phenomena along a linear dimension or path. It quantifies the density of resonant modes or standing waves in a one-dimensional quantum system and describes the capacity of a linear structure to sustain coherent oscillations at the quantum level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of resonant modes along linear structures
+- Characterizing the density of standing waves in one-dimensional quantum systems
+- Studying the relationship between spatial scale and the capacity for coherent oscillations in linear paths
+- Describing the "linear resonance capacity" of different physical structures or materials
+
+
+## Other Information

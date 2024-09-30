@@ -1,0 +1,27 @@
+# Quantum Volume Oscillation Resistance (qvor)
+
+QMU Expression: qvor = 1/(C3*Fq3) = 1/qvos
+
+SI Equivalent: Information not available
+
+Shorthand: qvor
+
+## Description
+Quantifies the resistance or impedance to high-frequency oscillations or changes within a quantum volume. It represents the inverse of the product of a quantum volume and the cube of frequency, indicating the system's reluctance to undergo rapid volumetric changes.
+
+
+## Relationships
+- qvor = 1/qvos
+- qvor = 1/(dtrd*freq)
+- qvor = 1/(volm*qinf)
+
+
+## Applications
+- Analyzing stability of quantum volumes against high-frequency perturbations
+- Characterizing the resistance of quantum systems to rapid volumetric changes
+- Studying the factors that contribute to quantum volume stability in various contexts
+- Describing the inertial properties of quantum fields within defined volumes at high frequencies
+- Investigating quantum processes that involve resistance to both spatial and high-frequency temporal changes
+
+
+## Other Information

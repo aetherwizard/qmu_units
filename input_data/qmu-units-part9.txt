@@ -1,0 +1,128 @@
+# Quantum Electric Charge Flux (qecf)
+
+## QMU Expression
+qecf = 1/(eemax2*C2*Fq2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qecf
+
+## Description
+Represents the rate of change of electric charge distribution over a quantum surface area. It combines aspects of inverse magnetic charge, inverse quantum area, and inverse squared frequency to describe the dynamic behavior of electric charge in a two-dimensional quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the flow of electric charge across quantum surfaces or interfaces
+- Study of charge transfer processes in two-dimensional quantum systems
+- Characterization of the dynamics of charge redistribution in quantum Hall effect systems
+- Investigation of the interplay between electric charge flux and magnetic phenomena in planar quantum structures
+
+## Other Information
+This unit could be particularly useful in understanding the behavior of electric charge in quantum systems, especially for phenomena occurring on surfaces or in two-dimensional structures. It might provide insights into charge transport in 2D materials, surface plasmon dynamics, or the behavior of charge carriers in quantum wells.
+
+# Charge Surface - Temporal Confinement Coefficient (cscc)
+
+## QMU Expression
+cscc = 1/(eemax2*C2*Fq)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+cscc
+
+## Description
+Quantifies the temporal confinement or persistence of charge on a surface. It indicates how long a given amount of charge remains confined or localized on a surface before dissipating or redistributing.
+
+## Relationships
+- cscc = time*sfch: Where time is temporal duration and sfch is surface charge.
+
+## Applications
+- Surface charge analysis
+- Insulator and dielectric material selection
+- Charge dissipation and leakage prevention
+- Electrostatic discharge (ESD) protection design
+- Charge transfer and interactions study
+
+## Other Information
+A higher cscc value implies that the charge is more strongly confined and persists for a longer time, while a lower cscc value suggests that the charge dissipates or spreads out more quickly.
+
+# Charge Surface Confinement Coefficient (chcc)
+
+## QMU Expression
+chcc = 1/(eemax2*C2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chcc
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Quantum Electric Charge Jerk (qecj)
+
+## QMU Expression
+qecj = 1/(eemax2*C*Fq3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qecj
+
+## Description
+Represents the rate of change of electric charge acceleration along a quantum linear dimension. It combines aspects of inverse magnetic charge and the inverse of quantum dynamic frequency to describe the dynamic jerk (rate of change of acceleration) of electric charge in a one-dimensional quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the rapid changes in acceleration of electric charges in quantum wire-like structures
+- Study of the response of charge carriers to abruptly changing electric fields in one-dimensional quantum systems
+- Characterization of the higher-order dynamics of charge in quantum transport phenomena
+- Investigation of the interplay between electric charge jerk and magnetic effects in linear quantum structures
+
+## Other Information
+This unit could be particularly useful in understanding the behavior of electric charge under rapidly and abruptly changing conditions in quantum systems, especially for phenomena occurring in linear or one-dimensional structures.
+
+# Quantum Electric Charge Acceleration (qeca)
+
+## QMU Expression
+qeca = 1/(eemax2*C*Fq2)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qeca
+
+## Description
+Represents the rate of change of electric charge velocity along a quantum linear dimension. It combines aspects of inverse magnetic charge, inverse Compton wavelength, and inverse squared frequency to describe the dynamic acceleration of electric charge in a one-dimensional quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the acceleration of electric charges in quantum wire-like structures
+- Study of the response of charge carriers to changing electric fields in one-dimensional quantum systems
+- Characterization of the dynamics of charge in quantum transport phenomena, particularly how quickly charges can change their velocities
+- Investigation of the interplay between electric charge acceleration and magnetic effects in linear quantum structures
+
+## Other Information
+Information not available
+

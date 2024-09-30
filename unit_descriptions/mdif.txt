@@ -1,0 +1,25 @@
+# Magnetic Diffusion Impedance (mdif)
+
+QMU Expression: mdif = meCFqeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: mdif
+
+## Description
+Represents the resistance of the Aether to the diffusion of magnetic fields.
+
+
+## Relationships
+- mdif = mfxd*chgr
+- mdif = resn*leng
+- mdif = elfs*curr
+
+
+## Applications
+- Conductivity analysis
+- Particle scattering
+- Vacuum fluctuations
+
+
+## Other Information

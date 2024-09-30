@@ -1,0 +1,24 @@
+# Surface Charge Intensity Ratio (scir)
+
+QMU Expression: scir = me*C2*Fq3
+
+SI Equivalent: Information not available
+
+Shorthand: scir
+
+## Description
+Represents the product of surface charge density and quantum intensity resistance. It quantifies the relationship between surface charge distribution and resistance to high-frequency quantum processes and describes the interplay between surface electromagnetism and quantum energy transfer impedance in the Aether.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the behavior of charged surfaces in high-frequency quantum environments
+- Characterizing materials based on their surface electromagnetic properties and quantum energy transfer characteristics
+- Studying quantum systems where both surface charge effects and high-frequency quantum processes are critical
+- Investigating the relationship between surface electromagnetism and energy propagation in the Aether
+
+
+## Other Information

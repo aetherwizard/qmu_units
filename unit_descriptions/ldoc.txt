@@ -1,0 +1,24 @@
+# Length Density Orbital Coefficient (ldoc)
+
+QMU Expression: ldoc = me*C*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: ldoc
+
+## Description
+Represents the product of length density and orbital time, or the ratio of length density to resonance. It quantifies the relationship between linear mass distribution and quantum orbital or resonant behavior and describes how mass distributed along a length interacts with cyclic quantum processes in the Aether.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the behavior of linear mass distributions in quantum orbital systems
+- Characterizing one-dimensional or filamentary structures based on their mass distribution in relation to quantum cyclic processes
+- Studying quantum systems where linear mass effects interact with orbital motion or resonant behavior
+- Investigating the relationship between linear mass concentrations and quantum periodicity in the Aether
+
+
+## Other Information

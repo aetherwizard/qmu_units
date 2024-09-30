@@ -1,0 +1,24 @@
+# Quantum Volumetric Charge Inertia (qvci)
+
+QMU Expression: qvci = C3/(eemax2*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qvci
+
+## Description
+Represents the resistance of a quantum volume to rapid changes in its charge state. It combines aspects of quantum volume, inverse magnetic charge, and inverse high-frequency oscillations to describe the tendency of a three-dimensional quantum space to maintain its charge distribution against very rapid fluctuations.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the stability of charge distributions in quantum dots or nanostructures
+- Studying the resistance to rapid charge fluctuations in three-dimensional quantum systems
+- Characterizing the robustness of quantum states against high-frequency perturbations
+- Investigating the interplay between charge stability and magnetic properties in quantum volumes
+
+
+## Other Information

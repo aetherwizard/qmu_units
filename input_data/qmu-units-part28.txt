@@ -1,0 +1,104 @@
+# Length Density Temporal Factor (ldtf)
+
+## QMU Expression
+ldtf = me*C*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ldtf
+
+## Description
+Represents the product of length density and time, or the ratio of length density to frequency. It quantifies the relationship between linear mass distribution and temporal quantum processes and describes how mass distributed along a length evolves or persists over time in relation to quantum frequency in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the temporal behavior of linear mass distributions in quantum environments
+- Characterizing one-dimensional or filamentary structures based on their mass distribution stability and frequency response
+- Studying quantum systems where linear mass effects evolve over time or interact with periodic processes
+- Investigating the relationship between linear mass concentrations and temporal quantum phenomena in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum wire dynamics, time-dependent behavior of linear atomic chains, and in studying the evolution of one-dimensional quantum systems across various time scales.
+
+# Quantum Mass Intensity Resistance (qmir)
+
+## QMU Expression
+qmir = me*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qmir
+
+## Description
+Represents the product of mass and quantum intensity resistance. It quantifies the resistance of a given mass to high-frequency quantum processes and describes how a mass interacts with or impedes intense quantum fluctuations in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of particles or objects in high-energy quantum environments
+- Characterizing materials based on their resistance to intense quantum fluctuations
+- Studying quantum systems where both mass and high-frequency processes play crucial roles
+- Investigating the relationship between matter and intense quantum field interactions in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as particle physics, quantum optics, and in studying the behavior of matter in extreme quantum conditions where high-frequency processes dominate.
+
+# Quantum Mass Orbital Period (qmop)
+
+## QMU Expression
+qmop = me*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qmop
+
+## Description
+Represents the product of mass and orbital time in quantum systems. It quantifies the relationship between an object's mass and its quantum orbital period and describes how mass influences or is influenced by cyclic quantum processes in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the orbital characteristics of particles or objects in quantum systems
+- Characterizing the relationship between mass and orbital periods in atomic or molecular systems
+- Studying quantum systems where both mass and cyclic processes are significant
+- Investigating the connection between matter and quantum resonance phenomena in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as atomic physics, quantum chemistry, and in studying the behavior of matter in systems with well-defined quantum periodicities. It might offer insights into the relationship between mass and quantum orbital dynamics, potentially informing our understanding of atomic structures, molecular vibrations, and other cyclic quantum phenomena.
+
+# Quantum Mass Temporal Coefficient (qmtc)
+
+## QMU Expression
+qmtc = me*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qmtc
+
+## Description
+Represents the product of mass and time, or the ratio of mass to frequency in quantum systems. It quantifies the relationship between an object's mass and its temporal evolution or frequency response and describes how mass interacts with or influences temporal processes in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the temporal behavior of massive particles in quantum environments
+- Characterizing the frequency response of materials or objects in quantum systems
+- Studying quantum systems where both mass and time-dependent processes are crucial
+- Investigating the relationship between matter and quantum temporal evolution in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum dynamics, matter wave physics, and in studying the behavior of massive particles in time-dependent quantum systems. It might offer insights into the connection between mass and quantum temporal phenomena, potentially informing our understanding of particle decay processes, quantum coherence times, and the interaction of matter with time-varying quantum fields.
+

@@ -1,0 +1,24 @@
+# Quantum Aether Dynamic Mobility (qadm)
+
+QMU Expression: qadm = C*Fq2/me
+
+SI Equivalent: Information not available
+
+Shorthand: qadm
+
+## Description
+Represents the dynamic mobility of a quantum system through the Aether relative to its mass. It quantifies the responsiveness of a quantum system to frequency changes or accelerations in the Aether per unit mass and describes the capacity of a quantum entity to undergo rapid changes in its state or motion within the Aether structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing rapid quantum state transitions and their propagation through materials
+- Characterizing the dynamic quantum behavior of particles in the Aether
+- Studying the relationship between mass and acceleration in quantum systems within the Aether
+- Describing the "quantum Aether dynamic responsiveness" of various particles or materials
+
+
+## Other Information

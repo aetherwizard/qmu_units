@@ -1,0 +1,24 @@
+# Quantum Charge Distribution Dynamics (qcdd)
+
+QMU Expression: qcdd = C2/(eemax2*Fq)
+
+SI Equivalent: Information not available
+
+Shorthand: qcdd
+
+## Description
+Represents the rate at which a quantum system's charge distribution changes or evolves. It combines the system's charge distribution (chds) with its fundamental frequency (freq), describing how the spatial arrangement of charge interacts with the system's basic temporal behavior.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the dynamic behavior of charge distributions in quantum systems
+- Studying how two-dimensional quantum structures evolve in time
+- Characterizing the rate of change of charge-based quantum states
+- Investigating the relationship between spatial charge patterns and their temporal evolution in quantum materials
+
+
+## Other Information

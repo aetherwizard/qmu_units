@@ -1,0 +1,23 @@
+# Charge Radius (chgr)
+
+QMU Expression: chgr = C*eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chgr
+
+## Description
+Represents the spatial extent or distribution of electric charge within a particle or system. It is proportional to the Compton wavelength and the magnetic charge.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the behavior of charged particles
+- Studying interactions in various physical phenomena
+- Understanding the spatial distribution of charge in quantum systems
+
+
+## Other Information

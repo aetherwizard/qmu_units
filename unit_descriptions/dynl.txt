@@ -1,0 +1,24 @@
+# Dynamic Length (dynl)
+
+QMU Expression: dynl = C*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: dynl
+
+## Description
+Represents a characteristic length scale that evolves with the quantum frequency. It quantifies the spatial extent of quantum processes that are coupled to fundamental oscillations and describes a dynamic measure of distance in quantum systems that adapts to the system's intrinsic frequency.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the effective size of quantum systems under various energetic conditions
+- Characterizing the spatial reach of quantum interactions as a function of frequency
+- Studying the relationship between wavelength and frequency in quantum contexts
+- Describing the dynamic nature of quantum mechanical boundaries and barriers
+
+
+## Other Information

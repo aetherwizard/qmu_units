@@ -1,0 +1,25 @@
+# Magneto-Spatial Impedance Ratio (msir)
+
+QMU Expression: msir = area/resn = magm/potn = sfch/mflx
+
+SI Equivalent: Information not available
+
+Shorthand: msir
+
+## Description
+Represents a fundamental ratio that connects spatial, resistive, magnetic, and electric properties.
+
+
+## Relationships
+- msir = area/resn: Where area is spatial area and resn is resistance.
+- msir = magm/potn: Where magm is magnetic moment and potn is potential.
+- msir = sfch/mflx: Where sfch is surface charge and mflx is magnetic flux.
+
+
+## Applications
+- Analysis of magnetic materials
+- Study of charge distribution in electromagnetic systems
+- Investigation of impedance in electromagnetic systems
+
+
+## Other Information

@@ -1,0 +1,130 @@
+# Quantum Aether Surface Oscillation Mobility (qasm)
+
+## QMU Expression
+qasm = C2*Fq3/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qasm
+
+## Description
+Represents the surface oscillation mobility of a quantum system in the Aether relative to its mass. It quantifies the responsiveness of a quantum system's surface to high-frequency oscillations in the Aether per unit mass and describes the capacity of a quantum entity's surface to engage in intense oscillatory behavior within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing surface quantum effects and their dependence on mass
+- Characterizing the surface dynamics of quantum systems in the Aether
+- Studying the relationship between mass and surface quantum oscillations
+- Describing the "quantum Aether surface oscillation responsiveness" of various particles or materials
+
+## Other Information
+This unit offers a unique perspective on how quantum systems' surfaces engage in high-frequency oscillations within the Aether structure, relative to their mass. It could be particularly relevant in contexts such as surface plasmonics, quantum surface science, quantum catalysis, and quantum sensing.
+
+# Quantum Aether Thermal Mobility (qatm)
+
+## QMU Expression
+qatm = C2*Fq2/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qatm
+
+## Description
+Represents the thermal mobility or heat capacity of a quantum system in the Aether relative to its mass. It quantifies the thermal responsiveness of a quantum system in the Aether per unit mass and describes the capacity of a quantum entity to accommodate or transmit thermal energy within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing heat transfer and thermal behavior at the quantum scale
+- Characterizing the thermal properties of quantum systems in the Aether
+- Studying the relationship between mass and temperature in quantum thermodynamics
+- Describing the "quantum Aether thermal responsiveness" of various particles or materials
+
+## Other Information
+This unit offers a unique perspective on how quantum systems respond to and handle thermal energy within the Aether structure. It could be particularly relevant in contexts such as quantum thermodynamics, nanoscale heat transfer, quantum phase transitions, and quantum sensing.
+
+# Quantum Aether Angular Mobility (qaam)
+
+## QMU Expression
+qaam = C2*Fq/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qaam
+
+## Description
+Represents the angular mobility of a quantum system through the Aether relative to its mass. It quantifies the rotational or sweeping responsiveness of a quantum system in the Aether per unit mass and describes the capacity of a quantum entity to undergo angular changes or rotations within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing spin dynamics and angular momentum changes in quantum particles
+- Characterizing the rotational behavior of quantum systems in the Aether
+- Studying the relationship between mass and angular velocity in quantum systems
+- Describing the "quantum Aether angular responsiveness" of various particles or materials
+
+## Other Information
+This unit offers a unique perspective on how quantum systems respond to angular changes or engage in rotational motion within the Aether structure. It could be particularly relevant in contexts such as quantum spin systems, particle physics, quantum optics, and quantum computing.
+
+# Quantum Aether Dynamic Intensity (qadi)
+
+## QMU Expression
+qadi = C*Fq3/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qadi
+
+## Description
+Represents the resonant mobility of a quantum system through the Aether relative to its mass. It quantifies the responsiveness of a quantum system to resonant Aether interactions per unit mass and describes the propensity of a quantum entity to engage in resonant oscillations within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing resonant quantum effects and their propagation through materials
+- Characterizing the coherent quantum behavior of particles in the Aether
+- Studying the relationship between mass and resonant quantum state evolution in the Aether
+- Describing the "quantum Aether resonant responsiveness" of various particles or materials
+
+## Other Information
+This unit bridges concepts from quantum mechanics, resonance phenomena, and the Aether Physics Model, potentially offering new insights into the nature of coherent motion and resonant interactions at the quantum scale.
+
+# Quantum Aether Dynamic Mobility (qadm)
+
+## QMU Expression
+qadm = C*Fq2/me
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qadm
+
+## Description
+Represents the dynamic mobility of a quantum system through the Aether relative to its mass. It quantifies the responsiveness of a quantum system to frequency changes or accelerations in the Aether per unit mass and describes the capacity of a quantum entity to undergo rapid changes in its state or motion within the Aether structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing rapid quantum state transitions and their propagation through materials
+- Characterizing the dynamic quantum behavior of particles in the Aether
+- Studying the relationship between mass and acceleration in quantum systems within the Aether
+- Describing the "quantum Aether dynamic responsiveness" of various particles or materials
+
+## Other Information
+This unit bridges concepts from quantum mechanics, classical dynamics, and the Aether Physics Model, potentially offering new insights into the nature of rapid motion and acceleration at the quantum scale.
+

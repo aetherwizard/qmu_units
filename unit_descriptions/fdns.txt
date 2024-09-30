@@ -1,0 +1,26 @@
+# Force Density (fdns)
+
+QMU Expression: fdns = me*Fq2/C2
+
+SI Equivalent: Information not available
+
+Shorthand: fdns
+
+## Description
+Represents the concentration of force within a quantum volume. It quantifies the intensity of force fields in three-dimensional space at the quantum scale and describes the spatial distribution of force within Aether units.
+
+
+## Relationships
+- fdns = forc/volm
+- fdns = pres*wavn
+- fdns = masd*accl
+
+
+## Applications
+- Analyzing the distribution of forces in quantum systems
+- Characterizing the strength of quantum force fields in various contexts
+- Studying the relationship between force, mass, and spatial scales in quantum mechanics
+- Describing the intensity of interactions in quantum field theories
+
+
+## Other Information

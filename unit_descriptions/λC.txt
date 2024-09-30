@@ -1,0 +1,21 @@
+# Compton wavelength (λC)
+
+## Symbol
+λC
+
+## Description
+The Compton wavelength (λC) is a fundamental unit of dimension in the QMU system, representing a characteristic length scale in quantum mechanics. It is defined as the wavelength of a photon whose energy is equal to the rest energy of the electron. The Compton wavelength plays a crucial role in quantum electrodynamics and is intimately connected to the quantum nature of matter and radiation.
+
+## Key Points
+- Fundamental unit of dimension in QMU
+- Represents a characteristic quantum mechanical length scale
+- Essential in quantum electrodynamics
+- Related to the electron's rest mass and the speed of light
+
+## Relationships
+- Inversely proportional to the electron mass (me)
+- Used in combination with other base units (me, Fq, eemax) to derive more complex units in the QMU system
+- Plays a role in phenomena such as Compton scattering and pair production
+
+## Historical Note
+The Compton wavelength is named after Arthur Compton, who discovered Compton scattering, demonstrating the particle nature of electromagnetic radiation.

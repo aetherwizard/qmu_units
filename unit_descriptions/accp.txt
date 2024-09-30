@@ -1,0 +1,30 @@
+# Acceptance (accp)
+
+QMU Expression: accp = eemax2meCFq2
+
+SI Equivalent: Information not available
+
+Shorthand: accp
+
+## Description
+Represents the inherent attractive force between matter and Aether.
+
+
+## Relationships
+- accp = 1/elfs: Acceptance is the inverse of the elfs (electric field strength) unit.
+- accp = chrg/forc
+
+
+## Applications
+- Casimir effect measurements
+- Tests of short-range gravity-like forces
+- Particle entanglement observations
+- Lamb shift investigations
+- Van der Waals and London dispersion force quantification
+- Vacuum permittivity measurements
+- Aether drag effect probing
+- Gravitational anomaly testing
+- Dark matter effect studies
+
+
+## Other Information

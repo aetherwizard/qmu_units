@@ -1,0 +1,24 @@
+# Quantum Electric Charge Flux (qecf)
+
+QMU Expression: qecf = 1/(eemax2*C2*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qecf
+
+## Description
+Represents the rate of change of electric charge distribution over a quantum surface area. It combines aspects of inverse magnetic charge, inverse quantum area, and inverse squared frequency to describe the dynamic behavior of electric charge in a two-dimensional quantum system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the flow of electric charge across quantum surfaces or interfaces
+- Study of charge transfer processes in two-dimensional quantum systems
+- Characterization of the dynamics of charge redistribution in quantum Hall effect systems
+- Investigation of the interplay between electric charge flux and magnetic phenomena in planar quantum structures
+
+
+## Other Information

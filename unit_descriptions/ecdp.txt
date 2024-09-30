@@ -1,0 +1,24 @@
+# Quantum Electric Charge Displacement (ecdp)
+
+QMU Expression: ecdp = 1/(eemax2*C)
+
+SI Equivalent: Information not available
+
+Shorthand: ecdp
+
+## Description
+Represents the spatial shift or displacement of electric charge along a quantum linear dimension. It combines aspects of inverse magnetic charge and inverse Compton wavelength to describe the static displacement of electric charge in a one-dimensional quantum system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the spatial distribution of electric charges in quantum wire-like structures
+- Study of charge separation in one-dimensional quantum systems
+- Characterization of the static charge configuration in quantum devices
+- Investigation of the interplay between electric charge displacement and magnetic effects in linear quantum structures
+
+
+## Other Information

@@ -1,0 +1,27 @@
+# Pressure (pres)
+
+QMU Expression: pres = me*Fq2/C
+
+SI Equivalent: Information not available
+
+Shorthand: pres
+
+## Description
+Represents force per unit area at the quantum scale. It quantifies the intensity of force distribution over a surface within the Aether structure and describes the energy density in a quantum volume.
+
+
+## Relationships
+- pres = forc / area
+- pres = enrg / volm
+- pres = momd * velc
+- pres = ldns * rson
+
+
+## Applications
+- Analyzing quantum vacuum energy density
+- Characterizing stress in quantum materials and structures
+- Studying the relationship between energy, force, and spatial scales in quantum mechanics
+- Describing quantum fluctuations and their effects on spacetime
+
+
+## Other Information

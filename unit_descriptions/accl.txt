@@ -1,0 +1,24 @@
+# Acceleration (accl)
+
+QMU Expression: accl = C*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: accl
+
+## Description
+Represents a quantum-scale measure of acceleration in the Aether Physics Model. It combines a quantum length (C) with a two-dimensional frequency (Fq2), providing a fundamental description of change in velocity at the quantum level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Describing particle behavior in strong force fields
+- Analyzing quantum oscillator systems
+- Characterizing gravitational effects at quantum scales
+- Studying acceleration in quantum tunneling phenomena
+
+
+## Other Information

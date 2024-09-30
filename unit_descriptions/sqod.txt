@@ -1,0 +1,24 @@
+# Scalar Quantum Oscillation Density (sqod)
+
+QMU Expression: sqod = Fq3/C
+
+SI Equivalent: Information not available
+
+Shorthand: sqod
+
+## Description
+Represents the density of quantum oscillations along a linear dimension or path. It quantifies the rate of quantum fluctuations per unit length in the Aether and describes the intensity of quantum activity along a one-dimensional trajectory or line.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of quantum energy along linear structures or paths
+- Characterizing the intensity of quantum fluctuations in one-dimensional systems
+- Studying the relationship between spatial scale and quantum activity in linear quantum systems
+- Describing the "quantum linear density" of various physical systems or environments
+
+
+## Other Information

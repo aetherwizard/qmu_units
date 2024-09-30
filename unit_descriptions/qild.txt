@@ -1,0 +1,24 @@
+# Quantum Illumination Density (qild)
+
+QMU Expression: qild = 1/(eemax2*C2*Fq3)
+
+SI Equivalent: Information not available
+
+Shorthand: qild
+
+## Description
+Represents the density of quantum illumination events in space and time. It quantifies the rate of quantum interactions or excitations per unit area and frequency.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the distribution of quantum excitation events in various systems
+- Characterization of the intensity of light-matter interactions at the quantum level
+- Study of the relationship between spatial scale, frequency, and quantum activity
+- Description of the "quantum illumination capacity" of different physical environments or materials
+
+
+## Other Information

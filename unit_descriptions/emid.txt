@@ -1,0 +1,28 @@
+# Electromagnetic Interaction Density (emid)
+
+QMU Expression: emid = expr*chrg = chrg/mchg = magm/mflx = plsm/potn
+
+SI Equivalent: Information not available
+
+Shorthand: emid
+
+## Description
+Represents the combined effect of electric charge and magnetic charge-mass interaction.
+
+
+## Relationships
+- emid = expr*chrg: Where expr is exposure and chrg is charge.
+- emid = chrg/mchg: Where mchg is magnetism or magnetic charge.
+- emid = magm/mflx: Where magm is magnetic moment and mflx is magnetic flux.
+- emid = plsm/potn: Where plsm is plasma and potn is potential.
+
+
+## Applications
+- Analysis of electromagnetic field strength and distribution
+- Study of electromagnetic energy density
+- Investigation of electromagnetic stress and pressure
+- Analysis of electromagnetic wave amplitude
+- Study of plasma behavior and generation
+
+
+## Other Information

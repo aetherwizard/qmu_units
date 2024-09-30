@@ -1,0 +1,105 @@
+# Quantum Density Intensity Resistance (qdir)
+
+## QMU Expression
+qdir = me*C3*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qdir
+
+## Description
+Represents the resistance of a quantum volume to intense oscillations or changes. It quantifies the combined effect of mass density and quantum intensity resistance and describes the interplay between mass concentration and resistance to high-frequency quantum processes.
+
+## Relationships
+- qdir = masd*qire
+- qdir = mass*qvor
+
+## Applications
+- Analyzing the behavior of dense quantum systems under intense quantum fluctuations
+- Characterizing the resistance to quantum processes in high-density materials
+- Studying the relationship between mass concentration and quantum intensity effects
+- Investigating quantum damping phenomena in condensed matter systems
+
+## Other Information
+The qdir unit in the APM offers a unique perspective on the resistance of dense quantum systems to intense quantum processes. It provides a tool for analyzing how mass concentration affects the system's response to high-frequency quantum phenomena.
+
+# Mass-Resonance Coupling Ratio (mrcr)
+
+## QMU Expression
+mrcr = me*C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mrcr
+
+## Description
+Represents the ratio of mass density to resonance in quantum systems. It quantifies the relationship between spatial mass distribution and quantum resonant behavior and describes the balance between material presence and vibrational characteristics in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the interplay between mass concentration and resonant modes in quantum structures
+- Characterizing materials based on their mass-resonance properties
+- Studying quantum systems where both mass distribution and vibrational behavior are critical
+- Investigating the relationship between matter distribution and energy states in the Aether
+
+## Other Information
+It could be particularly relevant in fields such as condensed matter physics, quantum acoustics, or in studying the behavior of quantum oscillators in various mass environments.
+
+# Mass-Frequency Distribution Ratio (mfdr)
+
+## QMU Expression
+mfdr = me*C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfdr
+
+## Description
+Represents the ratio of mass density to frequency in quantum systems. It quantifies the relationship between spatial mass distribution and quantum oscillation frequency and describes how mass is distributed relative to the rate of quantum events in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of mass in relation to frequency-dependent quantum processes
+- Characterizing materials based on their mass-frequency properties
+- Studying quantum systems where both mass distribution and oscillation frequency are critical
+- Investigating the relationship between matter distribution and energy propagation in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as quantum optics, particle physics, and in studying the behavior of matter waves in various mass environments.
+
+# Surface Charge Intensity Ratio (scir)
+
+## QMU Expression
+scir = me*C2*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+scir
+
+## Description
+Represents the product of surface charge density and quantum intensity resistance. It quantifies the relationship between surface charge distribution and resistance to high-frequency quantum processes and describes the interplay between surface electromagnetism and quantum energy transfer impedance in the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the behavior of charged surfaces in high-frequency quantum environments
+- Characterizing materials based on their surface electromagnetic properties and quantum energy transfer characteristics
+- Studying quantum systems where both surface charge effects and high-frequency quantum processes are critical
+- Investigating the relationship between surface electromagnetism and energy propagation in the Aether
+
+## Other Information
+This unit could be particularly relevant in fields such as surface physics, quantum electrodynamics, and in studying the behavior of charged interfaces in various quantum environments.
+

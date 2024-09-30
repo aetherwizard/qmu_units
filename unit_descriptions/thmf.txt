@@ -1,0 +1,24 @@
+# Thermal Magnetic Friction (thmf)
+
+QMU Expression: thmf = meCeemax4
+
+SI Equivalent: Information not available
+
+Shorthand: thmf
+
+## Description
+Represents the frictional resistance to magnetic field motion in the presence of thermal gradients.
+
+
+## Relationships
+- thmf = fric*temp
+- thmf = mfld*magm
+- thmf = perm*chrg
+
+
+## Applications
+- Magnetothermal effects
+- Thermomagnetic phenomena
+
+
+## Other Information

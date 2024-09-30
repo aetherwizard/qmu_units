@@ -1,0 +1,22 @@
+# Exposure (expr)
+
+QMU Expression: expr = eemax2me
+
+SI Equivalent: Information not available
+
+Shorthand: expr
+
+## Description
+Quantifies the amount of magnetic charge interacting with mass.
+
+
+## Relationships
+- expr = 1/mchg: Whereas mchg represents the mass-to-magnetic charge ratio of magnetism, the reciprocal of magnetic charge-to-mass ratio quantifies the effect of magnetism on physical matter.
+
+
+## Applications
+- Quantum magnetism studies
+- Particle physics
+
+
+## Other Information

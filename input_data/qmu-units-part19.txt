@@ -1,0 +1,123 @@
+# Charge Density (chgd)
+
+## QMU Expression
+chgd = eemax2/C3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chgd
+
+## Description
+Represents the volumetric concentration of charge within a quantum system.
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Quantum Electric Field Intensity (qefi)
+
+## QMU Expression
+qefi = eemax2*C2*Fq3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qefi
+
+## Description
+Represents the capacity of the quantum Aether substrate to support resonant electric field oscillations across a quantum surface area. It combines aspects of charge, area, and frequency to describe the underlying structure's propensity for sustaining coherent electric field fluctuations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's ability to support standing electric field waves on surfaces
+- Studying how the Aether substrate influences electric field resonances in two-dimensional quantum systems
+- Characterizing the fundamental limits of electric field oscillations in quantum surface structures
+- Investigating the interplay between electric and magnetic phenomena in planar quantum resonant systems
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field intensities in quantum systems, especially for phenomena occurring on surfaces or in two-dimensional structures. It might provide insights into surface plasmons, quantum Hall effects, or the behavior of electric fields in 2D materials like graphene.
+
+# Quantum Electric Field Resonance (efrs)
+
+## QMU Expression
+efrs = eemax2*C2*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efrs
+
+## Description
+Represents the capacity of the quantum Aether substrate to support and sustain resonant electric field oscillations across a quantum surface area. It combines aspects of charge, area, and resonance to describe the underlying structure's propensity for maintaining coherent electric field oscillations.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the quantum vacuum's ability to sustain standing electric field waves on surfaces
+- Studying how the Aether substrate supports electric field resonances in two-dimensional quantum systems
+- Characterizing the fundamental resonant modes of electric fields in quantum surface structures
+- Investigating the interplay between electric and magnetic phenomena in planar quantum resonant systems
+
+## Other Information
+This substrate unit could be particularly useful in understanding the fundamental nature of electric field resonances in quantum systems, especially for phenomena occurring on surfaces or in two-dimensional structures. It might provide insights into surface plasmons, quantum Hall effects, or the behavior of resonant electric fields in 2D materials.
+
+# Magnetic Charge Density Frequency (mcdf)
+
+## QMU Expression
+mcdf = eemax2*C2*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcdf
+
+## Description
+Represents the magnetic charge density per unit area per unit frequency. It combines aspects of magnetic charge, area, and frequency to describe the behavior of magnetic fields and their interaction with matter at the quantum level.
+
+## Relationships
+- perm = drag/mcdf: Relating permeability to drag and magnetic charge density frequency
+
+## Applications
+- Analysis of magnetic field strength and distribution
+- Study of magnetic field dynamics
+- Investigation of magnetic field interactions with matter
+
+## Other Information
+mcdf is a factor that contributes to the permeability (perm) of a material, along with the drag term, which represents the resistance times length. Together, they provide insights into the strength, distribution, and dynamics of magnetic fields in the quantum realm.
+
+# Electric Flux Density (efxd)
+
+## QMU Expression
+efxd = eemax2*C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+efxd
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+

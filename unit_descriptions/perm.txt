@@ -1,0 +1,26 @@
+# Permeability (perm)
+
+QMU Expression: perm = meCeemax2
+
+SI Equivalent: Same as MKS / SI
+
+Shorthand: perm
+
+## Description
+Measures a material's ability to support a magnetic field.
+
+
+## Relationships
+- perm = mchg/leng: Permeability is a quality of Aether unit that refers to the degree it can be penetrated or permeated.
+- perm = 1/curl: Permeability is inversely related to curl and refers to the number of turns in a solenoid coil made from conductive material, especially in inductors.
+- perm = mflx/velc: Permeability is the magnetic flux per penetrating velocity.
+- perm = drag/mcdf: (see mcdf)
+
+
+## Applications
+- Magnetic material characterization
+- Inductor design
+- Electromagnetic shielding
+
+
+## Other Information

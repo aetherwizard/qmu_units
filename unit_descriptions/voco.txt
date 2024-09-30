@@ -1,0 +1,24 @@
+# Volumetric Orbital Coherence (voco)
+
+QMU Expression: voco = C3*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: voco
+
+## Description
+Represents the coherence of a quantum volume over a complete orbital cycle. It quantifies the persistence of spatial configuration through one full orbital period and describes the volumetric stability of quantum systems in cyclic motion.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the stability of electron orbitals in atoms
+- Characterizing the coherence of quantum states in cyclic systems
+- Studying the volumetric properties of quantum oscillators
+- Describing the spatial-temporal structure of standing waves in quantum fields
+
+
+## Other Information

@@ -1,0 +1,25 @@
+# Conductance (cond or Cd) (Conductance (cond or Cd))
+
+QMU Expression: cond = eemax2meC2Fq
+
+SI Equivalent: Same as MKS / SI
+
+Shorthand: cond or Cd
+
+## Description
+Measures a material's ability to conduct electric current.
+
+
+## Relationships
+- cond = elfs*mfdi: Related to electric field strength (elfs) and magnetic field intensity (mfdi).
+- cond = 1/mflx: Conductance is reciprocal to magnetic flux (not resistance).
+- cond = eemax2/h: Conductance represents the magnetic charge per unit of angular momentum.
+
+
+## Applications
+- Electrical circuit analysis
+- Material characterization
+- Quantum conductance
+
+
+## Other Information

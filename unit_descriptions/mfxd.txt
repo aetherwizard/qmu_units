@@ -1,0 +1,23 @@
+# Magnetic Flux Density (mfxd)
+
+QMU Expression: mfxd = meFqeemax2
+
+SI Equivalent: Information not available
+
+Shorthand: mfxd
+
+## Description
+Quantifies the strength of magnetic flux per unit area.
+
+
+## Relationships
+- mfxd = mflx/area
+- mfxd = mfld/volm: Magnetic flux density is the amount of magnetic field in a given volume.
+
+
+## Applications
+- Electromagnetic field analysis
+- Magnetic material characterization
+
+
+## Other Information

@@ -1,0 +1,27 @@
+# Electric Field Strength (elfs)
+
+QMU Expression: elfs = meCFq2eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: elfs
+
+## Description
+Equal to potential per length and reciprocal of capacitance times length.
+
+
+## Relationships
+- elfs = potn/leng: The electric field strength is the potential gradient measuring a specific potential at a specific distance.
+- elfs = 1/(capc*leng): The electric field strength of a capacitor is reciprocal to the capacity of the plates and the thickness of the dielectric.
+- elfs = forc/chrg: The electric field is traditionally explained as force per charge.
+- elfs = efld*momt/volm: Electric field strength relates to the electric field when the electric field has momentum per volume of effectiveness.
+- elfs*efld = resn*temp: When the electric field strength is applied to other electric fields, we get an insulation unit, which is equal to resistance times temperature.
+
+
+## Applications
+- Capacitor design
+- Electrostatic force calculations
+- Insulation properties
+
+
+## Other Information

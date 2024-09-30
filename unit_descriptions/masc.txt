@@ -1,0 +1,26 @@
+# Magnetic Spatial Compliance (masc)
+
+QMU Expression: Information not available
+
+SI Equivalent: Information not available
+
+Shorthand: masc
+
+## Description
+Represents the relationship between the spatial distribution of magnetic fields and the associated electric fields, charges, and potentials.
+
+
+## Relationships
+- masc = curl/chga
+- masc = elcg/elfs
+- masc = chrg/potn
+- masc = efxd/cvef
+
+
+## Applications
+- Electromagnetic compatibility analysis
+- Magnetic field shaping
+- Electro-magnetic coupling studies
+
+
+## Other Information

@@ -1,0 +1,130 @@
+# Quantum Photomagnetic Density (qpmd)
+
+## QMU Expression
+qpmd = mchg/ligt
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qpmd
+
+## Description
+Represents the concentration or distribution of magnetic charge within a given light field, emphasizing the relationship between magnetism and light in a system.
+
+## Relationships
+- qpmd = cscc*accl: Relates to Charge Surface-Temporal Confinement Coefficient and acceleration.
+
+## Applications
+- Analysis of electromagnetic phenomena in the presence of light
+- Study of photon absorption and emission by atoms
+- Investigation of optical properties of materials with high magnetic charge density
+
+## Other Information
+A higher qpmd value indicates a greater magnetic charge per unit light, suggesting that the system has a stronger magnetic presence relative to the light available. Conversely, a lower qpmd value implies a weaker magnetic charge per unit light, indicating a reduced magnetic presence relative to the light present.
+
+# Magnetic Charge per Photon (mcpp)
+
+## QMU Expression
+mcpp = mchg/phtn
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcpp
+
+## Description
+Represents the amount of magnetic charge associated with each photon in a system.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of magnetic properties of photons
+- Study of photon interactions with matter
+- Investigation of quantum electrodynamics
+
+## Other Information
+A higher mcpp value indicates a greater magnetic charge per photon, suggesting that each photon carries a larger amount of magnetism. Conversely, a lower mcpp value implies a smaller magnetic charge per photon, indicating that each photon carries a lesser amount of magnetism.
+
+# Magnetic Charge Distribution per Rotation (mcdr)
+
+## QMU Expression
+mcdr = mchg/rota
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcdr
+
+## Description
+Quantifies the amount of magnetic charge associated with each unit of rotational motion in the Aether, providing insights into the spatial distribution and density of magnetic charge within the Aether's rotational structure.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the Aether's rotational properties
+- Study of the emergence of magnetic fields in the universe
+- Investigation of the relationship between rotation and magnetism in quantum systems
+
+## Other Information
+A higher mcdr value indicates a greater concentration of magnetic charge per unit of rotation, suggesting a more dense packing of magnetic charge in the Aether's rotational structure. Conversely, a lower mcdr value implies a lower concentration of magnetic charge per unit of rotation, indicating a more diffuse distribution of magnetic charge within the Aether's rotational structure.
+
+# Magnetic Charge Rotational Density (mcrd)
+
+## QMU Expression
+mcrd = 1/(eemax2*C3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mcrd
+
+## Description
+Quantifies the concentration of magnetic charge in relation to rotational and resonant phenomena. It represents the density of magnetic charge as it interacts with dynamic, rotating systems or high-frequency environments.
+
+## Relationships
+- mcrd = mchg/vrtx
+- mcrd = mcpp/rson
+- mcrd = qpmd*(freq)3
+- mcrd = mfxd/rota
+
+## Applications
+- Analysis of astrophysical systems with strong rotational components
+- Study of quantum-level magnetic resonance phenomena
+- Investigation of high-frequency electronic and quantum devices
+- Analysis of vortex-like structures in space and their interaction with magnetic fields
+
+## Other Information
+In the Aether Physics Model, mcrd serves as a key concept for unifying our understanding of magnetic behavior across different scales and dynamic conditions, from quantum-level interactions to large-scale astrophysical phenomena.
+
+# Quantum Illumination Density (qild)
+
+## QMU Expression
+qild = 1/(eemax2*C2*Fq3)
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qild
+
+## Description
+Represents the density of quantum illumination events in space and time. It quantifies the rate of quantum interactions or excitations per unit area and frequency.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of the distribution of quantum excitation events in various systems
+- Characterization of the intensity of light-matter interactions at the quantum level
+- Study of the relationship between spatial scale, frequency, and quantum activity
+- Description of the "quantum illumination capacity" of different physical environments or materials
+
+## Other Information
+The qild unit offers a unique perspective on how quantum excitation or illumination events are distributed in both space and time. It bridges the gap between charge-based, spatial, and temporal descriptions of quantum behavior.
+

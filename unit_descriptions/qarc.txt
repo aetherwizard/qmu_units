@@ -1,0 +1,27 @@
+# Quantum Area Resonance Compliance (qarc)
+
+QMU Expression: qarc = C2/(me*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qarc
+
+## Description
+Represents the compliance of a quantum surface area to resonant oscillations. It quantifies the ability of a given mass distributed over an area to respond to resonant frequencies and describes the interplay between surface area, mass, and resonant behavior in quantum systems.
+
+
+## Relationships
+- qarc = spra/rson
+- qarc = qvtc/leng
+- qarc = area*qspr
+- qarc = leng/pres
+
+
+## Applications
+- Analyzing the resonant behavior of two-dimensional quantum systems
+- Characterizing the frequency response of quantum surfaces and interfaces
+- Studying surface wave phenomena in quantum materials
+- Investigating quantum membrane dynamics and their resonant modes
+
+
+## Other Information

@@ -1,0 +1,22 @@
+# Magnetic Field Exposure (mfde)
+
+QMU Expression: mfde = eemax2meC3
+
+SI Equivalent: Information not available
+
+Shorthand: mfde
+
+## Description
+Quantifies the exposure to magnetic field effects within a volume.
+
+
+## Relationships
+- mfde = vlmw*mfxd: Related to magnetic flux density (mfxd) and volumetric wave (vlmw).
+
+
+## Applications
+- Evaluating magnetic field bioeffects and health impacts
+- Assessing field exposure levels and concentration distribution
+
+
+## Other Information

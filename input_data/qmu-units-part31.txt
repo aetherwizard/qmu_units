@@ -1,0 +1,107 @@
+# Quantum Volume Oscillation (qvos)
+
+## QMU Expression
+qvos = C3*Fq3 = dtrd*freq = volm*qinf
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+qvos
+
+## Description
+Quantifies the rate of oscillation or change within a quantum volume. It represents the product of a quantum volume and the cube of frequency, linking spatial and high-frequency temporal aspects of quantum phenomena.
+
+## Relationships
+- qvos = C3*Fq3
+- qvos = dtrd*freq
+- qvos = volm*qinf
+
+## Applications
+- Analyzing high-frequency volumetric oscillations in quantum systems
+- Characterizing the intense activity level of quantum volumes in various contexts
+- Studying the relationship between spatial extent and high-frequency oscillations in quantum phenomena
+- Describing the dynamism of quantum fields within defined volumes at high frequencies
+- Investigating quantum processes that involve both spatial and high-frequency temporal components
+
+## Other Information
+The qvos unit in the APM offers a unique perspective on quantum volumetric phenomena by combining spatial and high-frequency temporal aspects. It bridges concepts of quantum volume, double toroid, frequency, and quantum intensity factor, providing a tool for analyzing how intensely a quantum volume is oscillating or changing at high frequencies.
+
+# Double Toroid or Volume Resonance (dtrd)
+
+## QMU Expression
+dtrd = C3*Fq2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+dtrd
+
+## Description
+Quantifies volumetric resonance at the quantum scale. It combines a quantum volume (C3) with a two-dimensional frequency known as resonance (Fq2), representing a three-dimensional oscillating structure within the Aether.
+
+## Relationships
+Information not available
+
+## Applications
+- Describing quantum vacuum fluctuations
+- Analyzing three-dimensional electromagnetic wave behavior
+- Studying resonant modes in quantum cavities
+- Characterizing volumetric properties of subatomic particles
+
+## Other Information
+Information not available
+
+# Flow (flow)
+
+## QMU Expression
+flow = C3*Fq
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+flow
+
+## Description
+Quantifies the rate of volume change at the quantum scale. It combines a quantum volume (C3) with a frequency (Fq), representing the flow of space or Aether units per unit time.
+
+## Relationships
+Information not available
+
+## Applications
+- Describing quantum fluid dynamics
+- Analyzing energy flow in quantum systems
+- Studying the movement of charge carriers in quantum materials
+- Characterizing spatial-temporal variations in quantum fields
+
+## Other Information
+Information not available
+
+# Volume (volm)
+
+## QMU Expression
+volm = C3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+volm
+
+## Description
+Represents the fundamental quantum volume in the Aether Physics Model. It is defined as the cube of the Compton wavelength, providing a discrete measure of space at the quantum scale.
+
+## Relationships
+Information not available
+
+## Applications
+- Defining the volume of subatomic particles
+- Analyzing spatial distributions in quantum systems
+- Characterizing quantum confinement effects
+- Describing quantum vacuum structure
+
+## Other Information
+Information not available
+

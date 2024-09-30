@@ -1,0 +1,165 @@
+# Electric Field Strength (elfs)
+
+## QMU Expression
+elfs = meCFq2eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+elfs
+
+## Description
+Equal to potential per length and reciprocal of capacitance times length.
+
+## Relationships
+- elfs = potn/leng: The electric field strength is the potential gradient measuring a specific potential at a specific distance.
+- elfs = 1/(capc*leng): The electric field strength of a capacitor is reciprocal to the capacity of the plates and the thickness of the dielectric.
+- elfs = forc/chrg: The electric field is traditionally explained as force per charge.
+- elfs = efld*momt/volm: Electric field strength relates to the electric field when the electric field has momentum per volume of effectiveness.
+- elfs*efld = resn*temp: When the electric field strength is applied to other electric fields, we get an insulation unit, which is equal to resistance times temperature.
+
+## Applications
+- Capacitor design
+- Electrostatic force calculations
+- Insulation properties
+
+## Other Information
+Information not available
+
+# Magnetic Rigidity (magr)
+
+## QMU Expression
+magr = meCFqeemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+magr
+
+## Description
+Material's resistance to deformation by a magnetic field. Measuring magnetic rigidity helps characterize materials for applications like MRI machines, particle accelerators, and fusion reactors where strong magnetic fields are present.
+
+## Relationships
+- magr = mfld*bndr: Related to magnetic field (mfld) and bending radius (bndr).
+- magr = mfxd*leng: Magnetic rigidity is measured in units of magnetic flux density (magnetic field strength), like tesla-meters.
+
+## Applications
+- MRI machines
+- Particle accelerators
+- Fusion reactors
+- Material characterization
+
+## Other Information
+Magnetic rigidity depends on how easily a magnetic field can penetrate a material's permeability. Lower permeability means higher magnetic rigidity. Materials like iron have high permeability and low magnetic rigidity. External fields pass through easily. Materials like bismuth have low permeability and high magnetic rigidity. External fields are resisted. Diamagnetic materials oppose and exclude external fields, giving very high magnetic rigidity. Rigidity also depends on molecular structure. More rigid atomic bonds increase resistance to magnetic deformation forces.
+
+# Permeability (perm)
+
+## QMU Expression
+perm = meCeemax2
+
+## SI Equivalent
+Same as MKS / SI
+
+## Shorthand
+perm
+
+## Description
+Measures a material's ability to support a magnetic field.
+
+## Relationships
+- perm = mchg/leng: Permeability is a quality of Aether unit that refers to the degree it can be penetrated or permeated.
+- perm = 1/curl: Permeability is inversely related to curl and refers to the number of turns in a solenoid coil made from conductive material, especially in inductors.
+- perm = mflx/velc: Permeability is the magnetic flux per penetrating velocity.
+- perm = drag/mcdf: (see mcdf)
+
+## Applications
+- Magnetic material characterization
+- Inductor design
+- Electromagnetic shielding
+
+## Other Information
+Permeability is the quality of Aether that "grabs" onto magnetic charge as it passes through. Think of water permeating a piece of cloth. The water can pass through the cloth, but a certain amount of drag is imposed on its movement. Aether permeability has this type of effect on the magnetic charge.
+
+# Diverging Electric Field (dvef)
+
+## QMU Expression
+dvef = meFq2eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+dvef
+
+## Description
+The diverging electric field has a unit of its own but in classical electromagnetism diverging electric field is strictly a mathematical operator. It equals the electric field strength per length and represents the electric field spreading out from a point source.
+
+## Relationships
+- dvef = elfs/leng: Related to electric field strength (elfs) and length (leng).
+- dvef = mchg*rson: Diverging electric fields equals magnetism times resonance.
+
+## Applications
+- Quantum electrodynamics
+- Field theory
+
+## Other Information
+The equation dvef = mchg*rson suggests that the divergence of an electric field is proportional to the product of magnetism and resonance. In other words, the spreading out of an electric field is influenced by the inherent magnetic nature of matter (mchg) and the oscillatory behavior or repetition of a process (rson).
+
+This relationship implies that the divergence of an electric field is not only determined by the electric charge distribution but also by the magnetic properties of matter and the resonant frequencies involved. It highlights the interconnectedness of electric and magnetic phenomena at the quantum level.
+
+From a physical perspective, this relationship could manifest in situations where the presence of magnetic materials or oscillating magnetic fields influences the behavior and distribution of electric fields. The resonant frequencies associated with these magnetic phenomena can contribute to the divergence or spreading out of the electric field.
+
+It's important to note that this relationship is specific to the QMU system and may not have a direct analogue in classical electromagnetism. The QMU system provides a unique perspective on the fundamental relationships between electric and magnetic phenomena at the quantum scale.
+
+The uniqueness of a quantum dvef: It represents the smallest quantized "piece" of an electric field emanating from a point. This makes it very different from the continuous field concept in classical physics. A quantum of dvef would discretely alter permittivity in the aether in a localized region.
+
+# Magnetic Flux Density (mfxd)
+
+## QMU Expression
+mfxd = meFqeemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mfxd
+
+## Description
+Quantifies the strength of magnetic flux per unit area.
+
+## Relationships
+- mfxd = mflx/area
+- mfxd = mfld/volm: Magnetic flux density is the amount of magnetic field in a given volume.
+
+## Applications
+- Electromagnetic field analysis
+- Magnetic material characterization
+
+## Other Information
+Information not available
+
+# Magnetism (mchg)
+
+## QMU Expression
+mchg = meeemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mchg
+
+## Description
+The mass-to-magnetic charge ratio is the same for all stable particles throughout the Universe. It is the magnetism constant.
+
+## Relationships
+Information not available
+
+## Applications
+- Fundamental constant in the Aether Physics Model
+
+## Other Information
+Information not available
+

@@ -1,0 +1,24 @@
+# Scalar Wave (sclw)
+
+QMU Expression: sclw = Fq/C
+
+SI Equivalent: Information not available
+
+Shorthand: sclw
+
+## Description
+Represents the frequency of quantum waves or oscillations per unit length along a linear dimension or path. It quantifies the density of wave phenomena in a one-dimensional quantum system and describes the rate of quantum fluctuations or oscillations occurring along a given linear path.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the distribution of wave activity along quantum wires or linear structures
+- Characterizing the density of quantum fluctuations in one-dimensional systems
+- Studying the relationship between length and the frequency of quantum waves in linear geometries
+- Describing the "linear wave activity" of different physical environments or states of matter
+
+
+## Other Information

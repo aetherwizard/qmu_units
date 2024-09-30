@@ -1,0 +1,24 @@
+# Plasma (plsm)
+
+QMU Expression: plsm = eemax2*C2*Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: plsm
+
+## Description
+Represents a state of matter consisting of ionized particles.
+
+
+## Relationships
+- plsm = phtn*curl
+- plsm = chrg*temp
+
+
+## Applications
+- Analysis of plasma states in various systems
+- Study of plasma physics and dynamics
+- Investigation of high-temperature and high-energy phenomena
+
+
+## Other Information

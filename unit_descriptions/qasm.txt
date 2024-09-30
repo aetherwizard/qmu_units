@@ -1,0 +1,24 @@
+# Quantum Aether Surface Oscillation Mobility (qasm)
+
+QMU Expression: qasm = C2*Fq3/me
+
+SI Equivalent: Information not available
+
+Shorthand: qasm
+
+## Description
+Represents the surface oscillation mobility of a quantum system in the Aether relative to its mass. It quantifies the responsiveness of a quantum system's surface to high-frequency oscillations in the Aether per unit mass and describes the capacity of a quantum entity's surface to engage in intense oscillatory behavior within the Aether structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing surface quantum effects and their dependence on mass
+- Characterizing the surface dynamics of quantum systems in the Aether
+- Studying the relationship between mass and surface quantum oscillations
+- Describing the "quantum Aether surface oscillation responsiveness" of various particles or materials
+
+
+## Other Information

@@ -1,0 +1,23 @@
+# Magnetic Reluctance (mrlc)
+
+QMU Expression: mrlc = curr/mflx
+
+SI Equivalent: S = amp-turns/weber
+
+Shorthand: mrlc
+
+## Description
+Represents the opposition offered by the magnetic circuit to the magnetic flux.
+
+
+## Relationships
+- mrlc = curr/mflx: Where curr is magnetic current and mflx is magnetic flux.
+
+
+## Applications
+- Magnetic circuit analysis
+- Design of electromagnetic devices
+- Study of magnetic materials
+
+
+## Other Information

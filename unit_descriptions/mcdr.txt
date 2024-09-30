@@ -1,0 +1,23 @@
+# Magnetic Charge Distribution per Rotation (mcdr)
+
+QMU Expression: mcdr = mchg/rota
+
+SI Equivalent: Information not available
+
+Shorthand: mcdr
+
+## Description
+Quantifies the amount of magnetic charge associated with each unit of rotational motion in the Aether, providing insights into the spatial distribution and density of magnetic charge within the Aether's rotational structure.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the Aether's rotational properties
+- Study of the emergence of magnetic fields in the universe
+- Investigation of the relationship between rotation and magnetism in quantum systems
+
+
+## Other Information

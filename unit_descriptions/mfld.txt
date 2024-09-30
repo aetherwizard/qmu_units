@@ -1,0 +1,25 @@
+# Magnetic Field (mfld)
+
+QMU Expression: mfld = meC3Fqeemax2
+
+SI Equivalent: Information not available
+
+Shorthand: mfld
+
+## Description
+Represents the flow of magnetism in the Aether. The magnetic field is the whole volumetric flow of magnetism in the Aether, where the "flow" manifests in different modes.
+
+
+## Relationships
+- mfld = flowmchg: Magnetic charge equals flow times mchg.
+- mfld = chrgdrag
+- mfld = mfxdvolm: Magnetic field equals magnetic flux density times volume.
+- mfld = currffeq: Flux flow equilibrium is important in electrodynamics.
+
+
+## Applications
+- Electrodynamics
+- Current flow in conductors
+
+
+## Other Information

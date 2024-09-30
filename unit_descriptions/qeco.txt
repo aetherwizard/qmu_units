@@ -1,0 +1,24 @@
+# Quantum Electric Charge Oscillation (qeco)
+
+QMU Expression: qeco = 1/(eemax2*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qeco
+
+## Description
+Represents the amplitude or strength of electric charge oscillations in a quantum system, independent of spatial dimensions. It combines aspects of inverse magnetic charge and inverse square of quantum frequency to describe the dynamic oscillatory behavior of electric charge at the quantum scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of the strength of electric charge oscillations in quantum systems
+- Study of resonant charge behavior in quantum electrodynamics
+- Characterization of the amplitude of charge-related quantum oscillations in various systems
+- Investigation of the interplay between oscillating electric charges and magnetic phenomena
+
+
+## Other Information

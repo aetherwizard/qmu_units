@@ -1,0 +1,23 @@
+# Quantum Velocity (velc)
+
+QMU Expression: velc = C*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: velc
+
+## Description
+Represents the fundamental quantum velocity in the Aether Physics Model. It combines the quantum length (C) with the quantum frequency (Fq), resulting in a constant value that corresponds to the speed of photons in vacuum.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing light propagation in quantum systems
+- Characterizing the behavior of photons
+- Studying space compression effects at quantum scales
+
+
+## Other Information

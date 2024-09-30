@@ -1,0 +1,78 @@
+# Volumetric Wave Frequency (vlmw)
+
+## QMU Expression
+vlmw = Fq/C3
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+vlmw
+
+## Description
+Represents the frequency of quantum waves or oscillations per unit volume of space. It quantifies the density of wave phenomena in a three-dimensional quantum system and describes the rate of quantum fluctuations or oscillations occurring within a given volume.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of wave activity in quantum fields
+- Characterizing the density of quantum fluctuations in vacuum or material media
+- Studying the relationship between spatial scale and the frequency of quantum waves
+- Describing the "wave activity" of different physical environments or states of matter
+
+## Other Information
+The linear relationship with frequency, coupled with the inverse cube relationship to length, emphasizes how wave phenomena are sensitive to both the characteristic frequency of the system and its spatial dimensions. This could lead to insights into scale-dependent wave effects, the behavior of quantum waves in confined geometries, or the nature of quantum vacuum fluctuations.
+
+# Transverse Quantum Oscillation Density (tqod)
+
+## QMU Expression
+tqod = Fq3/C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+tqod
+
+## Description
+Represents the density of quantum oscillations across a two-dimensional surface or interface. It quantifies the rate of quantum fluctuations per unit area in the Aether and describes the intensity of quantum activity on a planar cross-section of space-time.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of quantum energy across surfaces or interfaces
+- Characterizing the intensity of quantum fluctuations at boundaries between different media
+- Studying the relationship between spatial scale and quantum activity in two-dimensional systems
+- Describing the "quantum surface density" of various physical systems or environments
+
+## Other Information
+The cubic relationship with frequency emphasizes how small changes in frequency can lead to large changes in the surface quantum activity. This could lead to insights into threshold effects or phase transitions in planar quantum systems. This unit could be particularly relevant in discussions of surface physics, interface phenomena in quantum systems, and in understanding the behavior of quasi-two-dimensional quantum systems.
+
+# Transverse Surface Resonance (tvsr)
+
+## QMU Expression
+tvsr = Fq2/C2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+tvsr
+
+## Description
+Represents the intensity of resonant phenomena across a two-dimensional surface or interface. It quantifies the density of resonant modes or standing waves in a planar quantum system and describes the capacity of a surface to sustain coherent oscillations at the quantum level.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing the distribution of resonant modes on surfaces or interfaces
+- Characterizing the density of standing waves in two-dimensional quantum systems
+- Studying the relationship between spatial scale and the capacity for coherent oscillations on surfaces
+- Describing the "surface resonance capacity" of different physical interfaces or materials
+
+## Other Information
+The square relationship with both frequency and length emphasizes a direct correspondence between the characteristic frequency of the system and its spatial dimensions. This could lead to insights into size-dependent resonant effects in nanostructures, surface-specific quantum phenomena, or the behavior of quantum systems at interfaces.
+

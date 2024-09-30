@@ -1,0 +1,23 @@
+# Magnetic Charge per Photon (mcpp)
+
+QMU Expression: mcpp = mchg/phtn
+
+SI Equivalent: Information not available
+
+Shorthand: mcpp
+
+## Description
+Represents the amount of magnetic charge associated with each photon in a system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analysis of magnetic properties of photons
+- Study of photon interactions with matter
+- Investigation of quantum electrodynamics
+
+
+## Other Information

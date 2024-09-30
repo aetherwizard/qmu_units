@@ -1,0 +1,21 @@
+# Magnetic Flux Intensity Ratio (mfir)
+
+QMU Expression: mfir = eemax2meC3Fq
+
+SI Equivalent: Information not available
+
+Shorthand: mfir
+
+## Description
+Represents the ratio of magnetic field intensity to energy density.
+
+
+## Relationships
+- mfir = mfdi/enrg: Magnetic field intensity (mfdi) quantifies the work a magnetic field can do. Energy density relates to the concentration and strength of energy in a region.
+
+
+## Applications
+- Characterizing and comparing the concentration of different magnetic field configurations
+
+
+## Other Information

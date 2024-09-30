@@ -1,0 +1,24 @@
+# Sweep or Angular Velocity (swep)
+
+QMU Expression: swep = C2*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: swep
+
+## Description
+Represents a quantum-scale sweep or angular velocity measure in the Aether Physics Model. It combines a quantum area (C2) with a frequency (Fq), providing a fundamental description of rotational motion or field sweeping at the quantum level.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Describing spin properties of subatomic particles
+- Analyzing angular momentum in quantum systems
+- Characterizing magnetic field rotations at the quantum scale
+- Studying vortex behavior in quantum fluids
+
+
+## Other Information

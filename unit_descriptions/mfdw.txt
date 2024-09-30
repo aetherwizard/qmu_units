@@ -1,0 +1,24 @@
+# Magnetic Flux Density Wave (mfdw)
+
+QMU Expression: mfdw = meCFq2eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: mfdw
+
+## Description
+Represents the propagating flux concentration induced by moving magnetic charges.
+
+
+## Relationships
+- mfdw = mfxd*chgv: mfdw describes the wave-like behavior of magnetic flux density due to the motion of magnetic charges.
+- mfdw = elfs*chrg
+
+
+## Applications
+- Electromagnetic radiation
+- Magnetoplasma oscillations
+- Diamagnetism
+
+
+## Other Information

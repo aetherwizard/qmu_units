@@ -1,0 +1,23 @@
+# Magnetic Field Resistance (mfdr)
+
+QMU Expression: mfdr = 1/(chgr*mfxd) = curr/elfs
+
+SI Equivalent: Information not available
+
+Shorthand: mfdr
+
+## Description
+Represents the magnetic field resistance per unit charge.
+
+
+## Relationships
+- mfdr = 1/(chgr*mfxd): Where chgr is charge radius and mfxd is magnetic flux density.
+- mfdr = curr/elfs: Where curr is magnetic current and elfs is electric field strength.
+
+
+## Applications
+- Study of magnetic field behavior in various materials
+- Analysis of magnetic resistance in electromagnetic systems
+
+
+## Other Information

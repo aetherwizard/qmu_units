@@ -1,0 +1,24 @@
+# Frequency (freq)
+
+QMU Expression: freq = Fq
+
+SI Equivalent: Information not available
+
+Shorthand: freq
+
+## Description
+Represents the fundamental quantum frequency in the Aether Physics Model. It is defined as equivalent to the quantum frequency, providing a discrete measure of temporal oscillation at the quantum scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Defining the oscillation rates of subatomic particles
+- Analyzing energy levels in quantum systems
+- Characterizing quantum state transitions
+- Describing quantum field fluctuations
+
+
+## Other Information

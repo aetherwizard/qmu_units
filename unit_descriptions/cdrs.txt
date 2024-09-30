@@ -1,0 +1,24 @@
+# Quantum Charge Density Resonance (cdrs)
+
+QMU Expression: cdrs = eemax2*Fq2/C3
+
+SI Equivalent: Information not available
+
+Shorthand: cdrs
+
+## Description
+Represents the capacity of the quantum substrate to support resonant oscillations of charge density within a quantum volume. It combines the system's charge density (chgd) with its resonance factor (rson), describing how the volumetric concentration of charge interacts with resonant quantum processes.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the resonant behavior of charge density fluctuations in the quantum vacuum
+- Studying how the quantum Aether supports sustained charge density oscillations
+- Characterizing the substrate's capacity for resonant charge density phenomena
+- Investigating the relationship between charge density and resonant quantum processes in various materials
+
+
+## Other Information

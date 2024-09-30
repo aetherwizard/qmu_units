@@ -1,0 +1,25 @@
+# Magnetic Moment (magm)
+
+QMU Expression: magm = eemax2*C2*Fq
+
+SI Equivalent: J/T (Joule per Tesla)
+
+Shorthand: magm
+
+## Description
+Measures the influence of the Aether's electrostatic charge against the magnetic charge of the subatomic particle.
+
+
+## Relationships
+- μe = (ge*magm)/(8π): For electron magnetic moment
+- μp = (gp*magm)/(8π): For proton magnetic moment
+- μn ≈ 1.001 * (gn*magm)/(8π): For neutron magnetic moment
+
+
+## Applications
+- Analysis of subatomic particle properties
+- Study of magnetic interactions at the quantum level
+- Investigation of nuclear magnetic resonance phenomena
+
+
+## Other Information

@@ -1,0 +1,21 @@
+# Magnetism (mchg)
+
+QMU Expression: mchg = meeemax2
+
+SI Equivalent: Information not available
+
+Shorthand: mchg
+
+## Description
+The mass-to-magnetic charge ratio is the same for all stable particles throughout the Universe. It is the magnetism constant.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Fundamental constant in the Aether Physics Model
+
+
+## Other Information

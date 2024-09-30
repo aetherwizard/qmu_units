@@ -1,0 +1,21 @@
+# Charge (chrg)
+
+QMU Expression: chrg = eemax2
+
+SI Equivalent: Information not available
+
+Shorthand: chrg
+
+## Description
+Represents the fundamental unit of electric charge in the Quantum Measurement Units system.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+Information not available
+
+
+## Other Information

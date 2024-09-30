@@ -1,0 +1,24 @@
+# Quantum Charge Distribution Periodicity (qcdp)
+
+QMU Expression: qcdp = C2/(eemax2*Fq2)
+
+SI Equivalent: Information not available
+
+Shorthand: qcdp
+
+## Description
+Represents the characteristic time scale over which a quantum system's charge distribution completes a cycle or returns to its initial state. It combines the system's charge distribution (chds) with its orbital period (orbt), describing how the spatial arrangement of charge relates to its temporal cyclic behavior.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the cyclic behavior of charge distributions in quantum systems
+- Studying how two-dimensional quantum structures evolve over their characteristic time scales
+- Characterizing the temporal stability of charge-based quantum states
+- Investigating the relationship between spatial charge patterns and temporal periodicity in quantum materials
+
+
+## Other Information

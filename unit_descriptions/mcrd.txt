@@ -1,0 +1,27 @@
+# Magnetic Charge Rotational Density (mcrd)
+
+QMU Expression: mcrd = 1/(eemax2*C3)
+
+SI Equivalent: Information not available
+
+Shorthand: mcrd
+
+## Description
+Quantifies the concentration of magnetic charge in relation to rotational and resonant phenomena. It represents the density of magnetic charge as it interacts with dynamic, rotating systems or high-frequency environments.
+
+
+## Relationships
+- mcrd = mchg/vrtx
+- mcrd = mcpp/rson
+- mcrd = qpmd*(freq)3
+- mcrd = mfxd/rota
+
+
+## Applications
+- Analysis of astrophysical systems with strong rotational components
+- Study of quantum-level magnetic resonance phenomena
+- Investigation of high-frequency electronic and quantum devices
+- Analysis of vortex-like structures in space and their interaction with magnetic fields
+
+
+## Other Information

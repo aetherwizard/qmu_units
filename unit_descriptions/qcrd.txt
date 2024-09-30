@@ -1,0 +1,24 @@
+# Quantum Charge Radius Dynamics (qcrd)
+
+QMU Expression: qcrd = C/(eemax2*Fq)
+
+SI Equivalent: Information not available
+
+Shorthand: qcrd
+
+## Description
+Represents the rate at which a quantum system's charge radius changes or evolves. It combines the system's charge radius (chgr) with its fundamental frequency (freq), describing how the radial extent of charge distribution interacts with the system's basic temporal behavior.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the dynamic behavior of charge radii in quantum systems
+- Studying how radially symmetric quantum structures evolve in time
+- Characterizing the rate of change of radially distributed charge-based quantum states
+- Investigating the relationship between charge radius and its temporal evolution in atomic or molecular systems
+
+
+## Other Information

@@ -1,0 +1,117 @@
+# Pressure Diffusion Rate (pdrt)
+
+## QMU Expression
+pdrt = me*Fq3/C = ldns*qinf = pres*freq = visc*rson
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+pdrt
+
+## Description
+Represents the rate at which pressure or stress diffuses through a medium at the quantum scale. It quantifies the speed of pressure propagation or stress relaxation in a quantum system and describes the dynamic behavior of pressure waves or stress fields in the Aether.
+
+## Relationships
+- pdrt = ldns*qinf
+- pdrt = pres*freq
+- pdrt = visc*rson
+
+## Applications
+- Analyzing the propagation of pressure waves in quantum fluids
+- Characterizing the stress relaxation times in quantum materials
+- Studying the relationship between pressure, viscosity, and frequency in quantum systems
+- Describing the dynamics of stress fields in the quantum vacuum
+
+## Other Information
+The pdrt unit in the APM offers a unique perspective on the dynamics of pressure and stress at the quantum scale. This unit bridges concepts of spatial density, quantum intensity, pressure, and viscosity, providing a comprehensive tool for studying the propagation of stress and pressure within the Aether Physics Model framework.
+
+# Pressure (pres)
+
+## QMU Expression
+pres = me*Fq2/C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+pres
+
+## Description
+Represents force per unit area at the quantum scale. It quantifies the intensity of force distribution over a surface within the Aether structure and describes the energy density in a quantum volume.
+
+## Relationships
+- pres = forc / area
+- pres = enrg / volm
+- pres = momd * velc
+- pres = ldns * rson
+
+## Applications
+- Analyzing quantum vacuum energy density
+- Characterizing stress in quantum materials and structures
+- Studying the relationship between energy, force, and spatial scales in quantum mechanics
+- Describing quantum fluctuations and their effects on spacetime
+
+## Other Information
+The pres unit in the APM offers a unique perspective on force distribution and energy concentration at the quantum scale. This unit bridges concepts of force, energy, space, and quantum dynamics, providing a comprehensive tool for studying stress and energy phenomena within the Aether Physics Model framework.
+
+# Viscosity (visc)
+
+## QMU Expression
+visc = me*Fq/C
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+visc
+
+## Description
+Represents the resistance to flow or deformation at the quantum scale. It quantifies the internal friction within a quantum fluid or material and describes the rate of momentum transfer between adjacent layers of Aether units.
+
+## Relationships
+- visc = pres*time
+- visc = forc*time/area
+- visc = momd*leng
+- visc = enrg*time/volm
+
+## Applications
+- Analyzing quantum fluid behavior and superfluidity
+- Characterizing viscous properties of exotic quantum materials
+- Studying energy dissipation mechanisms in quantum systems
+- Describing quantum turbulence and vortex dynamics
+
+## Other Information
+The visc unit in the APM offers a unique perspective on fluid dynamics and resistance to motion at the quantum scale. This unit bridges concepts of force, energy, momentum, and spatial-temporal dynamics, providing a comprehensive tool for studying flow phenomena within the Aether Physics Model framework.
+
+# Length Density (ldns) or Rebound (rbnd)
+
+## QMU Expression
+ldns = me/C = torq/area = pres/rson
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+ldns or rbnd
+
+## Description
+Represents the concentration of length within a given area or the density of linear elements in a two-dimensional space. It quantifies the intensity of spatial extension or linear structures per unit area at the quantum scale. In the context of massive spherical objects, it represents the radial distribution of mass, which is key to understanding space density gradient effects.
+
+## Relationships
+- ldns = torq/area
+- ldns = pres/rson
+- ldns = mass/leng
+
+## Applications
+- Analyzing the distribution of linear defects or dislocations in crystalline structures
+- Characterizing the density of quantum wires or one-dimensional structures in two-dimensional materials
+- Studying the relationship between spatial extension and area in quantum geometries
+- Describing the intensity of linear quantum phenomena in planar systems
+- Analyzing space density gradient lensing effects around massive spherical objects
+- Studying the mass distribution in celestial bodies and its impact on space curvature
+- Characterizing the relationship between mass concentration and space density gradient effects in astrophysical contexts
+
+## Other Information
+The ldns unit's role in the circular deflection angle equation underscores its importance in bridging quantum-scale phenomena with macro-scale gravitational effects. This connection highlights the APM's potential to unify concepts across different scales of physics, from quantum systems to astrophysical objects.
+

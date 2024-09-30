@@ -1,0 +1,185 @@
+# Aether Resistance Stability Factor (arsf)
+
+## QMU Expression
+arsf = meFq2eemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+arsf
+
+## Description
+Represents the stability and balance of frictional resistance and flux flow within the Aether medium, relative to its volumetric resonance.
+
+## Relationships
+- arsf = resn*tvsw: Relates the Aether Resistance Stability Factor to resistance and transverse wave.
+- arsf = fric/volm: Relates the Aether Resistance Stability Factor to friction and volume.
+- arsf = ffeq/vlmr: Relates the Aether Resistance Stability Factor to flux flow equilibrium and volumetric resonance.
+
+## Applications
+- Analysis of Aether medium properties
+- Study of energy transfer in the Aether
+- Wave propagation in the Aether
+
+## Other Information
+The Aether Resistance Stability Factor (arsf) provides valuable insights into the fundamental properties and behavior of the Aether medium. It captures the complex interplay between frictional resistance, flux flow, and volumetric resonance, offering a holistic perspective on the stability and balance of these phenomena within the Aether.
+
+# Potential Charge Concentration Factor (pccf)
+
+## QMU Expression
+pccf = meFqeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+pccf
+
+## Description
+Represents a factor that relates the potential to the concentration or intensity of electric charge within a given spatial and temporal scale.
+
+## Relationships
+- pccf = potn*cscc: Relates the Potential Charge Concentration Factor to the potential and the Charge Surface-Temporal Confinement Coefficient.
+
+## Applications
+- Analysis of charge distribution and concentration
+- Study of potential-charge relationships in quantum systems
+
+## Other Information
+A higher value of pccf suggests a stronger relationship between the potential and the charge concentration in both surface and time. It implies that the potential is more strongly influenced by the confinement or localization of charge within a specific surface extent and at a higher frequency.
+
+# Magnetic Opposition (mopp)
+
+## QMU Expression
+mopp = meeemax4
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+mopp
+
+## Description
+Represents the inherent resistance or opposition arising from the interaction between two magnetic charge structures, such as electrons.
+
+## Relationships
+Information not available
+
+## Applications
+- Analysis of magnetic interactions
+- Design of magnetic systems and materials
+
+## Other Information
+Magnetic Opposition quantifies the extent to which magnetic charge structures impede or resist each other's behavior, similar to how resistance impedes the flow of electric current. It measures the balancing force between interacting magnetic charge structures, ensuring stability and equilibrium in the system.
+
+# Electromagnetic Ratio (emro)
+
+## QMU Expression
+Information not available
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+emro
+
+## Description
+Represents the ratio of the electric charge gradient to potential, or the ratio of the magnetic charge density frequency to magnetic rigidity.
+
+## Relationships
+- emro = elcg/potn
+- emro = mcdf/magr
+
+## Applications
+- Analysis of electromagnetic systems
+- Study of charge distribution and potential differences
+
+## Other Information
+The Electromagnetic Ratio highlights the importance of considering the relationships between different electromagnetic quantities in the QMU system. It provides a new lens through which to understand and manipulate the behavior of electric and magnetic phenomena at the quantum level.
+
+# Electromagnetic Interaction Coefficient (emic)
+
+## QMU Expression
+Information not available
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+emic
+
+## Description
+Captures the interplay between various electromagnetic quantities and their spatial variations.
+
+## Relationships
+- emic = curl*mcdf
+- emic = chrg/mfld 
+- emic = ptty*curr
+- emic = cond*elcg
+
+## Applications
+- Analysis of complex electromagnetic interactions
+- Design of advanced electronic devices
+- Study of quantum-scale electromagnetic phenomena
+
+## Other Information
+The Electromagnetic Interaction Coefficient provides a unified perspective on the interplay between electromagnetic quantities and their roles in governing the behavior of electromagnetic phenomena at the quantum level. It suggests that the QMU system may have the ability to quantify the behaviors of subatomic particles using simple dimensional equations, without relying on calculus-based formulations.
+
+# Current Flow Facilitation Factor (cfff)
+
+## QMU Expression
+Information not available
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+cfff
+
+## Description
+Represents the ease or propensity of electric current flow in relation to electromagnetic fields and material properties.
+
+## Relationships
+- cfff = 1/ffeq 
+- cfff = curr/mfld
+- cfff = chrs/ptty
+- cfff = efxd/perm
+- cfff = curr*mfir
+
+## Applications
+- Analysis of electric current flow in complex systems
+- Design of electrical conductors and magnetic materials
+- Optimization of energy storage devices
+
+## Other Information
+The Current Flow Facilitation Factor provides a comprehensive measure of the ease or propensity of electric current flow in a system, considering factors such as flux flow equilibrium, magnetic field, charge resonance, permittivity, electric flux density, and permeability.
+
+# Magnetic Spatial Compliance (masc)
+
+## QMU Expression
+Information not available
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+masc
+
+## Description
+Represents the relationship between the spatial distribution of magnetic fields and the associated electric fields, charges, and potentials.
+
+## Relationships
+- masc = curl/chga
+- masc = elcg/elfs
+- masc = chrg/potn
+- masc = efxd/cvef
+
+## Applications
+- Electromagnetic compatibility analysis
+- Magnetic field shaping
+- Electro-magnetic coupling studies
+
+## Other Information
+The Magnetic Spatial Compliance provides a comprehensive measure of the relationship between the spatial distribution of magnetic fields and the associated electric fields, charges, and potentials in a system. It offers insights into the fundamental principles governing the behavior of magnetic fields in the presence of spatially varying electric phenomena.
+

@@ -1,0 +1,24 @@
+# Resonance (rson)
+
+QMU Expression: rson = Fq2
+
+SI Equivalent: Information not available
+
+Shorthand: rson
+
+## Description
+Represents the fundamental quantum resonance in the Aether Physics Model. It is defined as the square of the quantum frequency, providing a measure of oscillatory behavior at the quantum scale.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing quantum oscillator systems
+- Describing resonant energy transfer in atomic and molecular systems
+- Characterizing quantum mechanical tunneling
+- Studying coherence and decoherence in quantum systems
+
+
+## Other Information

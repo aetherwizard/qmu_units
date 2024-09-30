@@ -1,0 +1,25 @@
+# Charge Surface Temporal Confinement Coefficient (cscc)
+
+QMU Expression: cscc = time*sfch
+
+SI Equivalent: Information not available
+
+Shorthand: cscc
+
+## Description
+Quantifies the temporal confinement or persistence of charge on a surface.
+
+
+## Relationships
+- cscc = time*sfch: Where time is temporal duration and sfch is surface charge.
+
+
+## Applications
+- Analysis of charge distribution dynamics
+- Study of charged surfaces' stability
+- Design of insulator and dielectric materials
+- Development of electrostatic discharge (ESD) protection systems
+- Optimization of charge transfer devices
+
+
+## Other Information

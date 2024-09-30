@@ -1,0 +1,23 @@
+# Magnetic Charge Density Frequency (mcdf)
+
+QMU Expression: mcdf = eemax2*C2*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: mcdf
+
+## Description
+Represents the magnetic charge density per unit area per unit frequency. It combines aspects of magnetic charge, area, and frequency to describe the behavior of magnetic fields and their interaction with matter at the quantum level.
+
+
+## Relationships
+- perm = drag/mcdf: Relating permeability to drag and magnetic charge density frequency
+
+
+## Applications
+- Analysis of magnetic field strength and distribution
+- Study of magnetic field dynamics
+- Investigation of magnetic field interactions with matter
+
+
+## Other Information

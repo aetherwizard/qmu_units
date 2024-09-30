@@ -1,0 +1,24 @@
+# Quantum Electric Field Conductance (efcd)
+
+QMU Expression: efcd = eemax2*C*Fq
+
+SI Equivalent: Information not available
+
+Shorthand: efcd
+
+## Description
+Represents the capacity of the quantum Aether substrate to facilitate the flow or transmission of electric fields along a quantum linear dimension. It combines aspects of charge, length, and frequency to describe the underlying structure's ability to conduct or propagate electric field changes.
+
+
+## Relationships
+Information not available
+
+
+## Applications
+- Analyzing the quantum vacuum's ability to transmit electric field changes along linear paths
+- Studying how the Aether substrate influences electric field propagation in one-dimensional quantum systems
+- Characterizing the fundamental limits of electric field transmission in quantum wire-like structures
+- Investigating the interplay between electric and magnetic phenomena in linear quantum systems with regards to field propagation
+
+
+## Other Information

@@ -1,0 +1,22 @@
+# Friction (fric)
+
+QMU Expression: fric = meC3Fq2eemax4
+
+SI Equivalent: Information not available
+
+Shorthand: fric
+
+## Description
+Represents the resistance to motion between two surfaces in contact.
+
+
+## Relationships
+- fric = resn*velc
+- potn = fric*elcg: Friction times electric charge gradient is used in the APM to explain how potential is generated when rubbing a balloon to create electrostatic charge.
+
+
+## Applications
+- Electrostatic charge generation
+
+
+## Other Information

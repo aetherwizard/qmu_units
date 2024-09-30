@@ -1,0 +1,27 @@
+# Light (ligt)
+
+QMU Expression: ligt = me*C3*Fq3
+
+SI Equivalent: Information not available
+
+Shorthand: ligt
+
+## Description
+Represents the flow of angular momentum waves through space. It quantifies light as either transverse waves or scalar waves of angular momentum, describing light without invoking concepts of mass or charge density.
+
+
+## Relationships
+- ligt = angm*tvsw*flow
+- ligt = angm*sclw*swep
+- ligt = volm*irrd
+- ligt = phtn*freq
+
+
+## Applications
+- Analyzing light propagation in various media and geometries
+- Characterizing light in terms of its fundamental angular momentum nature
+- Studying the behavior of light as both transverse and scalar waves
+- Describing light phenomena without relying on particle-based or charge-based models
+
+
+## Other Information

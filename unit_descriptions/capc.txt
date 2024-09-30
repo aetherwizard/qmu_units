@@ -1,0 +1,25 @@
+# Capacitance (capc)
+
+QMU Expression: capc = eemax2meC2Fq2
+
+SI Equivalent: Same as MKS / SI
+
+Shorthand: capc
+
+## Description
+Measures a material's ability to store electric charge.
+
+
+## Relationships
+- capc = chrg/enrg: Capacitance is charge (chrg) stored as energy (enrg).
+- capc = 1/potn: Capacitance is reciprocal to potential in QMU.
+- capc = 1/(indc*rson): The reciprocal of inductance (indc) times resonance (rson) gives the internal capacity of the inductor.
+
+
+## Applications
+- Capacitor design
+- Energy storage systems
+- Circuit analysis
+
+
+## Other Information

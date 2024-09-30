@@ -1,0 +1,21 @@
+# Electron magnetic charge (eemax)
+
+## Symbol
+eemax
+
+## Description
+The electron magnetic charge (eemax) is a fundamental unit of dimension in the QMU system, representing the maximum magnetic charge associated with an electron. This concept is unique to the QMU framework and plays a crucial role in describing electromagnetic phenomena from a quantum mechanical perspective. The eemax unit is essential in unifying electric and magnetic aspects of charge in the QMU system.
+
+## Key Points
+- Fundamental unit of dimension in QMU
+- Represents the maximum magnetic charge of an electron
+- Essential in describing quantum electrodynamic phenomena
+- Unique to the QMU framework
+
+## Relationships
+- Used in combination with other base units (me, λC, Fq) to derive more complex units in the QMU system
+- Plays a crucial role in defining electromagnetic units and constants within the QMU framework
+- Contributes to the unification of electric and magnetic phenomena in quantum mechanics
+
+## Historical Note
+The concept of electron magnetic charge as a fundamental unit is a novel approach in the QMU system, aimed at providing a more comprehensive description of electromagnetic phenomena at the quantum level.

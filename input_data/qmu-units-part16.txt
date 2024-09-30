@@ -1,0 +1,121 @@
+# Charge Temperature (chgt)
+
+## QMU Expression
+chgt = C2*Fq2*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chgt
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Charge Sweep (chgs)
+
+## QMU Expression
+chgs = C2*Fq*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chgs
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+
+# Charge Distribution (chds)
+
+## QMU Expression
+chds = C2*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chds or strk
+
+## Description
+Represents the spatial extent of charge distribution over a quantum area. It describes how charge is spread out or concentrated in a two-dimensional quantum space, providing a measure of charge density in planar quantum systems.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing charge density distributions in two-dimensional quantum systems
+- Studying how charge spreads out in planar structures like graphene, 2D electron gases, or quantum wells
+- Characterizing the spatial extent of charge-based quantum states in layered materials
+- Investigating the relationship between charge distribution and quantum confinement effects in 2D systems
+
+## Other Information
+This unit provides a fundamental measure of how charge is distributed in two-dimensional quantum space. It could be particularly useful in understanding phenomena such as electron distribution in 2D materials, charge accumulation at interfaces in heterostructures, spatial characteristics of quantum Hall states, and charge delocalization in molecular monolayers.
+
+# Dynamic Electric Field Flux (deff)
+
+## QMU Expression
+deff = C*Fq3*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+deff
+
+## Description
+Represents the rate of change of electric field flux through a linear quantum dimension. It combines aspects of length, frequency, and charge to describe how electric field flux varies rapidly in quantum systems.
+
+## Relationships
+Information not available
+
+## Applications
+- Analyzing rapidly changing electric field flux in quantum wire systems
+- Studying dynamic electromagnetic phenomena in one-dimensional quantum structures
+- Characterizing fast-switching behavior in quantum devices with linear geometries
+- Investigating quantum electrodynamic effects in systems with linear confinement
+
+## Other Information
+This unit could be particularly useful in contexts where the rapid variation of electric field flux along quantum linear dimensions is important, such as in quantum nanowires, edge states of topological insulators, or in understanding certain aspects of quantum field dynamics in confined linear geometries.
+
+# Charge Acceleration (chga)
+
+## QMU Expression
+chga = C*Fq2*eemax2
+
+## SI Equivalent
+Information not available
+
+## Shorthand
+chga
+
+## Description
+Information not available
+
+## Relationships
+Information not available
+
+## Applications
+Information not available
+
+## Other Information
+Information not available
+

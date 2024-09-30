@@ -1,0 +1,23 @@
+# Electromagnetic Ratio (emro)
+
+QMU Expression: Information not available
+
+SI Equivalent: Information not available
+
+Shorthand: emro
+
+## Description
+Represents the ratio of the electric charge gradient to potential, or the ratio of the magnetic charge density frequency to magnetic rigidity.
+
+
+## Relationships
+- emro = elcg/potn
+- emro = mcdf/magr
+
+
+## Applications
+- Analysis of electromagnetic systems
+- Study of charge distribution and potential differences
+
+
+## Other Information
