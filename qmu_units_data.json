@@ -1,41 +1,1284 @@
 {
-    "base_units": {
-      "me": {
-        "name": "Electron mass",
-        "symbol": "me",
-        "si_equivalent": "9.1093837015e-31 kg"
-      },
-      "λC": {
-        "name": "Compton wavelength",
-        "symbol": "λC",
-        "si_equivalent": "2.42631023867e-12 m"
-      },
-      "Fq": {
-        "name": "Quantum frequency",
-        "symbol": "Fq",
-        "si_equivalent": "1.23558996e20 Hz"
-      },
-      "eemax": {
-        "name": "Electron magnetic charge",
-        "symbol": "eemax",
-        "si_equivalent": "1.60217663e-19 C"
-      }
+  "base_units": {
+    "me": {
+      "name": "Electron mass",
+      "symbol": "me",
+      "si_equivalent": "9.1093837015e-31 kg"
     },
-    "derived_units": {
-      "ligt": {
-        "name": "Light",
-        "symbol": "ligt",
-        "expression": "me * λC^3 * Fq^3"
-      },
-      "phtn": {
-        "name": "Photon",
-        "symbol": "phtn",
-        "expression": "me * λC^3 * Fq^2"
-      },
-      "powr": {
-        "name": "Power",
-        "symbol": "powr",
-        "expression": "me * λC^2 * Fq^3"
-      }
+    "λC": {
+      "name": "Compton wavelength",
+      "symbol": "λC",
+      "si_equivalent": "2.42631023867e-12 m"
+    },
+    "Fq": {
+      "name": "Quantum frequency",
+      "symbol": "Fq",
+      "si_equivalent": "1.23558996e20 Hz"
+    },
+    "eemax": {
+      "name": "Electron magnetic charge",
+      "symbol": "eemax",
+      "si_equivalent": "1.60217663e-19 C"
+    }
+  },
+  "derived_units": {
+    "rmfd": {
+      "name": "Rotating Magnetic Field",
+      "symbol": "rmfd",
+      "expression": "me * λC^3 * Fq^2 / eemax^2",
+      "shorthand": "Au"
+    },
+    "mfld": {
+      "name": "Magnetic Field",
+      "symbol": "mfld",
+      "expression": "me * λC^3 * Fq / eemax^2"
+    },
+    "mvlm": {
+      "name": "Magnetic Volume",
+      "symbol": "mvlm",
+      "expression": "me * λC^3 / eemax^2"
+    },
+    "potn": {
+      "name": "Potential",
+      "symbol": "potn",
+      "expression": "me * λC^2 * Fq^2 / eemax^2"
+    },
+    "mflx": {
+      "name": "Magnetic Flux",
+      "symbol": "mflx",
+      "expression": "me * λC^2 * Fq / eemax^2"
+    },
+    "indc": {
+      "name": "Inductance",
+      "symbol": "indc",
+      "expression": "me * λC^2 / eemax^2",
+      "si_equivalent": "3.8314755224e-17 henry"
+    },
+    "elfs": {
+      "name": "Electric Field Strength",
+      "symbol": "elfs",
+      "expression": "me * λC * Fq^2 / eemax^2"
+    },
+    "magr": {
+      "name": "Magnetic Rigidity",
+      "symbol": "magr",
+      "expression": "me * λC * Fq / eemax^2"
+    },
+    "perm": {
+      "name": "Permeability",
+      "symbol": "perm",
+      "expression": "me * λC / eemax^2",
+      "si_equivalent": "4π * mu_0"
+    },
+    "dvef": {
+      "name": "Diverging Electric Field",
+      "symbol": "dvef",
+      "expression": "me * Fq^2 / eemax^2"
+    },
+    "mfxd": {
+      "name": "Magnetic Flux Density",
+      "symbol": "mfxd",
+      "expression": "me * Fq / eemax^2"
+    },
+    "mchg": {
+      "name": "Magnetism",
+      "symbol": "mchg",
+      "expression": "me / eemax^2"
+    },
+    "mfde": {
+      "name": "Magnetic Field Exposure",
+      "symbol": "mfde",
+      "expression": "eemax^2 / (me * λC^3)"
+    },
+    "mfir": {
+      "name": "Magnetic Flux Intensity Ratio",
+      "symbol": "mfir",
+      "expression": "eemax^2 / (me * λC^3 * Fq)"
+    },
+    "ptty": {
+      "name": "Permittivity",
+      "symbol": "ptty",
+      "expression": "eemax^2 / (me * λC^3 * Fq^2)",
+      "si_equivalent": "epsilon_0 / 4π"
+    },
+    "aefp": {
+      "name": "Aether Fluctuation Potential",
+      "symbol": "aefp",
+      "expression": "eemax^2 / (me * λC^2)"
+    },
+    "cond": {
+      "name": "Conductance",
+      "symbol": "cond",
+      "expression": "eemax^2 / (me * λC^2 * Fq)",
+      "si_equivalent": "2.112319309e-4 siemens"
+    },
+    "capc": {
+      "name": "Capacitance",
+      "symbol": "capc",
+      "expression": "eemax^2 / (me * λC^2 * Fq^2)",
+      "si_equivalent": "1.7095633318 farad"
+    },
+    "curl": {
+      "name": "Curl",
+      "symbol": "curl",
+      "expression": "eemax^2 / (me * λC)"
+    },
+    "exdf": {
+      "name": "Exposure Diffusion Flux",
+      "symbol": "exdf",
+      "expression": "eemax^2 / (me * λC * Fq)"
+    },
+    "accp": {
+      "name": "Acceptance",
+      "symbol": "accp",
+      "expression": "eemax^2 / (me * λC * Fq^2)"
+    },
+    "expr": {
+      "name": "Exposure",
+      "symbol": "expr",
+      "expression": "eemax^2 / me"
+    },
+    "cdns": {
+      "name": "Conductance Density",
+      "symbol": "cdns",
+      "expression": "eemax^2 / (λC^2 * Fq)"
+    },
+    "cvef": {
+      "name": "Converging Electric Field",
+      "symbol": "cvef",
+      "expression": "eemax^2 / (me * Fq^2)"
+    },
+    "ligt": {
+      "name": "Light",
+      "symbol": "ligt",
+      "expression": "me * λC^3 * Fq^3"
+    },
+    "phtn": {
+      "name": "Photon",
+      "symbol": "phtn",
+      "expression": "me * λC^3 * Fq^2"
+    },
+    "qanr": {
+      "name": "Quantum Angular Reach",
+      "symbol": "qanr",
+      "expression": "me * λC^3 * Fq"
+    },
+    "vrtx": {
+      "name": "Vortex",
+      "symbol": "vrtx",
+      "expression": "me * λC^3"
+    },
+    "powr": {
+      "name": "Power",
+      "symbol": "powr",
+      "expression": "me * λC^2 * Fq^3"
+    },
+    "enrg": {
+      "name": "Energy",
+      "symbol": "enrg",
+      "expression": "me * λC^2 * Fq^2"
+    },
+    "angm": {
+      "name": "Angular Momentum",
+      "symbol": "angm",
+      "expression": "me * λC^2 * Fq",
+      "shorthand": "h"
+    },
+    "minr": {
+      "name": "Moment of Inertia",
+      "symbol": "minr",
+      "expression": "me * λC^2"
+    },
+    "lint": {
+      "name": "Light Intensity",
+      "symbol": "lint",
+      "expression": "me * λC * Fq^3"
+    },
+    "forc": {
+      "name": "Force",
+      "symbol": "forc",
+      "expression": "me * λC * Fq^2"
+    },
+    "momt": {
+      "name": "Momentum",
+      "symbol": "momt",
+      "expression": "me * λC * Fq"
+    },
+    "torq": {
+      "name": "Torque",
+      "symbol": "torq",
+      "expression": "me * λC"
+    },
+    "irrd": {
+      "name": "Irradiance",
+      "symbol": "irrd",
+      "expression": "me * Fq^3"
+    },
+    "sten": {
+      "name": "Surface Tension",
+      "symbol": "sten",
+      "expression": "me * Fq^2"
+    },
+    "ints": {
+      "name": "Intensity",
+      "symbol": "ints",
+      "expression": "me * Fq"
+    },
+    "mass": {
+      "name": "Mass",
+      "symbol": "mass",
+      "expression": "me"
+    },
+    "fric": {
+      "name": "Friction",
+      "symbol": "fric",
+      "expression": "me * λC^3 * Fq^2 / eemax^4"
+    },
+    "mgfi": {
+      "name": "Magnetic Flow Impedance",
+      "symbol": "mgfi",
+      "expression": "me * λC^3 * Fq / eemax^4"
+    },
+    "ffeq": {
+      "name": "Flux Flow Equilibrium",
+      "symbol": "ffeq",
+      "expression": "me * λC^3 / eemax^4"
+    },
+    "kfcn": {
+      "name": "Kinetic Friction",
+      "symbol": "kfcn",
+      "expression": "me * λC^2 * Fq^2 / eemax^4"
+    },
+    "resn": {
+      "name": "Resistance",
+      "symbol": "resn",
+      "expression": "me * λC^2 * Fq / eemax^4"
+    },
+    "magp": {
+      "name": "Magnetic Permeance",
+      "symbol": "magp",
+      "expression": "me * λC^2 / eemax^4"
+    },
+    "mfdw": {
+      "name": "Magnetic Flux Density Wave",
+      "symbol": "mfdw",
+      "expression": "me * λC * Fq^2 / eemax^4"
+    },
+    "mdif": {
+      "name": "Magnetic Diffusion Impedance",
+      "symbol": "mdif",
+      "expression": "me * λC * Fq / eemax^4"
+    },
+    "thmf": {
+      "name": "Thermal Magnetic Friction",
+      "symbol": "thmf",
+      "expression": "me * λC / eemax^4"
+    },
+    "arsf": {
+      "name": "Aether Resistance Stability Factor",
+      "symbol": "arsf",
+      "expression": "me * Fq^2 / eemax^4"
+    },
+    "pccf": {
+      "name": "Potential Charge Concentration Factor",
+      "symbol": "pccf",
+      "expression": "me * Fq / eemax^4"
+    },
+    "mopp": {
+      "name": "Magnetic Opposition",
+      "symbol": "mopp",
+      "expression": "eemax^4 / (me * λC)"
+    },
+    "emro": {
+      "name": "Electromagnetic Ratio",
+      "symbol": "emro",
+      "expression": "eemax^4 / (me * λC * Fq)"
+    },
+    "emic": {
+      "name": "Electromagnetic Interaction Coefficient",
+      "symbol": "emic",
+      "expression": "eemax^4 / (me * λC * Fq^2)"
+    },
+    "cfff": {
+      "name": "Current Flow Facilitation Factor",
+      "symbol": "cfff",
+      "expression": "eemax^4 / (me * λC * Fq^3)"
+    },
+    "masc": {
+      "name": "Magnetic Spatial Compliance",
+      "symbol": "masc",
+      "expression": "eemax^4 / (me * Fq^2)"
+    },
+    "admt": {
+      "name": "Admittance",
+      "symbol": "admt",
+      "expression": "chrg / mflx"
+    },
+    "mrlc": {
+      "name": "Magnetic Reluctance",
+      "symbol": "mrlc",
+      "expression": "curr / mflx"
+    },
+    "mcri": {
+      "name": "Magnetic Current Impedance",
+      "symbol": "mcri",
+      "expression": "curr / mflx"
+    },
+    "mfdr": {
+      "name": "Magnetic Field Resistance",
+      "symbol": "mfdr",
+      "expression": "1 / (chgr * mfxd)"
+    },
+    "mfen": {
+      "name": "Magnetic Field Energy",
+      "symbol": "mfen",
+      "expression": "mfdi * cden"
+    },
+    "mcup": {
+      "name": "Magnetic Charge per Unit Potential",
+      "symbol": "mcup",
+      "expression": "sfch / potn"
+    },
+    "msir": {
+      "name": "Magneto-Spatial Impedance Ratio",
+      "symbol": "msir",
+      "expression": "area / resn"
+    },
+    "qpmd": {
+      "name": "Quantum Photomagnetic Density",
+      "symbol": "qpmd",
+      "expression": "me * Fq^3 / (λC^3 * eemax^2)"
+    },
+    "mcpp": {
+      "name": "Magnetic Charge per Photon",
+      "symbol": "mcpp",
+      "expression": "me * Fq^2 / (λC^3 * eemax^2)"
+    },
+    "mcdr": {
+      "name": "Magnetic Charge Distribution per Rotation",
+      "symbol": "mcdr",
+      "expression": "me * Fq / (λC^3 * eemax^2)"
+    },
+    "mcrd": {
+      "name": "Magnetic Charge Rotational Density",
+      "symbol": "mcrd",
+      "expression": "me / (λC^3 * eemax^2)"
+    },
+    "qild": {
+      "name": "Quantum Illumination Density",
+      "symbol": "qild",
+      "expression": "1 / (eemax^2 * λC^3 * Fq^3)"
+    },
+    "qecf": {
+      "name": "Quantum Electric Charge Flux",
+      "symbol": "qecf",
+      "expression": "1 / (eemax^2 * λC^2 * Fq^2)"
+    },
+    "cscc": {
+      "name": "Charge Surface - Temporal Confinement Coefficient",
+      "symbol": "cscc",
+      "expression": "1 / (eemax^2 * λC^2 * Fq)"
+    },
+    "chcc": {
+      "name": "Charge Surface Confinement Coefficient",
+      "symbol": "chcc",
+      "expression": "1 / (eemax^2 * λC^2)"
+    },
+    "qecj": {
+      "name": "Quantum Electric Charge Jerk",
+      "symbol": "qecj",
+      "expression": "1 / (eemax^2 * λC * Fq^3)"
+    },
+    "qeca": {
+      "name": "Quantum Electric Charge Acceleration",
+      "symbol": "qeca",
+      "expression": "1 / (eemax^2 * λC * Fq^2)"
+    },
+    "qecd": {
+      "name": "Quantum Electric Charge Drift",
+      "symbol": "qecd",
+      "expression": "1 / (eemax^2 * λC * Fq)"
+    },
+    "ecdp": {
+      "name": "Quantum Electric Charge Displacement",
+      "symbol": "ecdp",
+      "expression": "1 / (eemax^2 * λC)"
+    },
+    "qeci": {
+      "name": "Quantum Electric Charge Intensity",
+      "symbol": "qeci",
+      "expression": "1 / (eemax^2 * Fq^3)"
+    },
+    "qeco": {
+      "name": "Quantum Electric Charge Oscillation",
+      "symbol": "qeco",
+      "expression": "1 / (eemax^2 * Fq^2)"
+    },
+    "ecfx": {
+      "name": "Quantum Electric Charge Fluctuation",
+      "symbol": "ecfx",
+      "expression": "1 / (eemax^2 * Fq)"
+    },
+    "mcaf": {
+      "name": "Magnetic Charge Affinity",
+      "symbol": "mcaf",
+      "expression": "1 / eemax^2"
+    },
+    "efvr": {
+      "name": "Quantum Electric Field Volumetric Resonance",
+      "symbol": "efvr",
+      "expression": "eemax^2 * λC^3 * Fq^3"
+    },
+    "efva": {
+      "name": "Quantum Electric Field Volumetric Adaptability",
+      "symbol": "efva",
+      "expression": "eemax^2 * λC^3 * Fq^2"
+    },
+    "efvc": {
+      "name": "Quantum Electric Field Volumetric Compliance",
+      "symbol": "efvc",
+      "expression": "eemax^2 * λC^3 * Fq"
+    },
+    "chvm": {
+      "name": "Charge Volume",
+      "symbol": "chvm",
+      "expression": "eemax^2 * λC^3"
+    },
+    "ball": {
+      "name": "Ball Lightning",
+      "symbol": "ball",
+      "expression": "eemax^2 * λC^2 * Fq^3"
+    },
+    "plsm": {
+      "name": "Plasma",
+      "symbol": "plsm",
+      "expression": "eemax^2 * λC^2 * Fq^2"
+    },
+    "magm": {
+      "name": "Magnetic Moment",
+      "symbol": "magm",
+      "expression": "eemax^2 * λC^2 * Fq"
+    },
+    "sfch": {
+      "name": "Surface Charge",
+      "symbol": "sfch",
+      "expression": "eemax^2 * λC^2"
+    },
+    "efdr": {
+      "name": "Quantum Electric Field Dynamic Responsivity",
+      "symbol": "efdr",
+      "expression": "eemax^2 * λC * Fq^3"
+    },
+    "chac": {
+      "name": "Charge Acceleration",
+      "symbol": "chac",
+      "expression": "eemax^2 * λC * Fq^2"
+    },
+    "chvl": {
+      "name": "Charge Velocity",
+      "symbol": "chvl",
+      "expression": "eemax^2 * λC * Fq"
+    },
+    "chgl": {
+      "name": "Charge Length",
+      "symbol": "chgl",
+      "expression": "eemax^2 * λC"
+    },
+    "efti": {
+      "name": "Quantum Electric Field Temporal Intensity",
+      "symbol": "efti",
+      "expression": "eemax^2 * Fq^3"
+    },
+    "chrs": {
+      "name": "Charge Resonance",
+      "symbol": "chrs",
+      "expression": "eemax^2 * Fq^2"
+    },
+    "curr": {
+      "name": "Current",
+      "symbol": "curr",
+      "expression": "eemax^2 * Fq"
+    },
+    "qvci": {
+      "name": "Quantum Volumetric Charge Inertia",
+      "symbol": "qvci",
+      "expression": "λC^3 / (eemax^2 * Fq^3)"
+    },
+    "qvcr": {
+      "name": "Quantum Volumetric Charge Reluctance",
+      "symbol": "qvcr",
+      "expression": "λC^3 / (eemax^2 * Fq^2)"
+    },
+    "qvcp": {
+      "name": "Quantum Volumetric Charge Persistence",
+      "symbol": "qvcp",
+      "expression": "λC^3 / (eemax^2 * Fq)"
+    },
+    "spch": {
+      "name": "Specific Charge",
+      "symbol": "spch",
+      "expression": "λC^3 / eemax^2"
+    },
+    "qcdr": {
+      "name": "Quantum Charge Distribution Resistance",
+      "symbol": "qcdr",
+      "expression": "λC^2 / (eemax^2 * Fq^3)"
+    },
+    "qcdp": {
+      "name": "Quantum Charge Distribution Periodicity",
+      "symbol": "qcdp",
+      "expression": "λC^2 / (eemax^2 * Fq^2)"
+    },
+    "qcdd": {
+      "name": "Quantum Charge Distribution Dynamics",
+      "symbol": "qcdd",
+      "expression": "λC^2 / (eemax^2 * Fq)"
+    },
+    "chds": {
+      "name": "Charge Distribution",
+      "symbol": "chds",
+      "expression": "λC^2 / eemax^2",
+      "shorthand": "strk"
+    },
+    "qcrr": {
+      "name": "Quantum Charge Radius Resistance",
+      "symbol": "qcrr",
+      "expression": "λC / (eemax^2 * Fq^3)"
+    },
+    "qcrp": {
+      "name": "Quantum Charge Radius Periodicity",
+      "symbol": "qcrp",
+      "expression": "λC / (eemax^2 * Fq^2)"
+    },
+    "qcrd": {
+      "name": "Quantum Charge Radius Dynamics",
+      "symbol": "qcrd",
+      "expression": "λC / (eemax^2 * Fq)"
+    },
+    "chgr": {
+      "name": "Charge Radius",
+      "symbol": "chgr",
+      "expression": "λC / eemax^2"
+    },
+    "qcdi": {
+      "name": "Quantum Charge Density Intensity",
+      "symbol": "qcdi",
+      "expression": "eemax^2 * Fq^3 / λC^3"
+    },
+    "cdrs": {
+      "name": "Quantum Charge Density Resonance",
+      "symbol": "cdrs",
+      "expression": "eemax^2 * Fq^2 / λC^3"
+    },
+    "cdos": {
+      "name": "Quantum Charge Density Oscillation",
+      "symbol": "cdos",
+      "expression": "eemax^2 * Fq / λC^3"
+    },
+    "chgd": {
+      "name": "Charge Density",
+      "symbol": "chgd",
+      "expression": "eemax^2 / λC^3"
+    },
+    "qefi": {
+      "name": "Quantum Electric Field Intensity",
+      "symbol": "qefi",
+      "expression": "eemax^2 * Fq^3 / λC^2"
+    },
+    "qefr": {
+      "name": "Quantum Electric Field Resonance",
+      "symbol": "qefr",
+      "expression": "eemax^2 * Fq^2 / λC^2"
+    },
+    "cdns": {
+      "name": "Current Density",
+      "symbol": "cdns",
+      "expression": "eemax^2 * Fq / λC^2"
+    },
+    "efxd": {
+      "name": "Electric Flux Density",
+      "symbol": "efxd",
+      "expression": "eemax^2 / λC^2"
+    },
+    "qegi": {
+      "name": "Quantum Electric Gradient Intensity",
+      "symbol": "qegi",
+      "expression": "eemax^2 * Fq^3 / λC"
+    },
+    "qegr": {
+      "name": "Quantum Electric Gradient Resonance",
+      "symbol": "qegr",
+      "expression": "eemax^2 * Fq^2 / λC"
+    },
+    "mfdi": {
+      "name": "Magnetic Field Intensity",
+      "symbol": "mfdi",
+      "expression": "eemax^2 * Fq / λC"
+    },
+    "elcg": {
+      "name": "Electric Charge Gradient",
+      "symbol": "elcg",
+      "expression": "eemax^2 / λC"
+    },
+    "trmo": {
+      "name": "Trivariate Magnetic Oscillation",
+      "symbol": "trmo",
+      "expression": "λC^3 * Fq^3 / eemax^2"
+    },
+    "vefd": {
+      "name": "Varying Electric Field",
+      "symbol": "vefd",
+      "expression": "λC^3 * Fq^2 / eemax^2"
+    },
+    "efld": {
+      "name": "Electric Field",
+      "symbol": "efld",
+      "expression": "λC^3 * Fq / eemax^2"
+    },
+    "defi": {
+      "name": "Dynamic Electric Field Intensity",
+      "symbol": "defi",
+      "expression": "λC^2 * Fq^3 / eemax^2"
+    },
+    "chgt": {
+      "name": "Charge Temperature",
+      "symbol": "chgt",
+      "expression": "λC^2 * Fq^2 / eemax^2"
+    },
+    "chgs": {
+      "name": "Charge Sweep",
+      "symbol": "chgs",
+      "expression": "λC^2 * Fq / eemax^2"
+    },
+    "deff": {
+      "name": "Dynamic Electric Field Flux",
+      "symbol": "deff",
+      "expression": "λC * Fq^3 / eemax^2"
+    },
+    "defo": {
+      "name": "Dynamic Electric Field Oscillation",
+      "symbol": "defo",
+      "expression": "Fq^3 / eemax^2"
+    },
+    "crsn": {
+      "name": "Charge Resonance",
+      "symbol": "crsn",
+      "expression": "Fq^2 / eemax^2"
+    },
+    "mcur": {
+      "name": "Magnetic Current",
+      "symbol": "mcur",
+      "expression": "Fq / eemax^2",
+      "shorthand": "chgf"
+    },
+    "qefs": {
+      "name": "Quantum Electric Field Susceptibility",
+      "symbol": "qefs",
+      "expression": "eemax^2 / (λC^3 * Fq^3)"
+    },
+    "qefc": {
+      "name": "Quantum Electric Field Compliance",
+      "symbol": "qefc",
+      "expression": "eemax^2 / (λC^3 * Fq)"
+    },
+    "efrs": {
+      "name": "Quantum Electric Field Resonance",
+      "symbol": "efrs",
+      "expression": "eemax^2 / (λC^2 * Fq^2)"
+    },
+    "mcdf": {
+      "name": "Magnetic Charge Density Frequency",
+      "symbol": "mcdf",
+      "expression": "eemax^2 / (λC^2 * Fq)"
+    },
+    "qefp": {
+      "name": "Quantum Electric Field Permeability",
+      "symbol": "qefp",
+      "expression": "eemax^2 / Fq^3"
+    },
+    "qefe": {
+      "name": "Quantum Electric Field Elasticity",
+      "symbol": "qefe",
+      "expression": "eemax^2 / (λC * Fq^2)"
+    },
+    "efcd": {
+      "name": "Quantum Electric Field Conductance",
+      "symbol": "efcd",
+      "expression": "eemax^2 / (λC * Fq)"
+    },
+    "efsu": {
+      "name": "Quantum Electric Field Susceptibility",
+      "symbol": "efsu",
+      "expression": "eemax^2 / Fq^2"
+    },
+    "efpt": {
+      "name": "Quantum Electric Field Permittivity",
+      "symbol": "efpt",
+      "expression": "eemax^2 / Fq"
+    },
+    "chrg": {
+      "name": "Charge",
+      "symbol": "chrg",
+      "expression": "eemax^2"
+    },
+    "ocmp": {
+      "name": "Optical Compliance",
+      "symbol": "ocmp",
+      "expression": "1 / (me * λC^3 * Fq^3)"
+    },
+    "inpr": {
+      "name": "Innate Particulate Resolvability",
+      "symbol": "inpr",
+      "expression": "1 / (me * λC^3 * Fq^2)"
+    },
+    "qvrc": {
+      "name": "Quantum Volumetric Receptivity",
+      "symbol": "qvrc",
+      "expression": "1 / (me * λC^3 * Fq)"
+    },
+    "qvoi": {
+      "name": "Quantum Volumetric Inertia",
+      "symbol": "qvoi",
+      "expression": "1 / (me * λC^3)"
+    },
+    "qsrc": {
+      "name": "Quantum Surface Receptivity",
+      "symbol": "qsrc",
+      "expression": "1 / (me * λC^2 * Fq^3)"
+    },
+    "qusi": {
+      "name": "Quantum Surface Inertia",
+      "symbol": "qusi",
+      "expression": "1 / (me * λC^2 * Fq^2)"
+    },
+    "qarg": {
+      "name": "Quantum Angular Receptivity Gauge",
+      "symbol": "qarg",
+      "expression": "1 / (me * λC^2 * Fq)"
+    },
+    "qari": {
+      "name": "Quantum Area Inertia",
+      "symbol": "qari",
+      "expression": "1 / (me * λC^2)"
+    },
+    "qili": {
+      "name": "Quantum Inverse Light Intensity",
+      "symbol": "qili",
+      "expression": "1 / (me * λC * Fq^3)"
+    },
+    "sptn": {
+      "name": "Spatial Tensility",
+      "symbol": "sptn",
+      "expression": "1 / (me * λC * Fq^2)"
+    },
+    "qmob": {
+      "name": "Quantum Mobility",
+      "symbol": "qmob",
+      "expression": "1 / (me * λC * Fq)"
+    },
+    "qflx": {
+      "name": "Quantum Flexibility",
+      "symbol": "qflx",
+      "expression": "1 / (me * λC)"
+    },
+    "qopq": {
+      "name": "Quantum Opacity",
+      "symbol": "qopq",
+      "expression": "1 / (me * Fq^3)"
+    },
+    "qspr": {
+      "name": "Quantum Spreadability",
+      "symbol": "qspr",
+      "expression": "1 / (me * Fq^2)"
+    },
+    "dfld": {
+      "name": "Displacement Field",
+      "symbol": "dfld",
+      "expression": "1 / (me * Fq)"
+    },
+    "qexl": {
+      "name": "Quantum Existential Limit",
+      "symbol": "qexl",
+      "expression": "1 / me"
+    },
+    "qmfa": {
+      "name": "Quantum Mass Frequency Activity",
+      "symbol": "qmfa",
+      "expression": "me * Fq^3 / λC^3"
+    },
+    "qmro": {
+      "name": "Quantum Mass Resonance Occupation",
+      "symbol": "qmro",
+      "expression": "me * Fq^2 / λC^3"
+    },
+    "qmfo": {
+      "name": "Quantum Mass Frequency Oscillation",
+      "symbol": "qmfo",
+      "expression": "me * Fq / λC^3"
+    },
+    "masd": {
+      "name": "Mass Density",
+      "symbol": "masd",
+      "expression": "me / λC^3"
+    },
+    "qsac": {
+      "name": "Quantum Surface Activity",
+      "symbol": "qsac",
+      "expression": "me * Fq^3 / λC^2"
+    },
+    "fdns": {
+      "name": "Force Density",
+      "symbol": "fdns",
+      "expression": "me * Fq^2 / λC^2"
+    },
+    "momd": {
+      "name": "Momentum Density",
+      "symbol": "momd",
+      "expression": "me * Fq / λC^2"
+    },
+    "sfcd": {
+      "name": "Surface Density",
+      "symbol": "sfcd",
+      "expression": "me / λC^2"
+    },
+    "pdrt": {
+      "name": "Pressure Diffusion Rate",
+      "symbol": "pdrt",
+      "expression": "me * Fq^3 / λC"
+    },
+    "pres": {
+      "name": "Pressure",
+      "symbol": "pres",
+      "expression": "me * Fq^2 / λC"
+    },
+    "visc": {
+      "name": "Viscosity",
+      "symbol": "visc",
+      "expression": "me * Fq / λC"
+    },
+    "ldns": {
+      "name": "Length Density",
+      "symbol": "ldns",
+      "expression": "me / λC",
+      "shorthand": "rbnd"
+    },
+    "qvfi": {
+      "name": "Quantum Volume Fluctuation Impedance",
+      "symbol": "qvfi",
+      "expression": "λC^3 / (me * Fq^3)"
+    },
+    "qvtc": {
+      "name": "Quantum Volume Temporal Compliance",
+      "symbol": "qvtc",
+      "expression": "λC^3 / (me * Fq^2)"
+    },
+    "qvdf": {
+      "name": "Quantum Volume Dynamic Flux",
+      "symbol": "qvdf",
+      "expression": "λC^3 / (me * Fq)"
+    },
+    "spcv": {
+      "name": "Specific Volume",
+      "symbol": "spcv",
+      "expression": "λC^3 / me"
+    },
+    "qarc": {
+      "name": "Quantum Area Resonance Compliance",
+      "symbol": "qarc",
+      "expression": "λC^2 / (me * Fq^2)"
+    },
+    "qsdc": {
+      "name": "Quantum Surface Dynamic Compliance",
+      "symbol": "qsdc",
+      "expression": "λC^2 / (me * Fq)"
+    },
+    "spar": {
+      "name": "Specific Area",
+      "symbol": "spar",
+      "expression": "λC^2 / me"
+    },
+    "qlod": {
+      "name": "Quantum Linear Oscillation Density",
+      "symbol": "qlod",
+      "expression": "λC / (me * Fq^3)"
+    },
+    "qldc": {
+      "name": "Quantum Linear Dynamic Compliance",
+      "symbol": "qldc",
+      "expression": "λC / (me * Fq^2)"
+    },
+    "qltc": {
+      "name": "Quantum Linear Temporal Compliance",
+      "symbol": "qltc",
+      "expression": "λC / (me * Fq)"
+    },
+    "spln": {
+      "name": "Specific Length",
+      "symbol": "spln",
+      "expression": "λC / me"
+    },
+    "qdir": {
+      "name": "Quantum Density Intensity Resistance",
+      "symbol": "qdir",
+      "expression": "me / (λC^3 * Fq^3)"
+    },
+    "mrcr": {
+      "name": "Mass-Resonance Coupling Ratio",
+      "symbol": "mrcr",
+      "expression": "me / (λC^3 * Fq^2)"
+    },
+    "mfdr": {
+      "name": "Mass-Frequency Distribution Ratio",
+      "symbol": "mfdr",
+      "expression": "me / (λC^3 * Fq)"
+    },
+    "scir": {
+      "name": "Surface Charge Intensity Ratio",
+      "symbol": "scir",
+      "expression": "me / (λC^2 * Fq^3)"
+    },
+    "scoc": {
+      "name": "Surface Charge Orbital Coefficient",
+      "symbol": "scoc",
+      "expression": "me / (λC^2 * Fq^2)"
+    },
+    "sctf": {
+      "name": "Surface Charge Temporal Factor",
+      "symbol": "sctf",
+      "expression": "me / (λC^2 * Fq)"
+    },
+    "ldqr": {
+      "name": "Length Density Quantum Ratio",
+      "symbol": "ldqr",
+      "expression": "me / (λC * Fq^3)"
+    },
+    "ldoc": {
+      "name": "Length Density Orbital Coefficient",
+      "symbol": "ldoc",
+      "expression": "me / (λC * Fq^2)"
+    },
+    "ldtf": {
+      "name": "Length Density Temporal Factor",
+      "symbol": "ldtf",
+      "expression": "me / (λC * Fq)"
+    },
+    "qmir": {
+      "name": "Quantum Mass Intensity Resistance",
+      "symbol": "qmir",
+      "expression": "me / Fq^3"
+    },
+    "qmop": {
+      "name": "Quantum Mass Orbital Period",
+      "symbol": "qmop",
+      "expression": "me / Fq^2"
+    },
+    "qmtc": {
+      "name": "Quantum Mass Temporal Coefficient",
+      "symbol": "qmtc",
+      "expression": "me / Fq"
+    },
+    "qvod": {
+      "name": "Quantum Volume Oscillation Density",
+      "symbol": "qvod",
+      "expression": "Fq^3 * λC^3 / me"
+    },
+    "qagm": {
+      "name": "Quantum Aether Gravitational Mobility",
+      "symbol": "qagm",
+      "expression": "λC^3 * Fq^2 / me"
+    },
+    "qavm": {
+      "name": "Quantum Aether Volumetric Flux Mobility",
+      "symbol": "qavm",
+      "expression": "λC^3 * Fq / me"
+    },
+    "qasm": {
+      "name": "Quantum Aether Surface Oscillation Mobility",
+      "symbol": "qasm",
+      "expression": "λC^2 * Fq^3 / me"
+    },
+    "qatm": {
+      "name": "Quantum Aether Thermal Mobility",
+      "symbol": "qatm",
+      "expression": "λC^2 * Fq^2 / me"
+    },
+    "qaam": {
+      "name": "Quantum Aether Angular Mobility",
+      "symbol": "qaam",
+      "expression": "λC^2 * Fq / me"
+    },
+    "qadi": {
+      "name": "Quantum Aether Dynamic Intensity",
+      "symbol": "qadi",
+      "expression": "λC * Fq^3 / me"
+    },
+    "qadm": {
+      "name": "Quantum Aether Dynamic Mobility",
+      "symbol": "qadm",
+      "expression": "λC * Fq^2 / me"
+    },
+    "qamo": {
+      "name": "Quantum Aether Mobility",
+      "symbol": "qamo",
+      "expression": "λC * Fq / me"
+    },
+    "qvos": {
+      "name": "Quantum Volume Oscillation",
+      "symbol": "qvos",
+      "expression": "λC^3 * Fq^3"
+    },
+    "dtrd": {
+      "name": "Double Toroid or Volume Resonance",
+      "symbol": "dtrd",
+      "expression": "λC^3 * Fq^2"
+    },
+    "flow": {
+      "name": "Flow",
+      "symbol": "flow",
+      "expression": "λC^3 * Fq"
+    },
+    "volm": {
+      "name": "Volume",
+      "symbol": "volm",
+      "expression": "λC^3"
+    },
+    "qsfo": {
+      "name": "Quantum Surface Oscillation",
+      "symbol": "qsfo",
+      "expression": "λC^2 * Fq^3"
+    },
+    "temp": {
+      "name": "Temperature",
+      "symbol": "temp",
+      "expression": "λC^2 * Fq^2"
+    },
+    "swep": {
+      "name": "Sweep or Angular Velocity",
+      "symbol": "swep",
+      "expression": "λC^2 * Fq"
+    },
+    "area": {
+      "name": "Area",
+      "symbol": "area",
+      "expression": "λC^2"
+    },
+    "qdyf": {
+      "name": "Quantum Dynamic Frequency",
+      "symbol": "qdyf",
+      "expression": "λC * Fq^3"
+    },
+    "accl": {
+      "name": "Acceleration",
+      "symbol": "accl",
+      "expression": "λC * Fq^2"
+    },
+    "velc": {
+      "name": "Quantum Velocity",
+      "symbol": "velc",
+      "expression": "λC * Fq",
+      "shorthand": "c"
+    },
+    "qinf": {
+      "name": "Quantum Intensity Factor",
+      "symbol": "qinf",
+      "expression": "Fq^3"
+    },
+    "rson": {
+      "name": "Resonance",
+      "symbol": "rson",
+      "expression": "Fq^2"
+    },
+    "qvor": {
+      "name": "Quantum Volume Oscillation Resistance",
+      "symbol": "qvor",
+      "expression": "1 / (λC^3 * Fq^3)"
+    },
+    "invr": {
+      "name": "Inverse Volume Resonance",
+      "symbol": "invr",
+      "expression": "1 / (λC^3 * Fq^2)"
+    },
+    "vfdn": {
+      "name": "Volumetric Field Density",
+      "symbol": "vfdn",
+      "expression": "1 / (λC^3 * Fq)"
+    },
+    "fint": {
+      "name": "Field Intensity",
+      "symbol": "fint",
+      "expression": "1 / λC^3"
+    },
+    "qsfi": {
+      "name": "Quantum Surface Frequency Impedance",
+      "symbol": "qsfi",
+      "expression": "1 / (λC^2 * Fq^3)"
+    },
+    "qsin": {
+      "name": "Quantum Surface Intensity",
+      "symbol": "qsin",
+      "expression": "1 / (λC^2 * Fq^2)"
+    },
+    "sfrs": {
+      "name": "Surface Flux Resistance",
+      "symbol": "sfrs",
+      "expression": "1 / (λC^2 * Fq)"
+    },
+    "bndr": {
+      "name": "Bending Radius",
+      "symbol": "bndr",
+      "expression": "1 / λC^2"
+    },
+    "qdfr": {
+      "name": "Quantum Dynamic Frequency Resistance",
+      "symbol": "qdfr",
+      "expression": "1 / (λC * Fq^3)"
+    },
+    "morc": {
+      "name": "Momentum Resistance Coefficient",
+      "symbol": "morc",
+      "expression": "1 / (λC * Fq^2)"
+    },
+    "quid": {
+      "name": "Quantum Inertial Density",
+      "symbol": "quid",
+      "expression": "1 / (λC * Fq)"
+    },
+    "wavn": {
+      "name": "Wave Number",
+      "symbol": "wavn",
+      "expression": "1 / λC"
+    },
+    "qire": {
+      "name": "Quantum Intensity Resistance",
+      "symbol": "qire",
+      "expression": "1 / Fq^3"
+    },
+    "orbt": {
+      "name": "Orbit",
+      "symbol": "orbt",
+      "expression": "1 / Fq^2"
+    },
+    "time": {
+      "name": "Time",
+      "symbol": "time",
+      "expression": "1 / Fq"
+    },
+    "ovev": {
+      "name": "Orbital Volume Evolution",
+      "symbol": "ovev",
+      "expression": "λC^3 * Fq^3"
+    },
+    "voco": {
+      "name": "Volumetric Orbital Coherence",
+      "symbol": "voco",
+      "expression": "λC^3 * Fq^2"
+    },
+    "vlmt": {
+      "name": "Volume-Time",
+      "symbol": "vlmt",
+      "expression": "λC^3 * Fq"
+    },
+    "tafx": {
+      "name": "Temporal Area Flux",
+      "symbol": "tafx",
+      "expression": "λC^2 * Fq^3"
+    },
+    "atfx": {
+      "name": "Area-Time Flux",
+      "symbol": "atfx",
+      "expression": "λC^2 * Fq^2"
+    },
+    "acta": {
+      "name": "Active Area",
+      "symbol": "acta",
+      "expression": "λC^2 * Fq"
+    },
+    "hepl": {
+      "name": "Helical Path Length",
+      "symbol": "hepl",
+      "expression": "λC * Fq^3"
+    },
+    "qtrl": {
+      "name": "Quantum Trajectory Length",
+      "symbol": "qtrl",
+      "expression": "λC * Fq^2"
+    },
+    "dynl": {
+      "name": "Dynamic Length",
+      "symbol": "dynl",
+      "expression": "λC * Fq"
+    },
+    "voqo": {
+      "name": "Volumetric Quantum Oscillation",
+      "symbol": "voqo",
+      "expression": "Fq^3 / λC^3"
+    },
+    "vlmr": {
+      "name": "Volumetric Resonance",
+      "symbol": "vlmr",
+      "expression": "Fq^2 / λC^3"
+    },
+    "vlmw": {
+      "name": "Volumetric Wave Frequency",
+      "symbol": "vlmw",
+      "expression": "Fq / λC^3"
+    },
+    "tqod": {
+      "name": "Transverse Quantum Oscillation Density",
+      "symbol": "tqod",
+      "expression": "Fq^3 / λC^2"
+    },
+    "tvsr": {
+      "name": "Transverse Surface Resonance",
+      "symbol": "tvsr",
+      "expression": "Fq^2 / λC^2"
+    },
+    "tvsw": {
+      "name": "Transverse Surface Wave",
+      "symbol": "tvsw",
+      "expression": "Fq / λC^2"
+    },
+    "sqod": {
+      "name": "Scalar Quantum Oscillation Density",
+      "symbol": "sqod",
+      "expression": "Fq^3 / λC"
+    },
+    "sclr": {
+      "name": "Scalar Resonance",
+      "symbol": "sclr",
+      "expression": "Fq^2 / λC"
+    },
+    "sclw": {
+      "name": "Scalar Wave",
+      "symbol": "sclw",
+      "expression": "Fq / λC"
+    },
+    "eddy": {
+      "name": "Eddy Current",
+      "symbol": "eddy",
+      "expression": "mflx^2"
+    }
+  },
+  "measurement_units": {
+    "mass": {
+      "name": "Mass",
+      "symbol": "mass",
+      "expression": "me"
+    },
+    "leng": {
+      "name": "Length",
+      "symbol": "leng",
+      "expression": "λC"
+    },
+    "freq": {
+      "name": "Frequency",
+      "symbol": "freq",
+      "expression": "Fq"
+    },
+    "chrg": {
+      "name": "Charge",
+      "symbol": "chrg",
+      "expression": "eemax^2"
     }
   }
+}

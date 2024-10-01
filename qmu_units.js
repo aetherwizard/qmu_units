@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 
 class QMUUnit {
   constructor(name, symbol, expression = null, si_equivalent = null) {
@@ -7,6 +8,7 @@ class QMUUnit {
     this.expression = expression;
     this.si_equivalent = si_equivalent;
     this.base_units = this.parseExpression();
+    this.description = this.loadDescription();
   }
 
   parseExpression() {
@@ -39,6 +41,23 @@ class QMUUnit {
       Object.entries(base_units).filter(([_, value]) => value !== 0)
     );
   }
+
+  loadDescription() {
+    const descriptionPath = path.join(__dirname, 'unit_descriptions', `${this.symbol}.txt`);
+    if (fs.existsSync(descriptionPath)) {
+      const content = fs.readFileSync(descriptionPath, 'utf8').trim();
+      const startIndex = content.indexOf('## Description');
+      const endIndex = content.indexOf('##', startIndex + 1);
+      if (startIndex !== -1) {
+        if (endIndex !== -1) {
+          return content.slice(startIndex + 15, endIndex).trim();
+        } else {
+          return content.slice(startIndex + 15).trim();
+        }
+      }
+    }
+    return "No description available.";
+  }
 }
 
 class QMUDatabase {
@@ -48,14 +67,21 @@ class QMUDatabase {
   }
 
   loadUnits() {
-    const data = JSON.parse(fs.readFileSync('qmu_units_data.json', 'utf8'));
+    const data = JSON.parse(fs.readFileSync(path.join(__dirname, 'qmu_units_data.json'), 'utf8'));
     
+    // Load base units
     for (const [symbol, unit] of Object.entries(data.base_units)) {
       this.units[symbol] = new QMUUnit(unit.name, symbol, null, unit.si_equivalent);
     }
 
+    // Load derived units
     for (const [symbol, unit] of Object.entries(data.derived_units)) {
-      this.units[symbol] = new QMUUnit(unit.name, symbol, unit.expression, unit.si_equivalent);
+      this.units[symbol] = new QMUUnit(unit.name, symbol, unit.expression, unit.si_equivalent, unit.shorthand);
+    }
+
+    // Load measurement units
+    for (const [symbol, unit] of Object.entries(data.measurement_units)) {
+      this.units[symbol] = new QMUUnit(unit.name, symbol, unit.expression);
     }
   }
 
@@ -66,6 +92,23 @@ class QMUDatabase {
   getAllUnits() {
     return this.units;
   }
-}
 
+  getBaseUnits() {
+    return Object.fromEntries(
+      Object.entries(this.units).filter(([_, unit]) => !unit.expression)
+    );
+  }
+
+  getDerivedUnits() {
+    return Object.fromEntries(
+      Object.entries(this.units).filter(([_, unit]) => unit.expression && !data.measurement_units[unit.symbol])
+    );
+  }
+
+  getMeasurementUnits() {
+    return Object.fromEntries(
+      Object.entries(this.units).filter(([symbol, _]) => data.measurement_units[symbol])
+    );
+  }
+}
 module.exports = { QMUUnit, QMUDatabase };
