@@ -1,0 +1,41 @@
+{
+    "base_units": {
+      "me": {
+        "name": "Electron mass",
+        "symbol": "me",
+        "si_equivalent": "9.1093837015e-31 kg"
+      },
+      "λC": {
+        "name": "Compton wavelength",
+        "symbol": "λC",
+        "si_equivalent": "2.42631023867e-12 m"
+      },
+      "Fq": {
+        "name": "Quantum frequency",
+        "symbol": "Fq",
+        "si_equivalent": "1.23558996e20 Hz"
+      },
+      "eemax": {
+        "name": "Electron magnetic charge",
+        "symbol": "eemax",
+        "si_equivalent": "1.60217663e-19 C"
+      }
+    },
+    "derived_units": {
+      "ligt": {
+        "name": "Light",
+        "symbol": "ligt",
+        "expression": "me * λC^3 * Fq^3"
+      },
+      "phtn": {
+        "name": "Photon",
+        "symbol": "phtn",
+        "expression": "me * λC^3 * Fq^2"
+      },
+      "powr": {
+        "name": "Power",
+        "symbol": "powr",
+        "expression": "me * λC^2 * Fq^3"
+      }
+    }
+  }
