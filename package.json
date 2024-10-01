@@ -1,0 +1,23 @@
+{
+  "name": "qmu_project",
+  "version": "1.0.0",
+  "description": "Quantum Measurement Units (QMU) calculator. # QMU Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aetherwizard/qmu_units.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aetherwizard/qmu_units/issues"
+  },
+  "homepage": "https://github.com/aetherwizard/qmu_units#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
