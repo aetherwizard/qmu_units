@@ -21,10 +21,16 @@ class QMUUnit {
         return { [this.symbol]: 1 };
       }
       
-      // Implement expression parsing logic here
-      // This will be more complex in JS and may require a parsing library
+      const baseUnits = {};
+      const parts = this.expression.split('*');
       
-      return {}; // Placeholder
+      for (let part of parts) {
+        part = part.trim();
+        const [unit, power] = part.split('^');
+        baseUnits[unit] = (baseUnits[unit] || 0) + (power ? parseInt(power) : 1);
+      }
+      
+      return baseUnits;
     }
   
     toString() {
