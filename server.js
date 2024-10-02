@@ -1,8 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const fs = require('fs');
 const path = require('path');
-const { QMUDatabase } = require('./qmu_units');
+const { QMUDatabase, QMUUnit, QMUQuantity } = require('./qmu_units');
 
 const app = express();
 const port = 3000;
@@ -12,72 +11,75 @@ app.use(express.static('public'));
 
 const db = new QMUDatabase();
 
-function updateUnitData(oldSymbol, newData) {
-  const dataPath = path.join(__dirname, 'qmu_units_data.json');
-  let qmuData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-
-  let unitCategory = qmuData.base_units[oldSymbol] ? 'base_units' : 'derived_units';
-
-  delete qmuData[unitCategory][oldSymbol];
-  qmuData[unitCategory][newData.symbol] = {
-    name: newData.name,
-    symbol: newData.symbol,
-    expression: newData.expression,
-    si_equivalent: newData.si_equivalent,
-    shorthand: newData.shorthand
-  };
-
-  fs.writeFileSync(dataPath, JSON.stringify(qmuData, null, 2));
-
-  if (oldSymbol !== newData.symbol) {
-    const oldPath = path.join(__dirname, 'unit_descriptions', `${oldSymbol}.txt`);
-    const newPath = path.join(__dirname, 'unit_descriptions', `${newData.symbol}.txt`);
-    fs.renameSync(oldPath, newPath);
+app.post('/solve', (req, res) => {
+  console.log('Received solve request:', req.body);
+  const { equation } = req.body;
+  if (!equation) {
+    console.error('No equation provided in request');
+    return res.status(400).json({ error: 'No equation provided' });
   }
-
-  // Update the description file content
-  const descriptionPath = path.join(__dirname, 'unit_descriptions', `${newData.symbol}.txt`);
-  const descriptionContent = `# Unit: ${newData.name}\n\n## Description\n${newData.description}\n`;
-  fs.writeFileSync(descriptionPath, descriptionContent);
-
-  // Reload the QMUDatabase to reflect changes
-  db.loadUnits();
-}
-
-app.get('/api/units', (req, res) => {
-  res.json(Object.values(db.getAllUnits()).map(unit => ({
-    symbol: unit.symbol,
-    name: unit.name
-  })));
-});
-
-app.get('/api/unit/:symbol', (req, res) => {
-  const unit = db.getUnit(req.params.symbol);
-  if (unit) {
-    res.json({
-      symbol: unit.symbol,
-      name: unit.name,
-      description: unit.description,
-      expression: unit.expression,
-      si_equivalent: unit.si_equivalent,
-      shorthand: unit.shorthand
-    });
-  } else {
-    res.status(404).json({ error: 'Unit not found' });
-  }
-});
-
-app.post('/api/unit/:symbol', (req, res) => {
-  const oldSymbol = req.params.symbol;
-  const newData = req.body;
-
   try {
-    updateUnitData(oldSymbol, newData);
-    res.json({ success: true, message: 'Unit updated successfully' });
+    const result = solveEquation(equation, db);
+    console.log('Equation solved:', result);
+    res.json({ result });
   } catch (error) {
-    res.status(500).json({ success: false, message: 'Failed to update unit', error: error.message });
+    console.error('Error solving equation:', error);
+    res.status(400).json({ error: error.message });
   }
 });
+
+function solveEquation(equation, db) {
+  const parts = equation.replace(/\s+/g, '').split(/([+\-*/=])/);
+  let result = null;
+  let operation = null;
+
+  for (let part of parts) {
+    if (part === '=') break;
+    if (part === '*' || part === '/' || part === '+' || part === '-') {
+      operation = part;
+    } else if (part.trim() !== '') {
+      const match = part.match(/(-?\d*\.?\d+)?(\D+)/);
+      if (!match) {
+        throw new Error(`Invalid part in equation: ${part}`);
+      }
+      const [_, value, unitSymbol] = match;
+      const unit = db.getUnit(unitSymbol);
+      if (!unit) {
+        throw new Error(`Unknown unit: ${unitSymbol}`);
+      }
+
+      const numericValue = value ? parseFloat(value) : 1;
+      const currentQuantity = new QMUQuantity(numericValue, unit);
+
+      if (result === null) {
+        result = currentQuantity;
+      } else {
+        switch (operation) {
+          case '*':
+            result = result.multiply(currentQuantity);
+            break;
+          case '/':
+            result = result.divide(currentQuantity);
+            break;
+          case '+':
+            result = result.add(currentQuantity);
+            break;
+          case '-':
+            result = result.subtract(currentQuantity);
+            break;
+          default:
+            throw new Error(`Invalid operation: ${operation}`);
+        }
+      }
+    }
+  }
+
+  if (!result) {
+    throw new Error('Invalid equation');
+  }
+
+  return `${result.value} ${result.unit.symbol}`;
+}
 
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);

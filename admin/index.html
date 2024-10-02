@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QMU Unit Description Editor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="app">
+        <h1>QMU Unit Description Editor</h1>
+        <div id="unit-selector">
+            <input list="unit-list" id="unit-search" placeholder="Search for a unit...">
+            <datalist id="unit-list"></datalist>
+        </div>
+        <div id="editor">
+            <label for="unit-name">Name:</label>
+            <input type="text" id="unit-name">
+
+            <label for="unit-symbol">Symbol:</label>
+            <input type="text" id="unit-symbol">
+
+            <label for="unit-expression">Expression:</label>
+            <input type="text" id="unit-expression">
+
+            <label for="unit-si-equivalent">SI Equivalent:</label>
+            <input type="text" id="unit-si-equivalent">
+
+            <label for="unit-shorthand">Shorthand:</label>
+            <input type="text" id="unit-shorthand">
+
+            <label for="description">Description:</label>
+            <textarea id="description" rows="10" cols="50"></textarea>
+
+            <button id="save-btn">Save</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

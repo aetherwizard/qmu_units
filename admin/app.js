@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentUnit = null;
 
     function loadUnits() {
-        fetch('/api/units')
+        fetch('/admin/api/units')
             .then(response => response.json())
             .then(units => {
                 unitList.innerHTML = units.map(unit =>
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function loadUnit(symbol) {
-        fetch(`/api/unit/${symbol}`)
+        fetch(`/admin/api/unit/${symbol}`)
             .then(response => response.json())
             .then(unit => {
                 currentUnit = unit;
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 description: description.value
             };
 
-            fetch(`/api/unit/${currentUnit.symbol}`, {
+            fetch(`/admin/api/unit/${currentUnit.symbol}`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
