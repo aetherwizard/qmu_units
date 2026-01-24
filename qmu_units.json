@@ -109,7 +109,7 @@
     "name": "Exposure",
     "expression": "eemax^2 / me"
   },
-  "cdns": {
+  "cden": {
     "name": "Conductance Density",
     "expression": "eemax^2 / (λC^2 * Fq)"
   },
